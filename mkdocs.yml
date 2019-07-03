@@ -1,0 +1,11 @@
+site_name: osparc.io manual
+repo_name: 'GitHub'
+repo_url: https://github.com/ITISFoundation/osparc-manual
+edit_uri: edit/master/docs
+docs_dir: './docs'
+site_description: 'Some detailed description of site HERE'
+site_author: "Foundation for Research on Information Technologies in Society (IT'IS)"
+nav:
+  - Home: 'index.md'
+
+theme: readthedocs
