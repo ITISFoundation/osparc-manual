@@ -10,7 +10,8 @@ serve: ## serves website in http://127.0.0.1:8000
 	docker run -it -v $(CURDIR):/usr/app -p 8000:8000 mkdocs
 
 site: ## creates /site folder with website
-	docker run -it -v $(CURDIR):/usr/app -u ${UID} mkdocs build
+	#docker run -it -v $(CURDIR):/usr/app -u ${UID} mkdocs build
+	docker run -it -v $(CURDIR):/usr/app mkdocs build
 
 clean: ## removes website folder
 	rm -rf site
@@ -21,7 +22,7 @@ sync: ## syncs your fork with main repo (upstream)
 	git fetch upstream
 	git merge upstream/master
 	git checkout ${CURRENT_BRANCH}
-	git merge master
+	git merge master	
 
 setup: ## first time setup (ONLY use after fork)
 	git remote add upstream git@github.com:ITISFoundation/osparc-manual.git
