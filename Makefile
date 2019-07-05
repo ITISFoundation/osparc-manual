@@ -1,4 +1,4 @@
-.PHONY: build serve clean
+.PHONY: build serve clean sync setup
 
 UID:=$(shell stat -c %u $(CURDIR))
 
@@ -13,3 +13,9 @@ site:
 
 clean:
 	rm -rf site
+
+sync: # syncs your fork with main repo (upstream)
+	git checkout master
+	git pull
+	git fetch upstream
+	git merge upstream/master
