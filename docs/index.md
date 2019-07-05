@@ -12,6 +12,13 @@ Alt-H1
 
 Alt-H2
 
+
+
+$\int_0^1\sin(x)$
+
+
+
+
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
 Strong emphasis, aka bold, with **asterisks** or __underscores__.
