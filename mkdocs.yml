@@ -7,5 +7,7 @@ site_description: 'Some detailed description of site HERE'
 site_author: "Foundation for Research on Information Technologies in Society (IT'IS)"
 nav:
   - Home: 'index.md'
+  - Modeling:
+    - vip: 'vip/something.md'
 
 theme: readthedocs
