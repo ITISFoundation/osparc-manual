@@ -2,10 +2,10 @@
 
 >>> user documentation for [osparc.io]
 
-- simulator
+<!-- - simulator
 - keyword 2
 - keyword 3
-- keyword 4
+- keyword 4 -->
 
 [Get Started](#osparc)
 
