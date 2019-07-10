@@ -3,10 +3,18 @@
 UID:=$(shell stat -c %u $(CURDIR))
 CURRENT_BRANCH:=$(shell git branch | grep \* | cut -d ' ' -f2)
 
+
+install:
+	npm i docsify-cli -g
+serve:
+	docsify serve .
+
+
+
 build: ## builds tools
 	docker build -t mkdocs .
 
-serve: ## serves mkdocs built website in http://127.0.0.1:8000
+mkdocserve: ## serves mkdocs built website in http://127.0.0.1:8000
 	@echo "Served in http://127.0.0.1:8000/"
 	docker run -it -v $(CURDIR):/usr/app -p 8000:8000 mkdocs
 
