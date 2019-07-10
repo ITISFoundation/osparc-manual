@@ -1,13 +1,12 @@
-![logo](_media/osparc-logo.svg ':size=500%')
+![logo](_media/osparc-logo.svg ':size=400')
 
->>> [osparc.io] documentation
+>>> user documentation for [osparc.io]
 
 - simulator
 - keyword 2
 - keyword 3
 - keyword 4
 
-[osparc.io]
 [Get Started](#osparc)
 
 

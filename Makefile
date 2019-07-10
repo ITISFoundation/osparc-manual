@@ -6,7 +6,7 @@ CURRENT_BRANCH:=$(shell git branch | grep \* | cut -d ' ' -f2)
 
 install:
 	npm i docsify-cli -g
-serve:
+show:
 	docsify serve .
 
 
