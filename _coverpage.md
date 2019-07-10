@@ -1,4 +1,4 @@
-![logo](_media/osparc-logo.svg)
+![logo](_media/osparc-logo.svg ':size=500%')
 
 >>> [osparc.io] documentation
 
@@ -7,8 +7,8 @@
 - keyword 3
 - keyword 4
 
+[osparc.io]
 [Get Started](#osparc)
 
-![color](#ffffff)
 
 [osparc.io]:https://osparc.io
