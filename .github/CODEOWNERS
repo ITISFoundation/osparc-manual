@@ -1,0 +1,6 @@
+*.py         @pcrespov
+*.md         @drniiken
+Makefile     @pcrespov
+
+/tools/      @pcrespov
+/docs/       @drniiken
