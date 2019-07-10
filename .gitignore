@@ -1,2 +1,5 @@
 # mkdocs output
 site
+
+.venv
+__pycache__
