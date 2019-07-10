@@ -41,6 +41,9 @@ class Node:
       return self.parent.path() / self.name
     return Path(self.name)
 
+  def npath(self):
+    return Path(re.sub(r'[^a-z0-9:/]', "_", str(self.path()).lower()))
+
   def __repr__(self):
     return " "*self.generation + self.name \
       + " (" + self.parent.name + ")"
@@ -58,21 +61,23 @@ def main():
         node = root.add_node(name, generation)
         nodes.append(node)
 
-  with open(base / "_sidebar.md", 'wt') as fh:
+  with open(repo_dir / "_sidebar.md", 'wt') as fh:
+    print("<!-- _sidebar.md -->\n\n", file=fh)
     for n in nodes:
       print(n)
       tab = "  "*n.generation
       if n.children:
-        os.makedirs(repo_dir / n.path(), exist_ok=True)
-        md_path = n.path()
+        os.makedirs(repo_dir / n.npath(), exist_ok=True)
+        md_path = n.npath()
+        print(f"{tab}* {n.name}", file=fh)
       else:
-        md_path = repo_dir / n.path().with_suffix(".md")
+        md_path = repo_dir / n.npath().with_suffix(".md")
         os.makedirs(md_path.parent, exist_ok=True)
         with open(md_path, 'wt') as fp:
           print("# " + n.name, file=fp)
-        md_path = n.path().with_suffix(".md")
+        md_path = n.npath().with_suffix(".md")
       
-      print(f"{tab}- [{n.name}]:(/{md_path})", file=fh)
+        print(f"{tab}* [{n.name}](/{md_path})", file=fh)
 
 
 if __name__ == "__main__":
