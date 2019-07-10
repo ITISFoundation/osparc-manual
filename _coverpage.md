@@ -1,4 +1,4 @@
-![logo](_media/logo.svg)
+![logo](_media/osparc-logo.svg)
 
 >>> [osparc.io] documentation
 
