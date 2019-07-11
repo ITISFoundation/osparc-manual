@@ -1,4 +1,4 @@
-.PHONY: install show public help
+.PHONY: install show public help sync
 
 UID:=$(shell stat -c %u $(CURDIR))
 CURRENT_BRANCH:=$(shell git branch | grep \* | cut -d ' ' -f2)
@@ -9,7 +9,7 @@ install: ## one time installation
 show: ## serves website locally in http://localhost:3000/
 	docsify serve .
 
-public: ## pushes to main repo and publishes website
+public: sync ## pushes to main repo and publishes website
 	git push
 
 sync: ## updates current repository with latest changes in github
