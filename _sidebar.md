@@ -34,7 +34,7 @@
     * [Refresh & Retrieve](/docs/platform_introduction/workbench/refresh___retrieve.md)
   * Service Catalog & Types
     * [Data](/docs/platform_introduction/service_catalog___types/data.md)
-    * [Modeling](/docs/platform_introduction/service_catalog___types/modeling.md)
+    * [**Modeling**](/docs/platform_introduction/service_catalog___types/modeling.md)
     * [Solver](/docs/platform_introduction/service_catalog___types/solver.md)
     * [Postpro](/docs/platform_introduction/service_catalog___types/postpro.md)
     * [Notebook](/docs/platform_introduction/service_catalog___types/notebook.md)
