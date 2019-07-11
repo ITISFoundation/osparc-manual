@@ -1,7 +1,7 @@
 <!-- _sidebar.md -->
 
-* [Welcome](/)
-  * [Background](/docs/welcome/background.md)
+* [**Welcome**](/)
+  * [**Background**](/docs/welcome/background.md)
   * [What is oSPARC](/docs/welcome/what_is_osparc.md)
   * [Vision](/docs/welcome/vision.md)
 * Platform Introduction

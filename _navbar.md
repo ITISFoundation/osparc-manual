@@ -3,6 +3,18 @@
 <!-- * [En](/)
 * [Es](/es-ES/) -->
 
-* [IT'IS](https://itis.swiss/)
-* [NIH](https://www.nih.gov)
-* [SPARC](https://commonfund.nih.gov/Sparc/)
+* NIH/SPARC
+  
+  * [NIH](https://www.nih.gov)
+  * [SPARC](https://commonfund.nih.gov/Sparc/)
+
+* DRC
+  
+  * [IT'IS](https://itis.swiss/)
+  * [Blackfynn](https://www.blackfynn.com)
+  * [Auckland](https://www.auckland.ac.nz/en.html)
+
+* Partners
+  
+  * [ETHZ](https://ethz.ch/)
+  * [ZMT](https://www.zmt.swiss)
