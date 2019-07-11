@@ -2,10 +2,10 @@
 
 * [**Welcome**](/)
   * [**Background**](/docs/welcome/background.md)
-  * [What is oSPARC](/docs/welcome/what_is_osparc.md)
-  * [Vision](/docs/welcome/vision.md)
+  * [**What is oSPARC**](/docs/welcome/what_is_osparc.md)
+  <!-- * [Vision](/docs/welcome/vision.md) -->
 * Platform Introduction
-  * [Overview](/docs/platform_introduction/overview.md)
+  * [**Overview**](/docs/platform_introduction/overview.md)
   * Core Elements
     * [Dashboard](/docs/platform_introduction/core_elements/dashboard.md)
     * [Workbench](/docs/platform_introduction/core_elements/workbench.md)
