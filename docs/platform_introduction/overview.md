@@ -19,7 +19,10 @@ Within this overview section we'd like to get you familiar with the core element
     *The o<sup>2</sup>S<sup>2</sup>PARC Workbench. Here you can setup your service-pipelines and studies, prepare models for simulation, specify simulation setups, visualize (post-process) your simulation results and much more.*
 
 * **Studies** <br/>
-  ...
+  
+
+
+  
 
 * **Services** <br/>
   ...
