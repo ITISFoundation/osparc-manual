@@ -6,7 +6,7 @@ The flow chart is the format in which you can construct your studies. These are 
 *The Flowchart window in o<sup>2</sup>S<sup>2</sup>PARC*
 
 Services that take input or provide output will be labeled as such. To connect compatible services, you can click on a service output and drag towards the appropriate input of the successive service. Alternatively, you may drag from the input of a service to the preceding service’s output.
-
+ 
 ![disconnect_nodes](https://user-images.githubusercontent.com/32800795/61332254-1bc9a680-a824-11e9-8892-85356bba931a.gif) <br/>
 *Connecting services in the Flowchart window.*
 
