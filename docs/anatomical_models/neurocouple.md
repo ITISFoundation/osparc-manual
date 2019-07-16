@@ -4,6 +4,9 @@ One of the core elements of the platform is a set of novel neuro- and physiology
 
 The Computable Virtual Population V4.0 and V3.x (cViP) models are high-end high-resolution posable whole-body models for biophysical and biomedical modelling and simulation, including medical implant safety assessments.
 
+![Jeduk_nik1](https://user-images.githubusercontent.com/32800795/61337517-fd6ca680-a835-11e9-86d3-ef93a2f6add5.png) <br/>
+*Korean male ViP model Jeduk V3.1: Illustration of detailed muscles, internal organs, the peripheral nervous system, and circulatory system trees (from left to right)*
+
 These V3.x models include more than 120 anatomical features and more than 300 tissues all together. The exhaustive list of tissues currently included is available for download. The recently released V4.0 model has more than  separate 1000 tissue regions, including about 240 peripheral nerve structures.
 
 The CAD format of the organs allows meshing at arbitrary resolution without loss of detail and small features due to repeated sampling.
