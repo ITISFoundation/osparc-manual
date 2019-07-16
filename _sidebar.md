@@ -27,21 +27,23 @@
       * [Security Details](/docs/platform_introduction/main_window_and_navigation/user_setup___preferences/security_details.md)
     * [Filtering](/docs/platform_introduction/main_window_and_navigation/filtering.md)
   * Workbench
-    * [Navigation](/docs/platform_introduction/workbench/navigation.md)
-    * [Flowchart](/docs/platform_introduction/workbench/flowchart.md)
-    * [Service Tree](/docs/platform_introduction/workbench/service_tree.md)
-    * [Logger](/docs/platform_introduction/workbench/logger.md)
-    * [Refresh & Retrieve](/docs/platform_introduction/workbench/refresh___retrieve.md)
-  * Service Catalog & Types
-    * [Data](/docs/platform_introduction/service_catalog___types/data.md)
+    * [**Navigation**](/docs/platform_introduction/workbench/navigation.md)
+    * [**Flowchart**](/docs/platform_introduction/workbench/flowchart.md)
+    * [**Service Tree**](/docs/platform_introduction/workbench/service_tree.md)
+    * [**Study Information**](/docs/platform_introduction/workbench/study_information.md)
+    * [**Logger**](/docs/platform_introduction/workbench/logger.md)
+    * [**Retrieve & Run**](/docs/platform_introduction/workbench/refresh___retrieve.md)
+  * [**Service Catalog & Types**](/docs/platform_introduction/service_catalog___types/service_types.md)
+    <!-- * [Service Types](/docs/platform_introduction/service_catalog___types/service_types.md) -->
+    <!-- * [Data](/docs/platform_introduction/service_catalog___types/data.md)
     * [**Modeling**](/docs/platform_introduction/service_catalog___types/modeling.md)
     * [Solver](/docs/platform_introduction/service_catalog___types/solver.md)
     * [Postpro](/docs/platform_introduction/service_catalog___types/postpro.md)
-    * [Notebook](/docs/platform_introduction/service_catalog___types/notebook.md)
+    * [Notebook](/docs/platform_introduction/service_catalog___types/notebook.md) -->
 * Anatomical Models
   * [Virtual Family](/docs/anatomical_models/virtual_family.md)
-  * [NeuroCouple](/docs/anatomical_models/neurocouple.md)
-  * [Future: 3D EM-Neuro Stimulation Simulation](/docs/anatomical_models/future:_3d_em_neuro_stimulation_simulation.md)
+  * [**NeuroCouple**](/docs/anatomical_models/neurocouple.md)
+  <!-- * [Future: 3D EM-Neuro Stimulation Simulation](/docs/anatomical_models/future:_3d_em_neuro_stimulation_simulation.md) -->
 * Setting Up & Running a Study
   * Loading Data
     * [Submitting & Retrieving Files](/docs/setting_up___running_a_study/loading_data/submitting___retrieving_files.md)
