@@ -1,5 +1,5 @@
 # Service Types
-
+ 
 When adding a new service, the Service Catalog will pop up, allowing you to select from a pre-existing menu of service types. 
 
 ![Screenshot 2019-07-17 at 00 22 39](https://user-images.githubusercontent.com/32800795/61334023-1884e980-a829-11e9-9f66-fdde0ceaed5d.png) <br/>
