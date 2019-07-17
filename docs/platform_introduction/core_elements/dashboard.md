@@ -14,11 +14,15 @@ The Dashboard is your personal landing page when you log into your o<sup>2</sup>
    The menu tabs give you quick access to a set of core elements of the platform, namely the Studies, the Services and the Data. We will go into more details about these terms within dedicated parts of the manual.
 
 3. **My Studies** <br/>
-   In this section you'll find your personal (and private) studies ... <br/>
-    Clicking on the (+) button allow you to setup a new study from scratch.
+   In this section you'll find your personal (and private) studies which you have previously setup and which have been stored in the database. These are only accessible by you. Clicking (single click) on one of these studies will show more details, double clicking will get you into the study itself.<br/>
+   
+   Clicking on the (+) button allow you to setup a new study from scratch.
+
+    ![Screenshot 2019-07-17 at 12 48 42](https://user-images.githubusercontent.com/32800795/61369857-53bb0300-a891-11e9-94d9-460ad5b69dce.png)
+    *Setting up a fresh study via the "New Study" button.*
 
 4. **Template Studies** <br/>
-    ...
+   Here you'll find 
 
 5. **Account Details** <br/>
     ...
