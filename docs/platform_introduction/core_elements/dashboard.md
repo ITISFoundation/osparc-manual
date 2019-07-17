@@ -22,12 +22,20 @@ The Dashboard is your personal landing page when you log into your o<sup>2</sup>
     *Setting up a fresh study via the "New Study" button.*
 
 4. **Template Studies** <br/>
-   Here you'll find 
+   Here you'll find a set of pre-defined studies which are templated for the user. The initial number of studies which has been primarily assembled for the ISAN conference portal roll out, covers an interesting range of applications - working with 3D models, processing simulations, handling data and doing analysis/postrprocessing.
+
+   Single or double clicking on one of the template studies will show more information or initiate the generation of a new study by applying the chosen template. The new study will then be added to the "My Studies" section.
 
 5. **Account Details** <br/>
-    ...
+    In the account details you'll find the preferences for your account as well as information about the software version and a link to this user manual document. In addition, you can logout from there.
+
+![Screenshot 2019-07-17 at 17 12 15](https://user-images.githubusercontent.com/32800795/61387267-1cab1880-a8b6-11e9-974e-22620a20bbc8.png)
+*Account details for the current user which can be accessed by clicking on the user icon in the top right corner.*
+
 
 6. **Reporting of Issues** <br/>
-    ...
+    Users can open a support ticket from within the platform directly generating an issue in github, which will then flow into our development backlog. For this, you need to have a github account.
+
+    In addition, we are providing direct ways of leaving feedback to users, e.g., via a google doc.
 
 Having outlined the different parts of the dashboard, we're now ready to look into the concept of the [Workbench](/docs/platform_introduction/core_elements/workbench.md).
