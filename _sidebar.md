@@ -60,8 +60,8 @@
   * [Matt Ward](/docs/isan_studies___tutorials/matt_ward.md)
 * Sim4Life
   * [What is Sim4Life](/docs/sim4life/what_is_sim4life.md)
-* [Technical Requirements, Specs](/docs/technical_requirements__specs.md)
+<!-- * [Technical Requirements, Specs](/docs/technical_requirements__specs.md) -->
 * [**FAQ**](/docs/faq.md)
 * [**Help & Support**](/docs/help___support.md)
-* [Glossary](/docs/glossary.md)
+<!-- * [Glossary](/docs/glossary.md) -->
 * [**License**](/docs/license.md)
