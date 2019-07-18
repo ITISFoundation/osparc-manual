@@ -11,7 +11,7 @@
   * Core Elements
     * [**Dashboard**](/docs/platform_introduction/core_elements/dashboard.md)
     * [**Workbench**](/docs/platform_introduction/core_elements/workbench.md)
-    * [Studies](/docs/platform_introduction/core_elements/studies.md)
+    * [**Studies**](/docs/platform_introduction/core_elements/studies.md)
     * [Services](/docs/platform_introduction/core_elements/services.md)
   * Main Window, Navigation
     * Studies

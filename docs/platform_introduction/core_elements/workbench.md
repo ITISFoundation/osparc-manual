@@ -14,6 +14,6 @@ Within the workbench you can:
 * and much more ...
 
 ![Screenshot 2019-07-18 at 18 07 17](https://user-images.githubusercontent.com/32800795/61473588-f6a17900-a986-11e9-8840-a3d19c2ac2c9.png)<br/>
-*The Workbench within the o<sup>2</sup>S<sup>2</sup>PARC framework.*
+*The central Workbench within the o<sup>2</sup>S<sup>2</sup>PARC framework.*
 
 The workbench, its different elements and its usage is explaned in detail within a dedicated [section](/docs/platform_introduction/workbench/navigation.md).
