@@ -13,7 +13,7 @@
     * [Workbench](/docs/platform_introduction/core_elements/workbench.md)
     * [Studies](/docs/platform_introduction/core_elements/studies.md)
     * [Services](/docs/platform_introduction/core_elements/services.md)
-  * Main Window and Navigation
+  * Main Window, Navigation
     * Studies
       * [My Studies](/docs/platform_introduction/main_window_and_navigation/studies/my_studies.md)
       * [Template Studies](/docs/platform_introduction/main_window_and_navigation/studies/template_studies.md)
@@ -47,13 +47,13 @@
   * [**NeuroCouple**](/docs/anatomical_models/neurocouple.md)
   <!-- * [Future: 3D EM-Neuro Stimulation Simulation](/docs/anatomical_models/future:_3d_em_neuro_stimulation_simulation.md) -->
 * Setting Up & Running a Study
-  * Loading Data
-    * [Submitting & Retrieving Files](/docs/setting_up___running_a_study/loading_data/submitting___retrieving_files.md)
-  * [Connecting Services](/docs/setting_up___running_a_study/connecting_services.md)
-  * [Running a Model/Simulation](/docs/setting_up___running_a_study/running_a_model/simulation.md)
-  * Postprocessing & Analysis
-    * [Postpro Viewer Types](/docs/setting_up___running_a_study/postprocessing___analysis/postpro_viewer_types.md)
-  * [Jupyter Notebooks](/docs/setting_up___running_a_study/jupyter_notebooks.md)
+  * Data & File Handling
+    * [**Loading Data**](/docs/setting_up___running_a_study/loading_data/loading_data.md)
+    * [**Submitting & Retrieving Files**](/docs/setting_up___running_a_study/loading_data/submitting___retrieving_files.md)
+  * [**Connecting Services**](/docs/setting_up___running_a_study/connecting_services.md)
+  * [**Running a Simulation**](/docs/setting_up___running_a_study/running_a_model/simulation.md)
+  * [**Postprocessing & Analysis**](/docs/setting_up___running_a_study/postprocessing___analysis/postpro_viewer_types.md)
+  * [**Jupyter Notebooks**](/docs/setting_up___running_a_study/jupyter_notebooks.md)
 * ISAN Studies & Tutorials
   * [UC Davies](/docs/isan_studies___tutorials/uc_davies.md)
   * [2D Plot](/docs/isan_studies___tutorials/2d_plot.md)
