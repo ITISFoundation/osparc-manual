@@ -1,4 +1,4 @@
-# UC Davies
+# UC Davis
 
 The multi-scale cardiac electrophysiology services from UC Davis provide a computational workflow for the integration and implementation of a reusable and reproducible cardiac multi-scale electrophysiology model. The workflow integrates multistep single-cell, 1D and 2D model simulations in a single automated process. The model formulation for ventricular cells from rabbit Soltis-Saucerman (1), and human Grandi-Bers (2) are implemented in the workflow.  Both models contain beta-adrenergic signaling pathways, and the firing rate model (unpublished Lewis model).
 
