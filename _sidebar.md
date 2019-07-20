@@ -24,7 +24,7 @@
       * Cloud Storage Types
         * [SimCore S3](/docs/platform_introduction/main_window_and_navigation/data/cloud_storage_types/simcore_s3.md)
         * [DatCore](/docs/platform_introduction/main_window_and_navigation/data/cloud_storage_types/datcore.md)
-    * User Setup & Preferences
+    * User Preferences
       * [Profile](/docs/platform_introduction/main_window_and_navigation/user_setup___preferences/profile.md)
       * [Security Details](/docs/platform_introduction/main_window_and_navigation/user_setup___preferences/security_details.md)
     * [Filtering](/docs/platform_introduction/main_window_and_navigation/filtering.md)
@@ -57,7 +57,10 @@
 * ISAN Studies & Tutorials
   * [**UC Davies**](/docs/isan_studies___tutorials/uc_davies.md)
   * [**2D Plot**](/docs/isan_studies___tutorials/2d_plot.md)
-  * [Matt Ward](/docs/isan_studies___tutorials/matt_ward.md)
+  * [**Matt Ward**](/docs/isan_studies___tutorials/matt_ward.md)
+  * [**Anatomical Model Viewer**](/docs/isan_studies___tutorials/anatomical_viewer.md)
+  * [**OpenCor**](/docs/isan_studies___tutorials/opencor.md)
+
 * Sim4Life
   * [**What is Sim4Life**](/docs/sim4life/what_is_sim4life.md)
 <!-- * [Technical Requirements, Specs](/docs/technical_requirements__specs.md) -->
