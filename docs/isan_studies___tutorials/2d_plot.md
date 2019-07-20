@@ -52,3 +52,9 @@ To start, we will drag the “Sequence” variable into the “Size” field. Th
 To separate genes by color, click and drag the variable “genes” into the “Color” field. The “Hierarchy” field accepts multiple inputs for subgrouping data.  You can now try subgrouping by experimental condition by dragging condsallvec under “genes” in the Hierarchy field. This will create a new layer in the circle plot.
 
 ![2dplot_options](https://user-images.githubusercontent.com/32800795/61495379-2c5f5580-a9b9-11e9-99b6-6f7acc755de5.JPG)
+
+You should now have a plot that looks like the following:
+
+![2Dplot_final](https://user-images.githubusercontent.com/32800795/61584878-ceb14180-ab4f-11e9-90f3-d4c2199d23be.JPG ':size=550%')
+
+Feel free to display different variables and explore the data with other plot types in RAW Graphs!
