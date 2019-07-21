@@ -14,9 +14,9 @@
     * [Studies](/docs/platform_introduction/core_elements/studies.md)
     * [Services](/docs/platform_introduction/core_elements/services.md)
   * Main Window, Navigation
-    * Studies
-      * [**My Studies**](/docs/platform_introduction/main_window_and_navigation/studies/my_studies.md)
-      * [**Template Studies**](/docs/platform_introduction/main_window_and_navigation/studies/template_studies.md)
+    <!-- * Studies -->
+    * [Studies](/docs/platform_introduction/main_window_and_navigation/studies/my_studies.md)
+      <!-- * [**Template Studies**](/docs/platform_introduction/main_window_and_navigation/studies/template_studies.md) -->
     * Services
       <!-- * [Philosophy](/docs/platform_introduction/main_window_and_navigation/services/philosophy.md) -->
       * [**Types**](/docs/platform_introduction/main_window_and_navigation/services/types.md)
