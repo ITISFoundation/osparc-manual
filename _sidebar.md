@@ -27,7 +27,7 @@
     * User Preferences
       * [Profile](/docs/platform_introduction/main_window_and_navigation/user_setup___preferences/profile.md)
       * [Security Details](/docs/platform_introduction/main_window_and_navigation/user_setup___preferences/security_details.md)
-    * [Filtering](/docs/platform_introduction/main_window_and_navigation/filtering.md)
+    * [**Filtering**](/docs/platform_introduction/main_window_and_navigation/filtering.md)
   * Workbench
     * [**Navigation**](/docs/platform_introduction/workbench/navigation.md)
     * [**Flowchart**](/docs/platform_introduction/workbench/flowchart.md)
