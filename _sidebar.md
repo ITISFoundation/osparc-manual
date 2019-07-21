@@ -25,7 +25,7 @@
         * [**SimCore S3**](/docs/platform_introduction/main_window_and_navigation/data/cloud_storage_types/simcore_s3.md)
         * [**DatCore**](/docs/platform_introduction/main_window_and_navigation/data/cloud_storage_types/datcore.md)
     * User Preferences
-      * [**Profile**](/docs/platform_introduction/main_window_and_navigation/user_setup___preferences/profile.md)
+      * [Profile](/docs/platform_introduction/main_window_and_navigation/user_setup___preferences/profile.md)
       * [**Security Details**](/docs/platform_introduction/main_window_and_navigation/user_setup___preferences/security_details.md)
     * [Filtering](/docs/platform_introduction/main_window_and_navigation/filtering.md)
   * Workbench
