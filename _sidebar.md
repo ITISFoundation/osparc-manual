@@ -3,7 +3,7 @@
 * [Welcome](/)
   * [Background](/docs/welcome/background.md)
   * [What is oSPARC](/docs/welcome/what_is_osparc.md)
-  * [**ISAN - Good To Know**](/docs/welcome/ISAN.md)
+  * [ISAN - Good To Know](/docs/welcome/ISAN.md)
 
   <!-- * [Vision](/docs/welcome/vision.md) -->
 * Platform Introduction
