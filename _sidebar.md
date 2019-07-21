@@ -17,9 +17,9 @@
     <!-- * Studies -->
     * [Studies](/docs/platform_introduction/main_window_and_navigation/studies/my_studies.md)
       <!-- * [**Template Studies**](/docs/platform_introduction/main_window_and_navigation/studies/template_studies.md) -->
-    * Services
+    * Service Tab
       <!-- * [Philosophy](/docs/platform_introduction/main_window_and_navigation/services/philosophy.md) -->
-      * [**Types**](/docs/platform_introduction/main_window_and_navigation/services/types.md)
+      * [List & Types](/docs/platform_introduction/main_window_and_navigation/services/types.md)
     * Data
       * Cloud Storage Types
         * [**SimCore S3**](/docs/platform_introduction/main_window_and_navigation/data/cloud_storage_types/simcore_s3.md)
@@ -65,7 +65,7 @@
 * Sim4Life
   * [**What is Sim4Life**](/docs/sim4life/what_is_sim4life.md)
 <!-- * [Technical Requirements, Specs](/docs/technical_requirements__specs.md) -->
-* [**FAQ**](/docs/faq.md)
+* [FAQ](/docs/faq.md)
 * [Help & Support](/docs/help___support.md)
 <!-- * [Glossary](/docs/glossary.md) -->
 * [License](/docs/license.md)
