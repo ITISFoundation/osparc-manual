@@ -12,7 +12,7 @@
     * [**Dashboard**](/docs/platform_introduction/core_elements/dashboard.md)
     * [**Workbench**](/docs/platform_introduction/core_elements/workbench.md)
     * [**Studies**](/docs/platform_introduction/core_elements/studies.md)
-    * [Services](/docs/platform_introduction/core_elements/services.md)
+    * [**Services**](/docs/platform_introduction/core_elements/services.md)
   * Main Window, Navigation
     * Studies
       * [My Studies](/docs/platform_introduction/main_window_and_navigation/studies/my_studies.md)
