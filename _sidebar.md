@@ -43,7 +43,7 @@
     * [Postpro](/docs/platform_introduction/service_catalog___types/postpro.md)
     * [Notebook](/docs/platform_introduction/service_catalog___types/notebook.md) -->
 * Anatomical Models
-  * [**Virtual Family**](/docs/anatomical_models/virtual_family.md)
+  * [Virtual Population](/docs/anatomical_models/virtual_family.md)
   * [NeuroCouple](/docs/anatomical_models/neurocouple.md)
   <!-- * [Future: 3D EM-Neuro Stimulation Simulation](/docs/anatomical_models/future:_3d_em_neuro_stimulation_simulation.md) -->
 * Setting Up & Running a Study
