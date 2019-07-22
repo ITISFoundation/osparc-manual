@@ -60,6 +60,7 @@
   * [Matt Ward](/docs/isan_studies___tutorials/matt_ward.md)
   * [Anatomical Model Viewer](/docs/isan_studies___tutorials/anatomical_viewer.md)
   * [OpenCor](/docs/isan_studies___tutorials/opencor.md)
+  * [Bornstein Viewer](/docs/isan_studies___tutorials/bornstein_view.md)
   * [**3D Results Viewer**](/docs/isan_studies___tutorials/3D_view.md)
 
 * Sim4Life
