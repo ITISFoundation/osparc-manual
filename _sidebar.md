@@ -55,7 +55,7 @@
   * [Postprocessing & Analysis](/docs/setting_up___running_a_study/postprocessing___analysis/postpro_viewer_types.md)
   * [Jupyter Notebooks](/docs/setting_up___running_a_study/jupyter_notebooks.md)
 * ISAN Studies & Tutorials
-  * [UC Davies](/docs/isan_studies___tutorials/uc_davies.md)
+  * [UC Davis](/docs/isan_studies___tutorials/uc_davies.md)
   * [2D Plot](/docs/isan_studies___tutorials/2d_plot.md)
   * [Matt Ward](/docs/isan_studies___tutorials/matt_ward.md)
   * [Anatomical Model Viewer](/docs/isan_studies___tutorials/anatomical_viewer.md)

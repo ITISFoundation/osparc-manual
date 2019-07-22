@@ -8,7 +8,7 @@
   * [FAQ](/docs/faq.md)
   * [Help & Support](/docs/help___support.md)
   * **Studies**
-  * [UC Davies](/docs/isan_studies___tutorials/uc_davies.md)
+  * [UC Davis](/docs/isan_studies___tutorials/uc_davies.md)
   * [2D Plot](/docs/isan_studies___tutorials/2d_plot.md)
   * [Matt Ward](/docs/isan_studies___tutorials/matt_ward.md)
   * [Anatomical Model Viewer](/docs/isan_studies___tutorials/anatomical_viewer.md)
