@@ -59,7 +59,7 @@
   * [2D Plot](/docs/isan_studies___tutorials/2d_plot.md)
   * [Matt Ward](/docs/isan_studies___tutorials/matt_ward.md)
   * [Anatomical Model Viewer](/docs/isan_studies___tutorials/anatomical_viewer.md)
-  * [**OpenCor**](/docs/isan_studies___tutorials/opencor.md)
+  * [OpenCor](/docs/isan_studies___tutorials/opencor.md)
   * [**3D Results Viewer**](/docs/isan_studies___tutorials/3D_view.md)
 
 * Sim4Life
