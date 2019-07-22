@@ -8,6 +8,9 @@ o<sup>2</sup>S<sup>2</sup>PARC, being developed de novo for running on the cloud
 
 [![Vagus Nerve](https://user-images.githubusercontent.com/32800795/61666400-ad7b5d00-acd7-11e9-923a-4def8c39c549.png ':size=380%')](https://www.youtube.com/watch?v=7A2g8bLa54g "Vagus Nerve")     [![New Neuro Modeling Tool](https://user-images.githubusercontent.com/32800795/61666401-ad7b5d00-acd7-11e9-9736-9885bbd51d16.png ':size=380%')](https://www.youtube.com/watch?time_continue=1&v=g_PwOyVjNt0 "New Neuro Modeling Tool")
 <br/>
+*Two movies outlining Sim4Life's unique functionality for coupled EM-electrophysiological modeling.*
+
+<br/>
 
 The Core Functionality of *Sim4Life* is as follows:
 
