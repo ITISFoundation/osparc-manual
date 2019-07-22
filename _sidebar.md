@@ -21,9 +21,9 @@
       <!-- * [Philosophy](/docs/platform_introduction/main_window_and_navigation/services/philosophy.md) -->
       * [List & Types](/docs/platform_introduction/main_window_and_navigation/services/types.md)
     * Data
-      * Cloud Storage Types
-        * [**SimCore S3**](/docs/platform_introduction/main_window_and_navigation/data/cloud_storage_types/simcore_s3.md)
-        * [**DatCore**](/docs/platform_introduction/main_window_and_navigation/data/cloud_storage_types/datcore.md)
+      * [Cloud Storage Types](/docs/platform_introduction/main_window_and_navigation/data/cloud_storage_types/datcore.md)
+        <!-- * [**SimCore S3**](/docs/platform_introduction/main_window_and_navigation/data/cloud_storage_types/simcore_s3.md)
+        * [**DatCore**](/docs/platform_introduction/main_window_and_navigation/data/cloud_storage_types/datcore.md) -->
     * User Preferences
       * [Profile](/docs/platform_introduction/main_window_and_navigation/user_setup___preferences/profile.md)
       * [Security & DAT-Core](/docs/platform_introduction/main_window_and_navigation/user_setup___preferences/security_details.md)
