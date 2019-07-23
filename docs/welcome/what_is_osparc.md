@@ -4,10 +4,10 @@ o<sup>2</sup>S<sup>2</sup>PARC will provide users with an interactive approach t
 
 The powerful and flexible simulation platform, developed according to open-source philosophy, will enable users to:
 
-(1) connect existing and/or novel computational (in silico) models to perform studies
+	(1) Connect existing and/or novel computational (in silico) models to perform studies
 
-(2) easily integrate new structures (e.g., nerve microstructure) into the anatomical models
+	(2) Easily integrate new structures (e.g., nerve microstructure) into the anatomical models
 
-(3) generate new computational services, simulation studies, and anatomical models that can be shared with other users and researchers according to project-specific requirements.
+	(3) Generate new computational services, simulation studies, and anatomical models that can be shared with other users and researchers according to project-specific requirements.
 
 ![oS_scheme](https://user-images.githubusercontent.com/32800795/60989473-69d33b80-a346-11e9-91ee-25fd52b8315a.jpg)

@@ -26,7 +26,7 @@ The [SPARC Portal](http://dev-sparc-portal.sparc.science/) allows you to directl
 
 * [Cardiac Models](/docs/isan_studies___tutorials/uc_davies.md)
 * [2D Plot](/docs/isan_studies___tutorials/2d_plot.md)
-* [SNAP](/docs/isan_studies___tutorials/matt_ward.md)
+* [SPARC Nerve Activity Predictor (SNAP)](/docs/isan_studies___tutorials/matt_ward.md)
 * [Anatomical Model Viewer](/docs/isan_studies___tutorials/anatomical_viewer.md)
 * [OpenCor](/docs/isan_studies___tutorials/opencor.md)
 * [3D Results Viewer](/docs/isan_studies___tutorials/3D_view.md)
