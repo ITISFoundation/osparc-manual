@@ -11,6 +11,7 @@ o<sup>2</sup>S<sup>2</sup>PARC, being developed de novo for running on the cloud
 *Two movies outlining Sim4Life's unique functionality for coupled EM-electrophysiological modeling.*
 
 <br/>
+
 ### Components
 
 The Core Functionality of *Sim4Life* is as follows:
