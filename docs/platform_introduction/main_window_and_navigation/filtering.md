@@ -1,12 +1,12 @@
 # Filtering
 
-At various locations within the platform, o<sup>2</sup>S<sup>2</sup>PARC allows to do filtering in a very convenient way.
+At various locations within the platform, o<sup>2</sup>S<sup>2</sup>PARC allows filter searching in a very convenient way.
 
 The user can filter by:
 
-* string, name
-* keywords
-* tags, types
+	* string, name
+	* keywords
+	* tags, types
 
 The filtered items are then either highlighted in the flowchart, shown/hidden within services catalogues, etc. Tags can be combined and deleted again individually.
 

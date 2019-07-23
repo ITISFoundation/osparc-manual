@@ -11,6 +11,7 @@ Clicking on the icon provides:
 
 ![Screenshot 2019-07-21 at 17 37 14](https://user-images.githubusercontent.com/32800795/61593341-a7ee1c00-abde-11e9-9a69-5c4311cacf13.png ':size=250%')
 
+## Preferences
 Entering the preferences dialog, a separate window pops up which allows the user to define and modify settings and preferences as follows:
 
 * User Profile <br/>
