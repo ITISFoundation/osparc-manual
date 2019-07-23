@@ -24,12 +24,13 @@ For ISAN, the platform provides the following capabilities and restrictions.
 
 The [SPARC Portal](http://dev-sparc-portal.sparc.science/) allows you to directly jump into one of the following studies and tutorial examples via the appropriate links:
 
-* [UC Davies](/docs/isan_studies___tutorials/uc_davies.md)
+* [Cardiac Models](/docs/isan_studies___tutorials/uc_davies.md)
 * [2D Plot](/docs/isan_studies___tutorials/2d_plot.md)
-* [Matt Ward](/docs/isan_studies___tutorials/matt_ward.md)
+* [SNAP](/docs/isan_studies___tutorials/matt_ward.md)
 * [Anatomical Model Viewer](/docs/isan_studies___tutorials/anatomical_viewer.md)
 * [OpenCor](/docs/isan_studies___tutorials/opencor.md)
 * [3D Results Viewer](/docs/isan_studies___tutorials/3D_view.md)
+* [Enteric Neural Network](/docs/isan_studies___tutorials/bornstein_view.md)
 
 ### Limitations
 
@@ -37,12 +38,12 @@ The [SPARC Portal](http://dev-sparc-portal.sparc.science/) allows you to directl
   
   The study links from the [SPARC Portal](http://dev-sparc-portal.sparc.science/) bring you directly into the study in the workbench - without going via the Dashboard.
 
-  Doing so, you will be logged into the platform with an "Anonymous User" state, which allows you to operate within the study (change parameters, run simulations, view data, 3D models, results, etc.). However, this user state does not allow you to go far beyond the individual studies and explore the whole platform.
+  Doing so, you will be logged into the platform with an "Anonymous User" status, which allows you to operate within the study (change parameters, run simulations, view data, 3D models, results, etc.). However, this user status does not allow you to go far beyond the individual studies and explore the whole platform.
 
 * **Limited Functionality**
   
-  The "Anonymous User" is granted only limited access and capabilities of the platform  directly tailored to the needs at ISAN. Features like setting up new or modifying existing studies, operating in the Dashboard, using own Jupyter notebooks, etc. are not provided at this time.
+  The "Anonymous User" is granted only limited access and capabilities of the platform  directly tailored to the needs at ISAN. Features like setting up new or modifying existing studies, operating in the Dashboard, using your own Jupyter notebooks, etc. are not provided at this time.
 
 ## Beta User Program
 
-If you got interested into o<sup>2</sup>S<sup>2</sup>PARC, all its capabilities and would like to apply for our *beta user program*, please send us an [email](mailto:support@osparc.io) or directly talk to one of our experts at the ISAN conference.
+If you are interested in o<sup>2</sup>S<sup>2</sup>PARC's full capabilities and would like to apply for our *beta user program*, please send us an [email](mailto:support@osparc.io) or directly talk to one of our experts at the ISAN conference.
