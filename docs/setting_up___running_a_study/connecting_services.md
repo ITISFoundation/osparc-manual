@@ -8,6 +8,7 @@ In the Sleepers template example, we have services that have multiple inputs and
 
 ![sleepers](https://user-images.githubusercontent.com/32800795/61583115-d5ca5680-ab33-11e9-833b-a92682d12427.JPG)
 
+-------------------------
 
 Here it is important in the settings to make sure the correct input is assigned to the appropriate output of the preceding service. You will not be able to link an element from preceding service that is not of the type expected in the input of your service. For example, you cannot link a file ouptut of a sleeper into the sleeper input (which expects a number).
 

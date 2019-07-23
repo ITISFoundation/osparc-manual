@@ -1,6 +1,6 @@
 # Submitting & Retrieving Files
 
-Some services will provide you with output files. To access these files, double click on the service which supplies output. This will now show the Node files folder as well as the My Data folder. You may download these files locally. 
+Some services will provide you with output files. To access these files, double click on the service which supplies output. This will now show the Node files folder as well as the My Data folder.
 
 ![Screenshot 2019-07-18 at 22 35 57](https://user-images.githubusercontent.com/32800795/61490099-7261ec80-a9ac-11e9-8e96-457e1c536eeb.png)
 
@@ -8,6 +8,7 @@ You may download these files locally by clicking the button with the cloud icon 
 
 ![saving_data](https://user-images.githubusercontent.com/32800795/61490277-dc7a9180-a9ac-11e9-9a7b-4fb44664eb9d.gif)
 
+## Adding Files to Existing Directories
 In addition, these files may be added to your existing directories by clicking and dragging the file into the directory in the “My Data” tree. Notice that you may drag it into either one of your simcore folders or even into synced folders if you have them. 
 
 Other types of output include data visualizations, plots and renderings. These outputs all provide the option to download by their respective services. For example, the 2D plot service uses the RAW Graphs framework which allows you to download plotted data in multiple formats or HTML embedding.

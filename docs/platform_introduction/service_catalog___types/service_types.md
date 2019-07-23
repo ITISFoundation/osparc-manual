@@ -18,7 +18,7 @@ These services will create mesh models from data or user input. They will genera
 *Dedicated 3D modeling services are provided in o<sup>2</sup>S<sup>2</sup>PARC.*
 
 ## Simulator
-Eventually sim4life will be integrated into the platform and you will be able to include services that run simulations. These services will generally take an input from another service
+Eventually [Sim4Life](https://zmt.swiss/sim4life/) will be integrated into the platform and you will be able to include services that run simulations. These services will generally take an input from another service
 
 ## Solver
 These services handle computations such as the Sleeper service. They will generally take an input and generate an output for other services.

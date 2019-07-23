@@ -14,13 +14,13 @@ Clicking on the icon provides:
 ## Preferences
 Entering the preferences dialog, a separate window pops up which allows the user to define and modify settings and preferences as follows:
 
-* User Profile <br/>
+* __User Profile__ <br/>
   Information like name and profile picture can be set/changed.
 
-* Security Settings <br/>
+* __Security Settings__ <br/>
   Here the user can change the password. Moreover (and quite important), in this dialog the user can specify access tokens for the DAT-Core/Blackfynn platform - for automated access of files (storage, retrieval) on Blackfynn. The [following section](/docs/platform_introduction/main_window_and_navigation/user_setup___preferences/security_details.md) will go into more detail about how to do this.
 
-* Additional (and Experimental) Settings <br/>
+* __Additional (and Experimental) Settings__ <br/>
   Here, e.g., the UI Theme can be set (feature available in the future).
 
 ![2019-07-21_17-38-50 (1)](https://user-images.githubusercontent.com/32800795/61593335-9dcc1d80-abde-11e9-86d6-244ecea43822.gif ':size=400%') <br/>
