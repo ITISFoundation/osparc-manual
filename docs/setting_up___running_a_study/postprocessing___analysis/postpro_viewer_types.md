@@ -15,7 +15,7 @@ For generic viewing, you will mostly be using 2D and 3D plotting. Our 2D plotter
 
 It updates automatically with updates to selected options and so facilitates interactive exploration of data. It also keeps a history of all plot options so changing options is as easy as scrolling up in the plotter window while scrolling down will bring you to your most recent plot.
 
-Our 3D plotters are based on the open-source ParaView application. For more details, see the https://www.paraview.org/. For plotting rendering your own models, you input files through the File Picker in formats such as VTK. You may also build your own 3D models directly in the OSPARC platform.
+Our 3D plotters are based on the open-source ParaView application. For more details, see https://www.paraview.org/. For plotting rendering your own models, you input files through the File Picker in formats such as VTK. You may also build your own 3D models directly in the OSPARC platform.
 
 ![3Dviewer](https://user-images.githubusercontent.com/32800795/61494425-6a0eaf00-a9b6-11e9-91de-d6f111d2c088.JPG)
 

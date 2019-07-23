@@ -6,8 +6,11 @@ This service is standalone and hence does not need any inputs - all simulation i
 
 ![mattward_service](https://user-images.githubusercontent.com/32800795/61584990-ee496980-ab51-11e9-9794-148ae6813e81.JPG ':size=400%')
 
-This interface allows you to sweep stimulus pulse current and/or pulse duration to visualize the subject and nerve-dependent stimulus-response surface that relates stimulus pulse shape (i.e., the shape of a pulse having a particular duration and current) to the measured compound nerve action potential response plotted against conduction velocity or response latency.  The compound action potential response can be viewed in terms of %maximal activation or response voltage.  This model uniquely and accurately predicts the graded nerve response to stimulation measured using bipolar cuff electrodes (1) and may in the future serve as a unique mapping tool to catalog measured end-organ responses in order to relate nerve fiber caliber, modulation pattern/rate and strength to end-organ effects.
+This interface allows you to sweep stimulus pulse current and/or pulse duration to visualize the subject and nerve-dependent stimulus-response surface that relates stimulus pulse shape (i.e., the shape of a pulse having a particular duration and current) to the measured compound nerve action potential response plotted against conduction velocity or response latency.  
+The compound action potential response can be viewed in terms of %maximal activation or response voltage.  This model uniquely and accurately predicts the graded nerve response to stimulation measured using bipolar cuff electrodes (1) and may in the future serve as a unique mapping tool to catalog measured end-organ responses in order to relate nerve fiber caliber, modulation pattern/rate and strength to end-organ effects.
 
+
+## Usage
 ![mattward_dashboard](https://user-images.githubusercontent.com/32800795/61584989-ee496980-ab51-11e9-9c4d-09b3bd473ad1.JPG)
 
 1. To begin, select a subject and load it. 
