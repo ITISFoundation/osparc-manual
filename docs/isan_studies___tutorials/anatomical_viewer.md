@@ -2,6 +2,8 @@
 
 This template and dataset allows you to explore the human anatomy through the use of the Korean male model Jeduk. The model was created in a Swiss-Korean collaborative project called NEUROMAN between IT’IS and the [Visible Korean](http://vkh3.kisti.re.kr/?q=node/24) team. The goal of the project was to create computational anatomical phantoms to study the mechanisms, optimize neurostimulation treatments, and ensure the safety of such devices. The ultimate vision and strength of these models lies in the detailed tissue and peripheral nerve segmentations from the cranium and spinal cord to internal organs and major muscles.
 
+### Usage
+
 ![jeduk](https://user-images.githubusercontent.com/32800795/61585203-bee92b80-ab56-11e9-930c-c47e7cd8f91e.JPG ':size=200%')
 
 1. To start, instantiate the template and double click on the 3D viewer service to access the Paraview settings. Click retrieve to make sure the data file is loaded.
