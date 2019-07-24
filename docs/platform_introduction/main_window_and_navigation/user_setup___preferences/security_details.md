@@ -2,7 +2,7 @@
 
 In this section and as an addition to the last section on user preferences, we'd like to particularly highlight how the user can specify access tokens for the DAT-Core/Blackfynn platform.
 
-This will allow for automated access of files (storage, retrieval) by using the storage on Blackfynn. The appropriate drive will then be automatically mounted and accessible on the platform, e.g., in the File Picker wervice.
+This allows automated access of files (storage, retrieval) stored on Blackfynn. The appropriate drive is automatically mounted, once the credentials have been added, and accessible from the platform, e.g., in the File Picker service.
 
 ## Syncing with Blackfynn
 

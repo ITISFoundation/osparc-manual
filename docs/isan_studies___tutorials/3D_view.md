@@ -1,6 +1,6 @@
 # 3D Vagus Nerve Stimulation Viewer
 
-This service gives a three-dimensional representation of the effects of a stimulating electrode around a bundle of nerve fibers.
+This service illustrates 3D data visualisation using the Paraview service. The example involves electromagnetic and neuronal dynamics simulation results fro a setup containing a stimulating electrode around a bundle of nerve fibers. Electromagnetic fields are displayed as field lines and cross section. Neuronal dynamics is visualized as evolving transmembrane potential.
 
 ![3dviewcuff](https://user-images.githubusercontent.com/32800795/61648162-3205b580-acaf-11e9-9e36-bbd77624b42e.JPG ':size=400%')
 

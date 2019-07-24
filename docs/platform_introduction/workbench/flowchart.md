@@ -11,7 +11,7 @@ Services that take input or provide output will be labeled as such. To connect c
 ![connect_nodes](https://user-images.githubusercontent.com/32800795/61332255-1bc9a680-a824-11e9-99ab-f030ce34695f.gif) <br/>
 *Connecting services in the Flowchart window.*
 
-Note, however, that this does not mean that the target service will have access to the outputs of the preceding service. In order to manage inputs, double-click on the target service and a list of possible inputs will in the settings menu.
+Connecting services allows to use output data of one service as input for the next one. To actually establish a link between a specific output file/value and a corresponding input parameter of the next service, that output file/value must be selected from the list on the left of the service view (the view obtained when double clicking on the service in the workbench. The available files/values are grouped by connected service from which they originate.
 
 ![inputlist](https://user-images.githubusercontent.com/32800795/61418077-99abb180-a8f9-11e9-8ef5-46b39ab5a6bb.JPG)
 

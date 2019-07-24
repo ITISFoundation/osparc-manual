@@ -18,4 +18,4 @@ The Virtual Population models V1.x and V3.x are fully compatible with the Poser 
 ![2019-07-22_17-42-31 (1)](https://user-images.githubusercontent.com/32800795/61645998-527e4180-aca8-11e9-8759-42d62d09796f.gif)
 *The Poser Tool can be used to bring any of the models into a realistic in-use posture.*
 
-Outlining these capabilities, the integration of anatomical and functionalized virtual human and animal models within o<sup>2</sup>S<sup>2</sup>PARC is heavily increasing the modeling and simulation functionalities of the SPARC Data and Resource Center (DRC) and thus to the SPARC program in general.
+The NEUROCOUPLE models available for o2S2PARC represent the next generation of ViP models. They serve as physical environment for the modelling of neuromodulation devices (e.g., electromagnetic simulations of electroceuticals), but also as integration center for SPARC computational models and data.
