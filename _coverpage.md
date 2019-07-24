@@ -7,7 +7,7 @@
 - keyword 3
 - keyword 4 -->
 
-[Get Started](#osparc)
+[Get Started](#welcome)
 
 
 [osparc.io]:https://osparc.io
