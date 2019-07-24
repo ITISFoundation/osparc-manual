@@ -63,7 +63,6 @@
   * [Enteric Nervous Network Explorer](/docs/isan_studies___tutorials/bornstein_view.md)
   * [3D Vagus Nerve Stimulation Viewer](/docs/isan_studies___tutorials/3D_view.md) 
 
-
 * Sim4Life
   * [What is Sim4Life](/docs/sim4life/what_is_sim4life.md)
 <!-- * [Technical Requirements, Specs](/docs/technical_requirements__specs.md) -->
