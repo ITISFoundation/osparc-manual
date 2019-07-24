@@ -10,7 +10,7 @@ This interface allows you to sweep stimulus pulse current and/or pulse duration 
 The compound action potential response can be viewed in terms of %maximal activation or response voltage.  This model uniquely and accurately predicts the graded nerve response to stimulation measured using bipolar cuff electrodes (1) and may in the future serve as a unique mapping tool to catalog measured end-organ responses in order to relate nerve fiber caliber, modulation pattern/rate and strength to end-organ effects.
 
 
-## Usage
+### Usage
 ![mattward_dashboard](https://user-images.githubusercontent.com/32800795/61584989-ee496980-ab51-11e9-9c4d-09b3bd473ad1.JPG)
 
 1. To begin, select a subject and load it. 
