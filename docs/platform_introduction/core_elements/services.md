@@ -2,7 +2,7 @@
 
 Every study in o<sup>2</sup>S<sup>2</sup>PARC is composed of at least one so called service or in the common case of several services.
 
-Service tyoes are or manyfold nature: they can provide data/files, can visualize results (2D, 3D), can be notebooks or can be computational services - doing the actual simulations within a study.
+Service types are or manyfold nature: they can provide data/files, can visualize results (2D, 3D), can be notebooks or can be computational services - doing the actual simulations within a study.
 
 The computational backend involves all services needed to handle the actual computational workload. A computational workflow is described as a pipeline that processes a stream of data in a sequential way. Every pipeline consists of multiple algorithms, each one expecting specific input data and providing specific output data.
 

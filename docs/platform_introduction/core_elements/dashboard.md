@@ -16,13 +16,13 @@ The Dashboard is your personal landing page when you log into your o<sup>2</sup>
 3. **My Studies** <br/>
    In this section you'll find your personal (and private) studies which you have previously setup and which have been stored in the database. These are only accessible by you. Clicking (single click) on one of these studies will show more details, double clicking will get you into the study itself.<br/>
    
-   Clicking on the (+) button allow you to setup a new study from scratch.
+   Clicking on the (+) button allows you to setup a new study from scratch.
 
     ![Screenshot 2019-07-17 at 12 48 42](https://user-images.githubusercontent.com/32800795/61369857-53bb0300-a891-11e9-94d9-460ad5b69dce.png)
     *Setting up a fresh study via the "New Study" button.*
 
 4. **Template Studies** <br/>
-   Here you'll find a set of pre-defined studies which are templated for the user. The initial number of studies which has been primarily assembled for the ISAN conference portal roll out, covers an interesting range of applications - working with 3D models, processing simulations, handling data and doing analysis/postrprocessing.
+   Here you'll find a set of pre-defined studies which are templated for the user. The initial number of studies which has been primarily assembled for the ISAN conference portal roll out, covers an interesting range of applications - working with 3D models, processing simulations, handling data and doing analysis/postprocessing.
 
    Single or double clicking on one of the template studies will show more information or initiate the generation of a new study by applying the chosen template. The new study will then be added to the "My Studies" section.
 
