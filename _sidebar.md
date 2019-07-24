@@ -1,6 +1,6 @@
 <!-- _sidebar.md -->
 
-* [Welcome](/readme.md)
+* [Welcome](/)
   * [Background](/docs/welcome/background.md)
   * [What is oSPARC](/docs/welcome/what_is_osparc.md)
   * [ISAN - Good To Know](/docs/welcome/ISAN.md)

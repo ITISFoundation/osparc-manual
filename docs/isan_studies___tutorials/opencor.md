@@ -1,11 +1,13 @@
 # OpenCor – Cardiac Regulation
 
-This simulation uses the Fabbri et al. (2017) sinoatrial cell model to investigate the effects of different perturbations and disorders on cardiac activity. The model includes autonomic modulation via inclusion of the effects of acetylcholine (ACh) on the “funny current”, L-type calcium channels (ICaL), sarcoplasmic reticulum calcium uptake, and Ach-activated potassium channel currents  (IK,Ach). Also taken into account are the effects of isoprenaline on the funny current, L-type calcium channel currents (ICaL), NaK channel current, maximal Ca uptake, and the delayed rectifier current IKs. We are varying the concentration of ACh according to the stimulation level, while isoprenaline is encoded to be "on" or "off" only (only the "on" version is implemented here).
+To illustrate MAP-CORE – SIM-CORE integration, a study has been realized, that is accessed through a SPARC Portal map (but can also be accessed through the Portal computational study section). After selecting the relevant nodes in a flat-map, a user can specify simulation parameters within the flat-map and launch the OpenCOR simulation for execution within o<sup>2</sup>S<sup>2</sup>PARC. The results can be visualized in o<sup>2</sup>S<sup>2</sup>PARC and (soon) also within the flat-map.
+
+OpenCOR is a software projects aimed at providing a modelling environment for CellML models, such as those developed as part of the Physiome Initiative and within SPARC.
 
 ### Usage
 The workflow is as follows:
 
-1. After creating your own instance of the OpenCOR template, you will see a simple flowchart consisting of two services. The osparc-opencor service will do the full simulation with your own input parameters.
+1. After creating your own instance of the OpenCOR template or access it through a MAP-CORE map, you will see a simple flowchart consisting of two services. The osparc-opencor service will do the full simulation with your own input parameters.
 
     ![opencor_flow](https://user-images.githubusercontent.com/32800795/61585149-741ae400-ab55-11e9-8a40-605192454acf.JPG ':size=600%')
 
