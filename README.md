@@ -1,4 +1,4 @@
-# oSPARC
+# Welcome
 
 Welcome to the o<sup>2</sup>S<sup>2</sup>PARC Documentation. This user manual aims to provide detailed information and background about how to use the o<sup>2</sup>S<sup>2</sup>PARC modeling and simulation platform.
 
