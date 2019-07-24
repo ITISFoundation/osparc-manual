@@ -15,6 +15,8 @@ Currently we offer support by options to contact our team via [email](mailto:sup
 ![Screenshot 2019-07-11 at 20 45 03](https://user-images.githubusercontent.com/32800795/61089219-b304b780-a43a-11e9-88e7-d301e9f44c3b.png ':size=200%')
 *accessible via your user settings, in the top right area of the platform*
 
+Please note that github reporting requires a github account.
+
 **Live Chat**
 
 In the future we'll be happy to offer also direct support sessions via live chat.

@@ -6,11 +6,9 @@ Together with the Virtual Population functionalized anatomical models, *Sim4Life
 
 o<sup>2</sup>S<sup>2</sup>PARC, being developed de novo for running on the cloud in web-based environments will thus be partially based on key functionalities of *Sim4Life*, and extended. E,.g., two state-of-the-art simulation services will be interfaced: an EM solver, based on the quasi-static EM solvers from *Sim4Life*, to compute exposing field conditions from internal or external neurostimulation sources (e.g., electroceuticals, implants) at the anatomical and the micro-anatomical levels (nerve, fascicles, single axon exposure), and an electrophysiology solver based on *Sim4Life*'s T- NEURO module, which allows to simulate the impact of EM exposure on neuronal dynamics employing the open source tool NEURON.
 
-[![Vagus Nerve](https://user-images.githubusercontent.com/32800795/61666400-ad7b5d00-acd7-11e9-923a-4def8c39c549.png ':size=380%')](https://www.youtube.com/watch?v=7A2g8bLa54g "Vagus Nerve")     [![New Neuro Modeling Tool](https://user-images.githubusercontent.com/32800795/61666401-ad7b5d00-acd7-11e9-9736-9885bbd51d16.png ':size=380%')](https://www.youtube.com/watch?time_continue=1&v=g_PwOyVjNt0 "New Neuro Modeling Tool")
+[![Vagus Nerve](https://user-images.githubusercontent.com/32800795/61666400-ad7b5d00-acd7-11e9-923a-4def8c39c549.png ':size=250%')](https://www.youtube.com/watch?v=7A2g8bLa54g "Vagus Nerve")     [![New Neuro Modeling Tool](https://user-images.githubusercontent.com/32800795/61666401-ad7b5d00-acd7-11e9-9736-9885bbd51d16.png ':size=250%')](https://www.youtube.com/watch?time_continue=1&v=g_PwOyVjNt0 "New Neuro Modeling Tool")     [![FEM Solver](https://user-images.githubusercontent.com/32800795/61822077-9e96c680-ae0d-11e9-9a6a-0633f4f54fe6.png ':size=250%')](https://www.youtube.com/watch?v=bXrLceoFgZA "FEM Solver")
 <br/>
-*Two movies outlining Sim4Life's unique functionality for coupled EM-electrophysiological modeling.*
-
-<br/>
+*Three movies outlining Sim4Life's unique functionality for coupled EM-electrophysiological modeling.*
 
 ### Components
 

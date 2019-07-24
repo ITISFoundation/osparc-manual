@@ -1,4 +1,4 @@
-# 2D Plot
+# 2D Visualization
 
 Here we will describe the use of the o<sup>2</sup>S<sup>2</sup>PARC platform to create a simple 2-dimensional plot. You will see that the interface is interactive and may show you data in new ways! To demonstrate this feature, we will be using gene expression data from the group of Leah Reznikov at the University of Florida.
 

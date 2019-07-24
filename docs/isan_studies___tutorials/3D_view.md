@@ -1,4 +1,4 @@
-# 3D Results Viewer
+# 3D Vagus Nerve Stimulation Viewer
 
 This service gives a three-dimensional representation of the effects of a stimulating electrode around a bundle of nerve fibers.
 

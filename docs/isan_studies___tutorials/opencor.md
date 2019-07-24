@@ -1,4 +1,4 @@
-# OpenCor
+# OpenCor – Cardiac Regulation
 
 This simulation uses the Fabbri et al. (2017) sinoatrial cell model to investigate the effects of different perturbations and disorders on cardiac activity. The model includes autonomic modulation via inclusion of the effects of acetylcholine (ACh) on the “funny current”, L-type calcium channels (ICaL), sarcoplasmic reticulum calcium uptake, and Ach-activated potassium channel currents  (IK,Ach). Also taken into account are the effects of isoprenaline on the funny current, L-type calcium channel currents (ICaL), NaK channel current, maximal Ca uptake, and the delayed rectifier current IKs. We are varying the concentration of ACh according to the stimulation level, while isoprenaline is encoded to be "on" or "off" only (only the "on" version is implemented here).
 

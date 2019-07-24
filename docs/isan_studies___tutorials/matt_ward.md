@@ -1,4 +1,4 @@
-# SNAP
+# SPARC Nerve Activity Predictor (SNAP)
 
 The SPARC Nerve Activity Predictor (SNAP) template by [Dr. Matthew Ward](https://engineering.purdue.edu/Engr/People/NewFaculty/New_Faculty_2016/ward.html) implements an interactive, AI-informed computational model of stimulus parameter-dependent vagal nerve responses resulting from bipolar, constant-current stimuli.  Coefficients that dictate the model’s behavior in this release were learned from rat vagal CAP datasets collected at Purdue University using ANC algorithms (DOI: 10.1109/TNSRE.2014.2351271).
 

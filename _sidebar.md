@@ -55,13 +55,14 @@
   * [Postprocessing & Analysis](/docs/setting_up___running_a_study/postprocessing___analysis/postpro_viewer_types.md)
   * [Jupyter Notebooks](/docs/setting_up___running_a_study/jupyter_notebooks.md)
 * ISAN Studies & Tutorials
-  * [Cardiac Simulation](/docs/isan_studies___tutorials/uc_davies.md)
-  * [2D Plot](/docs/isan_studies___tutorials/2d_plot.md)
-  * [SNAP](/docs/isan_studies___tutorials/matt_ward.md)
+  * [Cardiac Tissue Models](/docs/isan_studies___tutorials/uc_davies.md)
+  * [2D Visualization](/docs/isan_studies___tutorials/2d_plot.md)
+  * [SPARC Nerve Activity Predictor (SNAP)](/docs/isan_studies___tutorials/matt_ward.md)
   * [Anatomical Model Viewer](/docs/isan_studies___tutorials/anatomical_viewer.md)
-  * [OpenCor](/docs/isan_studies___tutorials/opencor.md)
-  * [Enteric Neural Network](/docs/isan_studies___tutorials/bornstein_view.md)
-  * [3D Results Viewer](/docs/isan_studies___tutorials/3D_view.md)
+  * [OpenCor – Cardiac Regulation](/docs/isan_studies___tutorials/opencor.md)
+  * [Enteric Nervous Network Explorer](/docs/isan_studies___tutorials/bornstein_view.md)
+  * [3D Vagus Nerve Stimulation Viewer](/docs/isan_studies___tutorials/3D_view.md) 
+
 
 * Sim4Life
   * [What is Sim4Life](/docs/sim4life/what_is_sim4life.md)
