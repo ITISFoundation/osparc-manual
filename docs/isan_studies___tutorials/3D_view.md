@@ -11,8 +11,8 @@ The model includes the geometry of a pair of electrode contacts in gray, a bundl
 2. You will be able to see how that voltage propagates along the length of the nerve bundle as shown below.
 3. To end the simulation, click the stop button (square) on the upper right hand side of the window.
 
-    ![3Drotationerrror](https://user-images.githubusercontent.com/32800795/61648163-3205b580-acaf-11e9-9797-a6909af04ee2.gif)
+    ![3dviewrun](https://user-images.githubusercontent.com/32800795/61648161-3205b580-acaf-11e9-99da-93a8162029b0.gif)
 
 4. You may rotate and scale the image, but due to the high complexity of this model, the 3D rendering may not execute completely and the image disappears. If this happens, a resizing of the window will bring the image back.
-
-    ![3dviewrun](https://user-images.githubusercontent.com/32800795/61648161-3205b580-acaf-11e9-99da-93a8162029b0.gif)
+    
+	![3Drotationerrror](https://user-images.githubusercontent.com/32800795/61648163-3205b580-acaf-11e9-9797-a6909af04ee2.gif)
