@@ -17,8 +17,22 @@ Currently we offer support by options to contact our team via [email](mailto:sup
 
 Please note that github reporting requires a github account.
 
+**Provide Feedback**
+
+**Reporting of Issues** <br/>
+
+Users can open a support ticket from within the platform directly generating an issue in github, which will then flow into our development backlog. For this, you need to have a [Github](https://github.com/) account.
+
+Users can also directly leave feedback to us, e.g., via a google doc. This can be accessed via the "Give us feedback" button.
+
+<img width="334" alt="Screenshot 2019-07-25 at 10 35 00" src="https://user-images.githubusercontent.com/32800795/61915014-869b7180-aef7-11e9-93de-299c59d33c02.png"> <br/>
+
+Which will then subsequently open an o<sup>2</sup>S<sup>2</sup>PARC Platform Feedback form.
+
+<img width="400" alt="Screenshot 2019-07-25 at 16 19 00" src="https://user-images.githubusercontent.com/32800795/61915117-fc9fd880-aef7-11e9-852c-798602d925a3.png">
+
 **Live Chat**
 
 In the future we'll be happy to offer also direct support sessions via live chat.
 
-Feel free to contact the support team anytime. We will do our best to help you as soon as possible.
+Feel free to [contact](mailto:support@osparc.io) the support team anytime. We will do our best to help you as soon as possible.

@@ -36,6 +36,13 @@ The Dashboard is your personal landing page when you log into your o<sup>2</sup>
 6. **Reporting of Issues** <br/>
     Users can open a support ticket from within the platform directly generating an issue in github, which will then flow into our development backlog. For this, you need to have a [Github](https://github.com/) account.
 
-    In addition, we are providing direct ways of leaving feedback from users, e.g., via a google doc.
+    In addition, we are providing direct ways of leaving feedback from users, e.g., via a google doc. This can be accessed via the "Give us feedback" button.
+
+    <img width="334" alt="Screenshot 2019-07-25 at 10 35 00" src="https://user-images.githubusercontent.com/32800795/61915014-869b7180-aef7-11e9-93de-299c59d33c02.png"> <br/>
+
+    Which will then subsequently open an o<sup>2</sup>S<sup>2</sup>PARC Platform Feedback form.
+
+    <img width="500" alt="Screenshot 2019-07-25 at 16 19 00" src="https://user-images.githubusercontent.com/32800795/61915117-fc9fd880-aef7-11e9-852c-798602d925a3.png">
+
 
 Having outlined the different parts of the dashboard, we're now ready to look into the concept of the [Workbench](/docs/platform_introduction/core_elements/workbench.md).
