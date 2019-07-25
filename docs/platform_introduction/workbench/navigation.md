@@ -7,9 +7,9 @@ When you first start a new study, or load a template, you will be working within
 
 The workbench consists of four main windows:
 
-	1. [Flowchart](/docs/platform_introduction/workbench/flowchart.md)
-	2. [Service Tree](/docs/platform_introduction/workbench/service_tree.md)
-	3. [Study Information]()
-	4. [Logger](/docs/platform_introduction/workbench/logger.md)
+1. [Flowchart](/docs/platform_introduction/workbench/flowchart.md)
+2. [Service Tree](/docs/platform_introduction/workbench/service_tree.md)
+3. [Study Information]()
+4. [Logger](/docs/platform_introduction/workbench/logger.md)
 
 The windows and their functions are explained in detail in the following sections.
