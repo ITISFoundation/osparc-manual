@@ -36,6 +36,6 @@ The Dashboard is your personal landing page when you log into your o<sup>2</sup>
 6. **Reporting of Issues** <br/>
     Users can open a support ticket from within the platform directly generating an issue in github, which will then flow into our development backlog. For this, you need to have a [Github](https://github.com/) account.
 
-    In addition, we are providing direct ways of leaving feedback to users, e.g., via a google doc.
+    In addition, we are providing direct ways of leaving feedback from users, e.g., via a google doc.
 
 Having outlined the different parts of the dashboard, we're now ready to look into the concept of the [Workbench](/docs/platform_introduction/core_elements/workbench.md).

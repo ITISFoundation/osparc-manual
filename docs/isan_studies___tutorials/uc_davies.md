@@ -15,6 +15,8 @@ To explore the service and the model, please proceed as follows:
 
 3. Next, click “Retrieve” at the bottom of the worbench and then “Run.” You will then be able to view results of the simulation in any of the viewer services.
 
+    Please note that running the entire study including 2D will take some time: about 10 minutes for the 2D part and about 1 minute for the remaining parts.
+    
 4. The simulation gives either 0D (ex. Time series of membrane potential), 
 
     ![rabbitCC_0D](https://user-images.githubusercontent.com/32800795/61584782-de2f8b00-ab4d-11e9-9493-7f7b0fe395a4.JPG ':size=600%')

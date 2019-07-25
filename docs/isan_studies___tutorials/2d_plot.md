@@ -3,6 +3,8 @@
 Here we will describe the use of the o<sup>2</sup>S<sup>2</sup>PARC platform to create a simple 2-dimensional plot. You will see that the interface is interactive and may show you data in new ways! To demonstrate this feature, we will be using gene expression data from the group of Leah Reznikov at the University of Florida.
 
 As a quick overview of the data set, the experiment was set up such that male and female neonatal piglets were exposed to either Acid (test) or saline (control) after which gene expression was measured in the epithelial tissue (EP), vagal ganglia (VG) or the nucleus tractus solitarii (NT) which are cardiopulmonary vagal afferents.
+
+Please note that the main purpose of this example is to illustrate how to generate 2D visualizations in the RawGraph viewer. The visualization itself might not be particularly meaningful for the gene expression data we are using in this example.
  
 ## Loading the Template
 

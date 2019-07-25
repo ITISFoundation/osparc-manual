@@ -1,6 +1,6 @@
 # SPARC Nerve Activity Predictor (SNAP)
 
-The SPARC Nerve Activity Predictor (SNAP) template by [Dr. Matthew Ward](https://engineering.purdue.edu/Engr/People/NewFaculty/New_Faculty_2016/ward.html) implements an interactive, AI-informed computational model of stimulus parameter-dependent vagal nerve responses resulting from bipolar, constant-current stimuli.  Coefficients that dictate the model’s behavior in this release were learned from rat vagal CAP datasets collected at Purdue University using ANC algorithms (DOI: 10.1109/TNSRE.2014.2351271).
+The SPARC Nerve Activity Predictor (SNAP) template by [Prof. Matthew Ward](https://engineering.purdue.edu/Engr/People/NewFaculty/New_Faculty_2016/ward.html) implements an interactive, AI-informed computational model of stimulus parameter-dependent vagal nerve responses resulting from bipolar, constant-current stimuli.  Coefficients that dictate the model’s behavior in this release were learned from rat vagal CAP datasets collected at Purdue University using ANC algorithms (DOI: 10.1109/TNSRE.2014.2351271).
 
 This service is standalone and hence does not need any inputs - all simulation is done through the service interface. First, create your own instance of the study by choosing the template from the Dashboard menu, naming your study and clicking create. There should only be a single service in the Flowchart window. You can access the service interface by double-clicking the service.
 

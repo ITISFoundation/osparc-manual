@@ -13,7 +13,11 @@ For generic viewing, you will mostly be using 2D and 3D plotting. Our 2D plotter
 
 <!-- ':size=700%' -->
 
-It updates automatically with updates to selected options and so facilitates interactive exploration of data. It also keeps a history of all plot options so changing options is as easy as scrolling up in the plotter window while scrolling down will bring you to your most recent plot.
+To visualize your data, the data which is coming in via the Input Ports (linked to files from, e.g., the file picker) can be loaded by clicking on the "oSPARC Inputs" selection an then choosing one of the appropriate available data fields - as shown right below:
+
+![loading_data](https://user-images.githubusercontent.com/32800795/61495334-0afe6980-a9b9-11e9-9f24-ebd7020ed956.gif)
+
+RAW Graphs updates automatically with updates to selected options and so facilitates interactive exploration of data. It also keeps a history of all plot options so changing options is as easy as scrolling up in the plotter window while scrolling down will bring you to your most recent plot.
 
 Our 3D plotters are based on the open-source ParaView application. For more details, see https://www.paraview.org/. For plotting rendering your own models, you input files through the File Picker in formats such as VTK. You may also build your own 3D models directly in the OSPARC platform.
 
