@@ -9,7 +9,7 @@ The workbench consists of four main windows:
 
 1. [Flowchart](/docs/platform_introduction/workbench/flowchart.md)
 2. [Service Tree](/docs/platform_introduction/workbench/service_tree.md)
-3. [Study Information]()
+3. [Study Information](/docs/platform_introduction/workbench/study_information.md)
 4. [Logger](/docs/platform_introduction/workbench/logger.md)
 
 The windows and their functions are explained in detail in the following sections.
