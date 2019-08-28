@@ -1,4 +1,4 @@
-# Workbench: Navigation
+# Workbench
 
 When you first start a new study, or load a template, you will be working within the workbench. This is where you will create and edit your flow chart, see your services, debug and run your study.
 
@@ -9,7 +9,7 @@ The workbench consists of four main windows:
 
 1. [Flowchart](/docs/platform_introduction/workbench/flowchart.md)
 2. [Service Tree](/docs/platform_introduction/workbench/service_tree.md)
-3. [Study Information]()
+3. [Study Information](/docs/platform_introduction/workbench/study_information.md)
 4. [Logger](/docs/platform_introduction/workbench/logger.md)
 
-The windows and their functions are explained in detail within the following sections.
+The windows and their functions are explained in detail in the following sections.

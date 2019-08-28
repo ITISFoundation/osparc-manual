@@ -5,12 +5,13 @@ The flow chart is the format in which you can construct your studies. These are 
 ![Screenshot 2019-07-16 at 23 57 08](https://user-images.githubusercontent.com/32800795/61332868-a8289900-a825-11e9-8f32-8e9b94cd417a.png)
 *The Flowchart window in o<sup>2</sup>S<sup>2</sup>PARC*
 
+## Connecting Inputs and Outputs
 Services that take input or provide output will be labeled as such. To connect compatible services, you can click on a service output and drag towards the appropriate input of the successive service. Alternatively, you may drag from the input of a service to the preceding service’s output.
  
 ![connect_nodes](https://user-images.githubusercontent.com/32800795/61332255-1bc9a680-a824-11e9-99ab-f030ce34695f.gif) <br/>
 *Connecting services in the Flowchart window.*
 
-Note, however, that this does not mean that the target service will have access to the outputs of the preceding service. In order to manage inputs, double-click on the target service and a list of possible inputs will in the settings menu.
+Connecting services allows to use output data of one service as input for the next one. To actually establish a link between a specific output file/value and a corresponding input parameter of the next service, that output file/value must be selected from the list on the left of the service view (the view obtained when double clicking on the service in the workbench. The available files/values are grouped by connected service from which they originate.
 
 ![inputlist](https://user-images.githubusercontent.com/32800795/61418077-99abb180-a8f9-11e9-8ef5-46b39ab5a6bb.JPG)
 
@@ -18,6 +19,7 @@ If you are loading from a template, these inputs may already be defined. If you 
 
 ![link_input](https://user-images.githubusercontent.com/32800795/61418076-99abb180-a8f9-11e9-8859-dafd22058b18.gif)
 
+## Disconnecting Inputs and Outputs
 To unlink an input, click the unlink button next to the input line in the settings menu.
 
 To delete a connection, simply select the arrow connecting two nodes, a small unlink button will appear on the lower right hand corner of the flowchart workspace. Clicking this button will disconnect the two nodes.
