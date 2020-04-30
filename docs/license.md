@@ -1,13 +1,13 @@
 # License
 
-o<sup>2</sup>S<sup>2</sup>PARC is licensed under the MIT License.
+o<sup>2</sup>S<sup>2</sup>PARC is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 *A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.*
 <br/><br/>
 
 **The MIT License (MIT)**
 
-*Copyright (c) 2019 John Spackman*
+*Copyright (c) 2018 [IT'IS Foundation](https://itis.swiss)*
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
