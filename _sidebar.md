@@ -1,10 +1,26 @@
 <!-- _sidebar.md -->
 
-* [Welcome](/)
+* Welcome
   * [Background](/docs/welcome/background.md)
   * [What is oSPARC](/docs/welcome/what_is_osparc.md)
-  * [ISAN - Good To Know](/docs/welcome/ISAN.md)
-* Platform Introduction
+  <!-- * [ISAN - Good To Know](/docs/welcome/ISAN.md) DOES NOT APPLY -->
+* Getting Started
+  * Data & File Handling
+    * [Loading Data](/docs/setting_up___running_a_study/loading_data/loading_data.md)
+    * [Submitting & Retrieving Files](/docs/setting_up___running_a_study/loading_data/submitting___retrieving_files.md)
+  * [Connecting Services](/docs/setting_up___running_a_study/connecting_services.md)
+  * [Running a Simulation](/docs/setting_up___running_a_study/running_a_model/simulation.md)
+  * [Postprocessing & Analysis](/docs/setting_up___running_a_study/postprocessing___analysis/postpro_viewer_types.md)
+  * [Jupyter Notebooks](/docs/setting_up___running_a_study/jupyter_notebooks.md)
+* Tutorials
+  * [Cardiac Tissue Models](/docs/isan_studies___tutorials/uc_davies.md)
+  * [2D Visualization](/docs/isan_studies___tutorials/2d_plot.md)
+  * [SPARC Nerve Activity Predictor (SNAP)](/docs/isan_studies___tutorials/matt_ward.md)
+  * [Anatomical Model Viewer](/docs/isan_studies___tutorials/anatomical_viewer.md)
+  * [OpenCor – Cardiac Regulation](/docs/isan_studies___tutorials/opencor.md)
+  * [Enteric Nervous Network Explorer](/docs/isan_studies___tutorials/bornstein_view.md)
+  * [3D Vagus Nerve Stimulation Viewer](/docs/isan_studies___tutorials/3D_view.md)
+* Platform
   * [Overview](/docs/platform_introduction/overview.md)
   * Core Elements
     * [Dashboard](/docs/platform_introduction/core_elements/dashboard.md)
@@ -44,28 +60,12 @@
   * [Virtual Population](/docs/anatomical_models/virtual_family.md)
   * [NeuroCouple](/docs/anatomical_models/neurocouple.md)
   <!-- * [Future: 3D EM-Neuro Stimulation Simulation](/docs/anatomical_models/future:_3d_em_neuro_stimulation_simulation.md) -->
-* Setting Up & Running a Study
-  * Data & File Handling
-    * [Loading Data](/docs/setting_up___running_a_study/loading_data/loading_data.md)
-    * [Submitting & Retrieving Files](/docs/setting_up___running_a_study/loading_data/submitting___retrieving_files.md)
-  * [Connecting Services](/docs/setting_up___running_a_study/connecting_services.md)
-  * [Running a Simulation](/docs/setting_up___running_a_study/running_a_model/simulation.md)
-  * [Postprocessing & Analysis](/docs/setting_up___running_a_study/postprocessing___analysis/postpro_viewer_types.md)
-  * [Jupyter Notebooks](/docs/setting_up___running_a_study/jupyter_notebooks.md)
-* ISAN Studies & Tutorials
-  * [Cardiac Tissue Models](/docs/isan_studies___tutorials/uc_davies.md)
-  * [2D Visualization](/docs/isan_studies___tutorials/2d_plot.md)
-  * [SPARC Nerve Activity Predictor (SNAP)](/docs/isan_studies___tutorials/matt_ward.md)
-  * [Anatomical Model Viewer](/docs/isan_studies___tutorials/anatomical_viewer.md)
-  * [OpenCor – Cardiac Regulation](/docs/isan_studies___tutorials/opencor.md)
-  * [Enteric Nervous Network Explorer](/docs/isan_studies___tutorials/bornstein_view.md)
-  * [3D Vagus Nerve Stimulation Viewer](/docs/isan_studies___tutorials/3D_view.md)
 * Sim4Life
   * [What is Sim4Life](/docs/sim4life/what_is_sim4life.md)
 * API Developers
   * [Developer Documentation](/docs/development.md)
 <!-- * [Technical Requirements, Specs](/docs/technical_requirements__specs.md) -->
-* [FAQ](/docs/faq.md)
-* [Help & Support](/docs/help___support.md)
-<!-- * [Glossary](/docs/glossary.md) -->
-* [License](/docs/license.md)
+* Support
+  * [FAQ](/docs/faq.md)
+  * [Help & Support](/docs/help___support.md)
+  * [License](/docs/license.md)
