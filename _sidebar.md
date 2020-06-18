@@ -5,9 +5,8 @@
   * [What is oSPARC](/docs/welcome/what_is_osparc.md)
   <!-- * [ISAN - Good To Know](/docs/welcome/ISAN.md) DOES NOT APPLY -->
 * Getting Started
-  * Data & File Handling
-    * [Loading Data](/docs/setting_up___running_a_study/loading_data/loading_data.md)
-    * [Submitting & Retrieving Files](/docs/setting_up___running_a_study/loading_data/submitting___retrieving_files.md)
+  * [Loading Data](/docs/setting_up___running_a_study/loading_data/loading_data.md)
+  * [Submitting & Retrieving Files](/docs/setting_up___running_a_study/loading_data/submitting___retrieving_files.md)
   * [Connecting Services](/docs/setting_up___running_a_study/connecting_services.md)
   * [Running a Simulation](/docs/setting_up___running_a_study/running_a_model/simulation.md)
   * [Postprocessing & Analysis](/docs/setting_up___running_a_study/postprocessing___analysis/postpro_viewer_types.md)
