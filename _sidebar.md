@@ -4,8 +4,6 @@
   * [Background](/docs/welcome/background.md)
   * [What is oSPARC](/docs/welcome/what_is_osparc.md)
   * [ISAN - Good To Know](/docs/welcome/ISAN.md)
-
-  <!-- * [Vision](/docs/welcome/vision.md) -->
 * Platform Introduction
   * [Overview](/docs/platform_introduction/overview.md)
   * Core Elements
@@ -61,10 +59,11 @@
   * [Anatomical Model Viewer](/docs/isan_studies___tutorials/anatomical_viewer.md)
   * [OpenCor – Cardiac Regulation](/docs/isan_studies___tutorials/opencor.md)
   * [Enteric Nervous Network Explorer](/docs/isan_studies___tutorials/bornstein_view.md)
-  * [3D Vagus Nerve Stimulation Viewer](/docs/isan_studies___tutorials/3D_view.md) 
-
+  * [3D Vagus Nerve Stimulation Viewer](/docs/isan_studies___tutorials/3D_view.md)
 * Sim4Life
   * [What is Sim4Life](/docs/sim4life/what_is_sim4life.md)
+* API Developers
+  * [Developer Documentation](/docs/development.md)
 <!-- * [Technical Requirements, Specs](/docs/technical_requirements__specs.md) -->
 * [FAQ](/docs/faq.md)
 * [Help & Support](/docs/help___support.md)
