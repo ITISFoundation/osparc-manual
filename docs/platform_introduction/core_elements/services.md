@@ -1,6 +1,6 @@
 # Services
 
-Every study in o<sup>2</sup>S<sup>2</sup>PARC is composed of at least one so-called service, though most studies will contain multiple services.
+Every study in *osparc* is composed of at least one so-called service, though most studies will contain multiple services.
 
 Services can provide data/files, visualize results (2D, 3D), implement code in [Jupyter notebooks](https://jupyter.org/) or perform computations to execute simulations within a study.
 

@@ -7,7 +7,7 @@ The content of a study can be varied, as highlighted in the user manual, e.g., i
 ![Screenshot 2019-07-18 at 20 16 56](https://user-images.githubusercontent.com/32800795/61481700-19d52400-a999-11e9-993e-49899168750c.png) <br/>
 *Availability of different studies and application types in the Dashboard.*
 
-However, eventually o<sup>2</sup>S<sup>2</sup>PARC will feature full 3D EM-neural stimulation modeling using high-resolution anatomical model data.
+However, eventually *osparc* will feature full 3D EM-neural stimulation modeling using high-resolution anatomical model data.
 
 ![Screenshot 2019-07-18 at 20 23 58](https://user-images.githubusercontent.com/32800795/61482048-04142e80-a99a-11e9-8329-69ddf96b322f.png) <br/>
 *Representation of an enhanced study's workflow, including 3D meshes/modeling and EM as well as neural elements.*

@@ -1,6 +1,6 @@
 # Services & Types in the Tab
 
-The second tab in the workbench holds various information about the different available services in the o<sup>2</sup>S<sup>2</sup>PARC platform.
+The second tab in the workbench holds various information about the different available services in the *osparc* platform.
 
 Once you click on the tab, the resulting window will show you a list of all the currently  available services in this version of the platform. For some services there are different versions available for which individual information is provided.
 

@@ -1,6 +1,6 @@
 # Background - About the SPARC Program
 
-o<sup>2</sup>S<sup>2</sup>PARC is part of the NIH Common Fund’s [SPARC program](https://commonfund.nih.gov/Sparc/). The program focuses on increasing the understanding of peripheral nerves and how their electrical signals control internal organ function, with a view to advance neuromodulation therapies in order to make treatments more effective. It is structured as a consortium and consists of four components:
+*osparc* is part of the NIH Common Fund’s [SPARC program](https://commonfund.nih.gov/Sparc/). The program focuses on increasing the understanding of peripheral nerves and how their electrical signals control internal organ function, with a view to advance neuromodulation therapies in order to make treatments more effective. It is structured as a consortium and consists of four components:
 
 * SPARC 1: Anatomical and Functional Mapping of the Innervation of Major Internal Organs
 * SPARC 2: Next Generation Tools and Technologies
@@ -13,7 +13,7 @@ The SPARC DRC serves as a central sharing hub for the research, engineering, and
 
 (ii) Map Synthesis Core (MAP-CORE, Prof. Peter Hunter, University of Auckland, New Zealand): build interactive modular, continually updated visualizations of nerve-organ anatomy and function
 
-(iii) Modeling and Simulation Core (SIM-CORE (or o<sup>2</sup>S<sup>2</sup>PARC, Prof Niels Kuster, IT’IS Foundation, Switzerland): develop an online framework capable of hosting and connecting simulations to create predictive, multiscale, multiphysics models spanning from modulation sources acting at feasible access points to organ functional responses.
+(iii) Modeling and Simulation Core (SIM-CORE (or *osparc*, Prof Niels Kuster, IT’IS Foundation, Switzerland): develop an online framework capable of hosting and connecting simulations to create predictive, multiscale, multiphysics models spanning from modulation sources acting at feasible access points to organ functional responses.
 
 More information about the SPARC consortium can be found [here](https://commonfund.nih.gov/sparc/fundedresearch).
 
