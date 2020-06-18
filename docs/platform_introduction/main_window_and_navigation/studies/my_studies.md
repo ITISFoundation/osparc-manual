@@ -1,11 +1,11 @@
 # Studies
 
-The first tab in the o<sup>2</sup>S<sup>2</sup>PARC Dashboard is dedicated to the studies overview - distinguishing between own studies and studies which have already been setup.
+The first tab in the *osparc* Dashboard is dedicated to the studies overview - distinguishing between own studies and studies which have already been setup.
 
 ## My Studies
 
 Under "My Studies" you'll find your personal (and private) studies which you have previously created and which have been stored in the database. These are only accessible by you. Clicking (single click) on one of these studies will show more details, double clicking will bring you into the study itself.<br/>
-   
+
 Clicking on the (+) button allow you to set up a new study from scratch.
 
 ## Template Studies

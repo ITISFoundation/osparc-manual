@@ -1,6 +1,6 @@
 # Filtering
 
-At various locations within the platform, o<sup>2</sup>S<sup>2</sup>PARC allows filter searching in a very convenient way.
+At various locations within the platform, *osparc* allows filter searching in a very convenient way.
 
 The user can filter by:
 
