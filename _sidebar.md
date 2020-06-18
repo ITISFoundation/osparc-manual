@@ -61,8 +61,8 @@
   <!-- * [Future: 3D EM-Neuro Stimulation Simulation](/docs/anatomical_models/future:_3d_em_neuro_stimulation_simulation.md) -->
 * Sim4Life
   * [What is Sim4Life](/docs/sim4life/what_is_sim4life.md)
-* API Developers
-  * [Developer Documentation](/docs/development.md)
+* Developers
+  * [Documentation](/docs/development.md)
 <!-- * [Technical Requirements, Specs](/docs/technical_requirements__specs.md) -->
 * Support
   * [FAQ](/docs/faq.md)
