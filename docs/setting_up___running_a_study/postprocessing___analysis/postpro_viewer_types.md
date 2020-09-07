@@ -1,10 +1,10 @@
-# Postprocessing & Analysis
+# Visualizing Data and Files
 
 Now you have run your study - congratulations!
 
 Finally you want to perform postprocessing on your generated data or make beautiful illustrations.
 
-### Postpro Viewer Types
+### Viewer Types
 We currently have generic data viewers including 2D plots, 3D plots, and mesh modeling as well as viewers specific to the output of certain templates such as the Human and Rabbit cardiac models.
 
 For generic viewing, you will mostly be using 2D and 3D plotting. Our 2D plotters use the open-source RAW Graphs framework which is a user-friendly and aesthetically appealing tool with various plot types you can explore.

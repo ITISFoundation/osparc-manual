@@ -13,7 +13,21 @@ Within the workbench you can:
 * Work with [Jupyter](https://jupyter.org/) notebooks
 * and much more ...
 
-![Screenshot 2019-07-18 at 18 07 17](https://user-images.githubusercontent.com/32800795/61473588-f6a17900-a986-11e9-8840-a3d19c2ac2c9.png)<br/>
 *The central Workbench within the *osparc* framework.*
 
-The workbench, its different elements and its usage is explaned in detail within a dedicated [section](/docs/platform_introduction/workbench/navigation.md).
+## Navigation
+
+Double-clicking on a study from the Dashboard will bring you to the study's workbench. This is where you will create and edit your flow chart, see your services, debug and run your study.
+
+The workbench consists of four main windows, shown in the image below:
+1. **Service Tree:** you can see the list of services that are included in the study and rename or delete them. To delete a service, select the service and then click the Delete button on the menu bar. You can also rename a service by selecting a service and clicking the rename button on the menu bar.
+2. **Study Information:** in this window, you will see useful metadata pertaining to the study you are currently editing. This could be filled by yourself or by the author of a template.
+3. **Logger:** collapsed by default, this window will display all messages pertinent to the running of your study. These messages can be filtered by keywords/keyphrases entered into the “Filter” field.
+4. **Pipeline workspace:** contains the services in your study and their connections. To create a new **Service** double-click anywhere in the empty space and choose a service from the catalog.
+
+Also shown are:
+
+5. **Service:** each service is visible in the pipeline workspace as a box with a name, input port, and/or an output port.
+6. **Run Button:** for pipelines containing computational services (such as *isolve*), this button is used to run execute the pipeline.
+
+![studieops](https://github.com/ITISFoundation/osparc-manual-z43/blob/master/docs/_media/workbench.png?raw=true)

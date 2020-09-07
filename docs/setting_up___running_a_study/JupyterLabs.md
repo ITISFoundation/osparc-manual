@@ -1,0 +1,66 @@
+# JupyterLab 
+
+We offer a customized JupyterLab service based on the needs of our users. 
+
+## Jupyter Octave+Python Math
+This service gives you a choice of creating notebooks with either Octave or Python. The ```Python (maths)``` kernel has preinstalled modules for mathematical modeling and data analysis.
+
+#### Switching Kernels within a Notebook
+You may even change the kernel of a notebook from Python to Octave or vice versa in the middle of a notebook, but note that variables are not shared across kernels. To change the kernel associated to a given notebook, double click the notebook in the file tree on the left to ensure it is being actively viewed in the main window. Then, select "Kernel" from the menu at the top of the page and choose "Change Kernel...". This will open a window with a dropdown menu containing alternative kernel options.  Note that changing the kernel within a single notebook does NOT copy the predefined variables. 
+
+## Items of note
+1. Variables from one kernel will not be accessible by the other one. I.e. If a variable *foo* is defined in the Python kernel and you switch to Octave, *foo* will not be automatically defined in the Octave kernel.
+2. The default base directory of the JupyterLabs is ```/home/jovyan/work```. This entire directory (including the inputs and outputs) will be preserved between sessions. However, files outside of this directory (e.g. ```/home/jovyan```) will not be saved so please do not write files in other locations. Other locations, in any case, are not accessible via the **File Tree** UI element but can be accessed through use of the terminal.
+3. Custom installed Python modules (e.g. through ```pip install``` or ```conda install```) do not persist across sessions. Leaving a study to the Dashboard and then re-entering the study will result in the removal of those installed modules. A better user experience for this aspect is ongoing. 
+
+
+![jop](https://github.com/ITISFoundation/osparc-manual-z43/blob/master/docs/_media/jop.png?raw=true)
+
+## User Interface and Options
+
+### Notebook ![drawing](https://github.com/ITISFoundation/osparc-manual-z43/blob/master/docs/_media/notebook.png?raw=true ':size=25:')
+In the main window of your service under the heading "Notebook", you will find the option to either create a new "python (maths)" or "Octave" jupyter notebook instance (by clicking either icon).  Launching a notebook will automatically open a new untitled study in your service's main window, and start a new python/octave kernel to run your scripts.  
+
+
+###  Console ![drawing](https://github.com/ITISFoundation/osparc-manual-z43/blob/master/docs/_media/console.png?raw=true ':size=25:')
+In the main window of your service under the heading "Console", you will find the option to either create a new "python (maths)" or "Octave" console instance (by clicking either icon).  Launching a console will automatically start a new python/octave kernel for the session. For more information, see [here](https://jupyterlab.readthedocs.io/en/stable/user/code_console.html)
+
+### Terminal ![drawing](https://github.com/ITISFoundation/osparc-manual-z43/blob/master/docs/_media/terminal.png?raw=true ':size=25:')
+It is possible to open a Unix-style terminal session inside a service to perform more actions that may not be available in the JupyterLab GUI. Some of these actions include more advanced git procedures (change/set remote repository, see stuatus, etc.), viewing hidden files or deleting folder along with its contents. To start a terminal, click the "Terminal" icon under the heading "Other" in the main window.  By default, the terminal opens in the "home" directory.  Below, we provide a few useful actions using the terminal, for more complete instructions in using the terminal, see [here](https://help.ubuntu.com/community/UsingTheTerminal).
+
+**Navigation to files**
+To navigate to your projects, type:
+```bash
+$ cd work
+```
+and 
+```bash
+$ ls -a 
+```
+to display your files/directories, including hidden files, such as ".git", which indicates the presence of a git repository.
+
+**Install Python Packages Using Pip**
+
+You may wish to add or update python packages in the current kernel.  This can be accomplished inside a python (maths) console instance using the "pip" command.  Type:
+```bash
+[ ]: pip install <name_of_package>
+```
+and hit "shift" + "enter" to execute the command.  The package(s) will now be installed inside the current kernel session.  You may need to restart the kernel to use the updated package(s).
+
+**Add and Remove Directories**
+
+To add or remove a directory using the console, navigate to the root location of the directory and type:
+```bash
+[ ]: mkdir <dir_name>
+```
+or
+```bash
+[ ]: rm -r <dir_name>
+```
+to add/remove, respectively.
+
+### Text Files ![drawing](https://github.com/ITISFoundation/osparc-manual-z43/blob/master/docs/_media/textfile.png?raw=true ':size=25:')
+To create a new text file, click the "Text File" icon in the main window under the heading "Other".  
+
+### Markdown Files ![drawing](https://github.com/ITISFoundation/osparc-manual-z43/blob/master/docs/_media/markdown.png?raw=true ':size=25:')
+To create a new markdown file, click the "Markdown File" icon in the main window under the heading "Other".  For more information regarding markdown file usage and syntax, see: :link: [Markdown Guide](https://www.markdownguide.org/basic-syntax/).

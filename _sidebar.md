@@ -9,8 +9,9 @@
   * [Submitting & Retrieving Files](/docs/setting_up___running_a_study/loading_data/submitting___retrieving_files.md)
   * [Connecting Services](/docs/setting_up___running_a_study/connecting_services.md)
   * [Running a Simulation](/docs/setting_up___running_a_study/running_a_model/simulation.md)
-  * [Postprocessing & Analysis](/docs/setting_up___running_a_study/postprocessing___analysis/postpro_viewer_types.md)
+  * [Visualization](/docs/setting_up___running_a_study/postprocessing___analysis/postpro_viewer_types.md)
   * [Jupyter Notebooks](/docs/setting_up___running_a_study/jupyter_notebooks.md)
+  * [JupyterLab](/docs/setting_up___running_a_study/JupyterLabs.md)
 * Tutorials
   * [Cardiac Tissue Models](/docs/isan_studies___tutorials/uc_davies.md)
   * [2D Visualization](/docs/isan_studies___tutorials/2d_plot.md)
@@ -41,20 +42,6 @@
       * [Profile](/docs/platform_introduction/main_window_and_navigation/user_setup___preferences/profile.md)
       * [Security & DAT-Core](/docs/platform_introduction/main_window_and_navigation/user_setup___preferences/security_details.md)
     * [Filtering](/docs/platform_introduction/main_window_and_navigation/filtering.md)
-  * Workbench
-    * [Navigation](/docs/platform_introduction/workbench/navigation.md)
-    * [Flowchart](/docs/platform_introduction/workbench/flowchart.md)
-    * [Service Tree](/docs/platform_introduction/workbench/service_tree.md)
-    * [Study Information](/docs/platform_introduction/workbench/study_information.md)
-    * [Logger](/docs/platform_introduction/workbench/logger.md)
-    * [Retrieve & Run](/docs/platform_introduction/workbench/refresh___retrieve.md)
-  * [Service Catalog & Types](/docs/platform_introduction/service_catalog___types/service_types.md)
-    <!-- * [Service Types](/docs/platform_introduction/service_catalog___types/service_types.md) -->
-    <!-- * [Data](/docs/platform_introduction/service_catalog___types/data.md)
-    * [**Modeling**](/docs/platform_introduction/service_catalog___types/modeling.md)
-    * [Solver](/docs/platform_introduction/service_catalog___types/solver.md)
-    * [Postpro](/docs/platform_introduction/service_catalog___types/postpro.md)
-    * [Notebook](/docs/platform_introduction/service_catalog___types/notebook.md) -->
 * Anatomical Models
   * [Virtual Population](/docs/anatomical_models/virtual_family.md)
   * [NeuroCouple](/docs/anatomical_models/neurocouple.md)
