@@ -4,8 +4,7 @@
   * [Background](/docs/welcome/background.md)
   * [What is oSPARC](/docs/welcome/what_is_osparc.md)
 * Platform
-  * [Overview](/docs/platform_introduction/overview.md)
-  * Dashboard Navigation
+  * [Navigation](/docs/platform_introduction/overview.md)
     * [Dashboard](/docs/platform_introduction/core_elements/dashboard.md)
     * [Studies](/docs/platform_introduction/core_elements/studies.md)
     * [Discover](/docs/platform_introduction/core_elements/Discover.md)
