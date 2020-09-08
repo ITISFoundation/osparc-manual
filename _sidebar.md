@@ -3,8 +3,19 @@
 * Welcome
   * [Background](/docs/welcome/background.md)
   * [What is oSPARC](/docs/welcome/what_is_osparc.md)
-  <!-- * [ISAN - Good To Know](/docs/welcome/ISAN.md) DOES NOT APPLY -->
-* Getting Started
+* Platform
+  * [Overview](/docs/platform_introduction/overview.md)
+  * Dashboard Navigation
+    * [Dashboard](/docs/platform_introduction/core_elements/dashboard.md)
+    * [Studies](/docs/platform_introduction/core_elements/studies.md)
+    * [Discover](/docs/platform_introduction/core_elements/Discover.md)
+    * [Data](/docs/platform_introduction/core_elements/Data.md)
+    * User Preferences
+      * [Profile](/docs/platform_introduction/main_window_and_navigation/user_setup___preferences/profile.md)
+      * [Security & DAT-Core](/docs/platform_introduction/main_window_and_navigation/user_setup___preferences/security_details.md)
+  * [Services](/docs/platform_introduction/core_elements/services.md)
+  * [Filtering](/docs/platform_introduction/main_window_and_navigation/filtering.md)
+* Quick Start Guide
   * [Loading Data](/docs/setting_up___running_a_study/loading_data/loading_data.md)
   * [Submitting & Retrieving Files](/docs/setting_up___running_a_study/loading_data/submitting___retrieving_files.md)
   * [Connecting Services](/docs/setting_up___running_a_study/connecting_services.md)
@@ -20,28 +31,6 @@
   * [OpenCor – Cardiac Regulation](/docs/isan_studies___tutorials/opencor.md)
   * [Enteric Nervous Network Explorer](/docs/isan_studies___tutorials/bornstein_view.md)
   * [3D Vagus Nerve Stimulation Viewer](/docs/isan_studies___tutorials/3D_view.md)
-* Platform
-  * [Overview](/docs/platform_introduction/overview.md)
-  * Core Elements
-    * [Dashboard](/docs/platform_introduction/core_elements/dashboard.md)
-    * [Workbench](/docs/platform_introduction/core_elements/workbench.md)
-    * [Studies](/docs/platform_introduction/core_elements/studies.md)
-    * [Services](/docs/platform_introduction/core_elements/services.md)
-  * Main Window, Navigation
-    <!-- * Studies -->
-    * [Studies](/docs/platform_introduction/main_window_and_navigation/studies/my_studies.md)
-      <!-- * [**Template Studies**](/docs/platform_introduction/main_window_and_navigation/studies/template_studies.md) -->
-    * Service Tab
-      <!-- * [Philosophy](/docs/platform_introduction/main_window_and_navigation/services/philosophy.md) -->
-      * [List & Types](/docs/platform_introduction/main_window_and_navigation/services/types.md)
-    * Data
-      * [Cloud Storage Types](/docs/platform_introduction/main_window_and_navigation/data/cloud_storage_types/datcore.md)
-        <!-- * [**SimCore S3**](/docs/platform_introduction/main_window_and_navigation/data/cloud_storage_types/simcore_s3.md)
-        * [**DatCore**](/docs/platform_introduction/main_window_and_navigation/data/cloud_storage_types/datcore.md) -->
-    * User Preferences
-      * [Profile](/docs/platform_introduction/main_window_and_navigation/user_setup___preferences/profile.md)
-      * [Security & DAT-Core](/docs/platform_introduction/main_window_and_navigation/user_setup___preferences/security_details.md)
-    * [Filtering](/docs/platform_introduction/main_window_and_navigation/filtering.md)
 * Anatomical Models
   * [Virtual Population](/docs/anatomical_models/virtual_family.md)
   * [NeuroCouple](/docs/anatomical_models/neurocouple.md)

@@ -5,7 +5,7 @@ The Dashboard is your hub which contains studies you have created as well as stu
 ![dash](https://github.com/ITISFoundation/osparc-manual-z43/blob/master/docs/_media/dashboard.png?raw=true)
 *Main sections and elements of the *osparc* Dashboard.*
 
-The Dashboard is your personal landing page when you log into your *osparc* account. Within the Dashboard a number of important sections and elements can be are highlighted:
+Within the Dashboard a number of important sections and elements can be are highlighted:
 
 1. **Dashboard Button** <br/>
    This button allows you to return to the Dashboard and Overview at any time from anywhere within the platform.

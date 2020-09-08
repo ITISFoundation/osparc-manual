@@ -1,4 +1,4 @@
-# Platform Overview
+# User Interface Overview
 
 Welcome to *osparc*. This page gives a basic overview of how *osparc* works and how to navigate through the interface. We will highlight the most important parts and then go into more detail within subsequent sections. Within this overview section we'd like to get you familiar with the core elements and the basic philosophy of *osparc*. The core elements can be structured as follows:
 
@@ -25,14 +25,10 @@ Welcome to *osparc*. This page gives a basic overview of how *osparc* works and 
 * **Services** <br/>
   Every study in *osparc* is composed of at least one so-called service or, more commonly, several services.
 
-  Service tyoes are or manyfold nature: they can provide data/files, can visualize results (2D, 3D), can be notebooks or can be computational services - doing the actual simulations within a study. More information is shown [here](/docs/platform_introduction/core_elements/services.md) and in this [section](/docs/platform_introduction/main_window_and_navigation/services/types.md).
+  Service tyoes are or manyfold nature: they can provide data/files, can visualize results (2D, 3D), can be notebooks or can be computational services - doing the actual simulations within a study.
 
   ![2019-07-15_23-12-18](https://user-images.githubusercontent.com/32800795/61249895-a3e17a80-a756-11e9-9dcf-dbf5e28f39b5.jpeg)
   **osparc* provides a broad variety of services, e.g., 3D viewers which allow to render complex anatomical models.*
 
 This just as a very brief overview of *osparc*. More details are provided now within the following sections.
-
-
-
-
 
