@@ -2,7 +2,7 @@
 
 * Welcome
   * [Background](/docs/welcome/background.md)
-  * [What is oSPARC](/docs/welcome/what_is_osparc.md)
+  * [What is o²S²PARC](/docs/welcome/what_is_osparc.md)
 * Platform
   * [Navigation](/docs/platform_introduction/overview.md)
     * [Dashboard](/docs/platform_introduction/core_elements/dashboard.md)
@@ -16,12 +16,12 @@
   * [Filtering](/docs/platform_introduction/main_window_and_navigation/filtering.md)
 * Quick Start Guide
   * [Loading Data](/docs/setting_up___running_a_study/loading_data/loading_data.md)
-  * [Submitting & Retrieving Files](/docs/setting_up___running_a_study/loading_data/submitting___retrieving_files.md)
   * [Connecting Services](/docs/setting_up___running_a_study/connecting_services.md)
   * [Running a Simulation](/docs/setting_up___running_a_study/running_a_model/simulation.md)
   * [Visualization](/docs/setting_up___running_a_study/postprocessing___analysis/postpro_viewer_types.md)
   * [Jupyter Notebooks](/docs/setting_up___running_a_study/jupyter_notebooks.md)
   * [JupyterLab](/docs/setting_up___running_a_study/JupyterLabs.md)
+  * [Retrieving Files](/docs/setting_up___running_a_study/loading_data/submitting___retrieving_files.md)
 * Tutorials
   * [Cardiac Tissue Models](/docs/isan_studies___tutorials/uc_davies.md)
   * [2D Visualization](/docs/isan_studies___tutorials/2d_plot.md)

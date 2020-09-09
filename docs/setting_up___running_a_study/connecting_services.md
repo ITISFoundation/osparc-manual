@@ -26,7 +26,7 @@ The following video shows an example of connecting ports manually or through act
 ![Peek 2020-09-07 17-14](https://user-images.githubusercontent.com/28002886/92402747-6432da80-f130-11ea-90a0-32c4b16e685e.gif)
 
 ## Connection Indicator
-As a visual guide to connecting services, the study workspace UI shows either dashed or solid-line arrows between services, indicating the status of the port connections. If two services are connected but the input ports have not been mapped, the connection between the services will appear as a dashed line. If the ports have been mapped such that the input types of the incoming service match those of the input ports of the receiving service, the line between services will appear as a solid line. 
+As a visual guide to connecting services, the **Pipeline Workspace** UI shows either dashed or solid-line arrows between services, indicating the status of the port connections. If two services are connected but the input ports have not been mapped, the connection between the services will appear as a dashed line. If the ports have been mapped such that the input types of the incoming service match those of the input ports of the receiving service, the line between services will appear as a solid line. 
 
 ![Screenshot from 2020-09-07 17-41-04](https://user-images.githubusercontent.com/28002886/92403473-cc35f080-f131-11ea-9f10-3327cbf20961.png)
 

@@ -12,8 +12,6 @@ To download files:
 
 **Pro Tip:** you may need to click the ```Reload``` button if the file has very recently been generated or modified
 
-![download](_media/datadownload.gif)
-
 ## Cloud Storage Types
 
 In order to embed your data into services and studies, and to store, retrieve and maintain your data and files within the *osparc* platform, we are currently offering two convenient options:

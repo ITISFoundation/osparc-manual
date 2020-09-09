@@ -1,12 +1,12 @@
-# Studies
+# Studies Tab
 
-A code project on the online platform is called "Study". Any study is accessible via the [Dashboard](../Dashboard.md) either in the ```Studies``` (which belong to or are shared with you) or the [Discover](../Discover.md) tab (for published templated studies).
+A code project on the online platform is called "Study". Any study is accessible via the [Dashboard](dashboard.md) either in the ```Studies``` (which belong to or are shared with you) or the [Discover](Discover.md) tab (for published templated studies).
 
 ## Operations from the Dashboard
 
 There are a number of operations that are specific to studies, accessible by the three dot button at the upper right hand corner of each study.
 
-![studyoptions](../_media/studyoptions.png)
+![studyoptions](https://github.com/ITISFoundation/osparc-manual-z43/blob/master/docs/_media/studyoptions.png?raw=true)
 
 These options are:
 1. **Select:** allows you to select this study and/or others, primarily useful for deletion
@@ -18,11 +18,7 @@ These options are:
 
 *To learn about study sharing and publishing, see [Sharing and Publishing Studies](../GeneralUsage/sharestudy.md)*
 
-The following short video demonstrates a few operations that can be performed with studies. 
-
-![studieops](../_media/studytools.gif)
-
-## Workbench
+## Study Workbench
 
 Double-clicking on a study from the Dashboard will bring you to the study's workbench. This is where you will create and edit your flow chart, see your services, debug and run your study.
 
@@ -32,7 +28,7 @@ The workbench consists of four main windows, shown in the image below:
 1. **Service Tree:** you can see the list of services that are included in the study and rename or delete them. To delete a service, select the service and then click the Delete button on the menu bar. You can also rename a service by selecting a service and clicking the rename button on the menu bar.
 2. **Study Information:** in this window, you will see useful metadata pertaining to the study you are currently editing. This could be filled by yourself or by the author of a template.
 3. **Logger:** collapsed by default, this window will display all messages pertinent to the running of your study. These messages can be filtered by keywords/keyphrases entered into the “Filter” field.
-4. **Pipeline workspace:** contains the services in your study and their connections. To create a new **Service** double-click anywhere in the empty space and choose a service from the catalog.
+4. **Pipeline Workspace** contains the services in your study and their connections. To create a new **Service** double-click anywhere in the empty space and choose a service from the catalog.
 
 Also shown are:
 
