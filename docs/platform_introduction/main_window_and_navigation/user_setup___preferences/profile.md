@@ -15,16 +15,25 @@ Clicking on the icon provides:
 Entering the preferences dialog, a separate window pops up which allows the user to define and modify settings and preferences as follows:
 
 * __User Profile__ <br/>
-  Information like name and profile picture can be set/changed.
+  Information like name and profile picture - the picutre is based on your [gravatar](https://en.gravatar.com/).
 
 * __Security Settings__ <br/>
-  Here the user can change the password. Moreover (and quite important), in this dialog the user can specify access tokens for the DAT-Core/Blackfynn platform - for automated access of files (storage, retrieval) on Blackfynn. The [following section](/docs/platform_introduction/main_window_and_navigation/user_setup___preferences/security_details.md) will go into more detail about how to do this.
+  Here the user can change the password. Moreover (and quite important), in this dialog the user can specify access tokens for the DAT-Core/Blackfynn platform - for automated access of files (storage, retrieval) on Blackfynn.
 
 * __Additional (and Experimental) Settings__ <br/>
-  Here, e.g., the UI Theme can be set (feature available in the future).
+  Here, e.g., the UI Theme can be set (light vs dark) and input/output ports can be set to map automatically. More details about this feature can be found [here](docs/setting_up___running_a_study/connecting_services?id=auto-connect-option).
 
-![2019-07-21_17-38-50 (1)](https://user-images.githubusercontent.com/32800795/61593335-9dcc1d80-abde-11e9-86d6-244ecea43822.gif ':size=400%') <br/>
-*The Preferences dialog in *osparc* and its different windows and functionalities.*
+  ![prefs](../../../../_media/preference_exp.png) <br/>
 
-![Screenshot 2019-07-21 at 17 36 46](https://user-images.githubusercontent.com/32800795/61593342-a886b280-abde-11e9-9d95-50ba2c79a025.png ':size=350%') <br/>
-*Provision of platform and version information via the About entry.*
+* __Tags__ <br/>
+  Here you may define custom tags, or labels, for your studies. Once you have created the tags, you may assign them by editing the metadata of a study. To do this, follow the steps below:
+  1. Navigate to the **Studies** tab of the **Dashboard**
+  2. Choose the study options (3-dot button) on the study you would like to assign a tag to
+  3. choose **More Info** option
+  4. Click ```Edit``` on the bottom left corner of the popup
+  5. Click ```Tags``` on the bottom left corner of the popup
+  6. In the second popup, choose one or more tags you have defined and close this popup.
+  7. Click ```Save``` to save the updated metadata of your study.
+
+  ![tags](../../../../_media/tags.gif) <br/>
+
