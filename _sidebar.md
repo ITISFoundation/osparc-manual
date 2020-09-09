@@ -15,6 +15,7 @@
   * [Services](/docs/platform_introduction/core_elements/services.md)
   * [Filtering](/docs/platform_introduction/main_window_and_navigation/filtering.md)
 * Quick Start Guide
+  * [Create a Study](/docs/setting_up___running_a_study/create_study.md)
   * [Loading Data](/docs/setting_up___running_a_study/loading_data/loading_data.md)
   * [Connecting Services](/docs/setting_up___running_a_study/connecting_services.md)
   * [Running a Simulation](/docs/setting_up___running_a_study/running_a_model/simulation.md)
