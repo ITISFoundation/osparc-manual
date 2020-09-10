@@ -42,6 +42,5 @@
   * [Documentation](/docs/development.md)
 <!-- * [Technical Requirements, Specs](/docs/technical_requirements__specs.md) -->
 * Support
-  * [FAQ](/docs/faq.md)
   * [Help & Support](/docs/help___support.md)
   * [License](/docs/license.md)
