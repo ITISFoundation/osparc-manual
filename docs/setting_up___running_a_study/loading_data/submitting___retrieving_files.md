@@ -1,6 +1,6 @@
-# Submitting & Retrieving Files
+# Retrieving Files
 
-Some services will provide you with output files. To access these files, double click on the service which supplies output. This will now show the Node files folder as well as the __My Data__ folder.
+Some services will provide you with output files. To access these files, double click on the service which supplies output. This will now show service settings. In the upper menu bar, towards the right side, you will see a ```Files``` button. When clicked, a popup will show the files folder for this service as well as the __My Data__ folder.
 
 ![Screenshot 2019-07-18 at 22 35 57](https://user-images.githubusercontent.com/32800795/61490099-7261ec80-a9ac-11e9-8e96-457e1c536eeb.png)
 

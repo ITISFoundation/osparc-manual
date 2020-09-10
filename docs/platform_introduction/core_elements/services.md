@@ -11,4 +11,4 @@ The pipeline can be built up as a directed acyclic graph (dag) where the lines b
 All these services can be already provided within a study template or can be set up from scratch by the user by selecting options in the service catalog.
 
 <img width="1018" alt="Screenshot 2019-07-21 at 16 46 02" src="https://user-images.githubusercontent.com/32800795/61592697-14651d00-abd7-11e9-9319-a1ee9548803e.png"> <br/>
-*Connected services as well as selection of services via the service catalot in the workbench.*
+*Connected services as well as selection of services via the service catalog in the workbench.*
