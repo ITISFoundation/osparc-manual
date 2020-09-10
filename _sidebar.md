@@ -20,7 +20,7 @@
   * [Connecting Services](/docs/setting_up___running_a_study/connecting_services.md)
   * [Jupyter Notebooks](/docs/setting_up___running_a_study/jupyter_notebooks.md)
   * [JupyterLab](/docs/setting_up___running_a_study/JupyterLabs.md)
-  * [Running a Simulation](/docs/setting_up___running_a_study/running_a_model/simulation.md)
+  * [Running a Pipeline](/docs/setting_up___running_a_study/run_simulation.md)
   * [Visualization](/docs/setting_up___running_a_study/postprocessing___analysis/postpro_viewer_types.md)
   * [Retrieving Files](/docs/setting_up___running_a_study/loading_data/submitting___retrieving_files.md)
   * [Sharing Studies](/docs/setting_up___running_a_study/sharestudy.md)

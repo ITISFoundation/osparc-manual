@@ -22,7 +22,7 @@ My Data -> simcor.s3 -> PlotAdventure -> File Picker
 
 ![plot2d_tree](https://user-images.githubusercontent.com/32800795/61495276-cbd01880-a9b8-11e9-8b3b-5bc44584df8d.JPG ':size=550%')
 
-Here you should see your uploaded file RNAdat.csv. Double click to select it and it should now be visible on the file name field of the File Picker service. Click “Retrieve at the bottom of the workbench to retrieve the file.
+Here you should see your uploaded file RNAdat.csv. Double click to select it and it should now be visible on the file name field of the File Picker service.
 
 ![Picture2](https://user-images.githubusercontent.com/32800795/61495315-f6ba6c80-a9b8-11e9-8801-af928997d566.png ':size=550%')
 
