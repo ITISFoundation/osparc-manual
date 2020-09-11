@@ -30,7 +30,7 @@ One option of storing, accessing and handling data is provided via the Dat-Core 
 * You'll need access and thus an account/login for the Blackfynn platform.
 * In order to "link" your Blackfynn account directly into *osparc*, please follow the procedure outlined in its dedicated [section](/docs/platform_introduction/main_window_and_navigation/user_setup___preferences/security_details.md).
 * Depending on the login/credentials which are used, you'll have access to your own repository or a shared one, e.g., via SPARC.
-* Using the Dat-Core as cloud storage medium is required in case you would like to access SPARC related (shared) data and recommended for sharing datafiles with other groups and collaborators anyhow.
+* Using the Dat-Core as cloud storage medium is required in case you would like to access SPARC related (shared) data and recommended for sharing data files with other groups and collaborators anyhow.
 
 ### Sim-Core S3
 

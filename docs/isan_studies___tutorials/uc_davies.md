@@ -14,7 +14,7 @@ To explore the service and the model, please proceed as follows:
 
     ![CC_inputfiles](https://user-images.githubusercontent.com/32800795/61584726-1d111100-ab4d-11e9-9a91-93c1da82b05c.JPG ':size=500%')
 
-3. Next, click “Run” at the bottom of the worbench. You will then be able to view results of the simulation in any of the viewer services.
+3. Next, click “Run” at the bottom of the workbench. You will then be able to view results of the simulation in any of the viewer services.
 
     Please note that running the entire study including 2D will take some time: about 10 minutes for the 2D part and about 1 minute for the remaining parts.
     

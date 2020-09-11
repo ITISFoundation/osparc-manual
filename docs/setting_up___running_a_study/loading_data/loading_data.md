@@ -8,7 +8,7 @@ To upload a file from your local computer to *osparc*, you have two options, out
 ### Option 1: Drag and Drop File
 1. Navigate to the **Pipeline Workspace** where you would like to upload the file into a File Picker service.
 2. Open a the file browser of your local computer and find the file you would like to add.
-3. Drag and drop the file from your local file browswer into the empty space of your **Pipeline Workspace**.
+3. Drag and drop the file from your local file browser into the empty space of your **Pipeline Workspace**.
 
 Your file will be uploaded into a *File Picker* service, which you can then connect to another service which needs access to this file.
 
@@ -30,4 +30,4 @@ To make a file you have already uploaded available on a File Picker serfice, ent
 
 ![filepicker_simcore](https://user-images.githubusercontent.com/32800795/61489216-70972980-a9aa-11e9-9cd4-ba1131aba93c.JPG ':size=300%')
 
-If you have synchronized *osparc* with another [data directory](/docs/platform_introduction\main_window_and_navigation\data\cloud_storage_types.md), you will also see it here. To choose a file, simply click on the name of the file in the *osparc* simcor directory or your synced directory.
+If you have synchronized *osparc* with another [data directory](/docs/platform_introduction\main_window_and_navigation\data\cloud_storage_types.md), you will also see it here. To choose a file, simply click on the name of the file in the *osparc* simcore directory or your synced directory.

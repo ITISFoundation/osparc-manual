@@ -14,7 +14,7 @@ You should now see your flowchart with a File Picker service and a 2D Plot servi
 
 ## Loading the Data
 
-Double-click on File Picker which will bring you to the file selection menu. Expanding __My Data__ you should be able to see the folder __simcore.s3__. Selecting this, click on “Add file(s)” to add the provided “RNAdat.csv” file.
+Double-click on File Picker which will bring you to the file selection menu. Expanding __My Data__ you should be able to see the folder __simcore.s3__. Selecting this, click on “Add file(s)” to add the provided ```RNAdat.csv``` file.
 
 After the window refreshes, select through the directory tree:
 
@@ -22,11 +22,11 @@ My Data -> simcor.s3 -> PlotAdventure -> File Picker
 
 ![plot2d_tree](https://user-images.githubusercontent.com/32800795/61495276-cbd01880-a9b8-11e9-8b3b-5bc44584df8d.JPG ':size=550%')
 
-Here you should see your uploaded file RNAdat.csv. Double click to select it and it should now be visible on the file name field of the File Picker service.
+Here you should see your uploaded file ```RNAdat.csv```. Double click to select it and it should now be visible on the file name field of the File Picker service.
 
 ![Picture2](https://user-images.githubusercontent.com/32800795/61495315-f6ba6c80-a9b8-11e9-8801-af928997d566.png ':size=550%')
 
-Now double-click on the 2D Plotter which will bring you to the plot settings. To link the file into the input of the 2D Plotter, drag the RNAdat.csv file from the File Picker window to the first input in the 2D plot settings.
+Now double-click on the 2D Plotter which will bring you to the plot settings. To link the file into the input of the 2D Plotter, drag the ```RNAdat.csv``` file from the File Picker window to the first input in the 2D plot settings.
 
 ![linking_input](https://user-images.githubusercontent.com/32800795/61495333-0afe6980-a9b9-11e9-87f3-f8e620dacdd3.gif)
 
