@@ -1,7 +1,0 @@
-# Running a Simulation
-
-For your custom models and basic computations, running a study is straightforward. Once you have your flowchart connected, click the __Run__ button on the bottom right hand side of the screen.
-
-![Screenshot 2019-07-17 at 00 08 58](https://user-images.githubusercontent.com/32800795/61333423-2c2f5080-a827-11e9-93ff-f17751d64d85.png)
-
-![running_CC](https://user-images.githubusercontent.com/32800795/61584661-f1d9f200-ab4b-11e9-8eeb-d4baa96a7e06.gif ':size=500%')

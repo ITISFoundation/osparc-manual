@@ -15,13 +15,13 @@ Clicking on the icon provides:
 Entering the preferences dialog, a separate window pops up which allows the user to define and modify settings and preferences as follows:
 
 * __User Profile__ <br/>
-  Information like name and profile picture - the picutre is based on your [gravatar](https://en.gravatar.com/).
+  Information like name and profile picture - the picture is based on your [gravatar](https://en.gravatar.com/).
 
 * __Security Settings__ <br/>
   Here the user can change the password. Moreover (and quite important), in this dialog the user can specify access tokens for the DAT-Core/Blackfynn platform - for automated access of files (storage, retrieval) on Blackfynn.
 
 * __Additional (and Experimental) Settings__ <br/>
-  Here, e.g., the UI Theme can be set (light vs dark) and input/output ports can be set to map automatically. More details about this feature can be found [here](docs/setting_up___running_a_study/connecting_services?id=auto-connect-option).
+  Here, e.g., the UI Theme can be set (light vs dark) and input/output ports can be set to map automatically. More details about this feature can be found [here](docs/study_setup/connecting_services?id=auto-connect-option).
 
   ![prefs](../../../../_media/preference_exp.png) <br/>
 

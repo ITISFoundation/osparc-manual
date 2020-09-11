@@ -16,7 +16,7 @@ The compound action potential response can be viewed in terms of %maximal activa
 
 2. Then you may enter your desired pulse sweep parameters and then ```Predict CNAPS```. 
 
-3. On the right side, you will be able to view the results of the simulation, namely the compound action potentials induced by pulse sweeps. The viewers are interactive so feel free to pan, rotate, zoom and hover to look at specific datapoints. 
+3. On the right side, you will be able to view the results of the simulation, namely the compound action potentials induced by pulse sweeps. The viewers are interactive so feel free to pan, rotate, zoom and hover to look at specific data points. 
 
 ![Peek 2020-09-10 18-03](https://user-images.githubusercontent.com/28002886/92759449-0a305000-f390-11ea-9b5a-3e287e38674a.gif)
 

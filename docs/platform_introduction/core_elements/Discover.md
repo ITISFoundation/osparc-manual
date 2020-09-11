@@ -9,4 +9,4 @@ The top section, **Templates** refers to studies that you may reuse in your own 
 Any changes you make to the resulting copy will not affect the template which you have copied from. If you choose to create a template from a study you have created, it will also appear here in the **Discover** tab of the **Dashboard**.
 
 ## Services
-This section functions very simlarly to template studies. Clicking on a published service will create a study in your **Studies** tab with the single service inside the study. 
+This section functions very similarly to template studies. Clicking on a published service will create a study in your **Studies** tab with the single service inside the study. 
