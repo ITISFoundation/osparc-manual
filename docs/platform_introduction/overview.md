@@ -32,4 +32,4 @@ Welcome to *osparc*. This page gives a basic overview of how *osparc* works and 
 
 This just as a very brief overview of *osparc*. More details are provided now within the following sections.
 
-**To learn about study sharing and publishing, see [Sharing and Publishing Studies](/docs/setting_up___running_a_study/sharestudy.md)*
+**To learn about study sharing and publishing, see [Sharing and Publishing Studies](/docs/study_setup/sharestudy.md)*

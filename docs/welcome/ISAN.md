@@ -28,13 +28,13 @@ For ISAN, the platform provides the following capabilities and restrictions.
 
 The [SPARC Portal](http://dev-sparc-portal.sparc.science/) allows you to directly jump into one of the following studies and tutorial examples via the appropriate links:
 
-* [Cardiac Tissue Models](/docs/isan_studies___tutorials/uc_davies.md)
-* [2D Visualization](/docs/isan_studies___tutorials/2d_plot.md)
-* [SPARC Nerve Activity Predictor (SNAP)](/docs/isan_studies___tutorials/matt_ward.md)
-* [Anatomical Model Viewer](/docs/isan_studies___tutorials/anatomical_viewer.md)
-* [OpenCor – Cardiac Regulation](/docs/isan_studies___tutorials/opencor.md)
-* [Enteric Nervous Network Explorer](/docs/isan_studies___tutorials/bornstein_view.md)
-* [3D Vagus Nerve Stimulation Viewer](/docs/isan_studies___tutorials/3D_view.md)
+* [Cardiac Tissue Models](/docs/tutorials/uc_davies.md)
+* [2D Visualization](/docs/tutorials/2d_plot.md)
+* [SPARC Nerve Activity Predictor (SNAP)](/docs/tutorials/matt_ward.md)
+* [Anatomical Model Viewer](/docs/tutorials/anatomical_viewer.md)
+* [OpenCor – Cardiac Regulation](/docs/tutorials/opencor.md)
+* [Enteric Nervous Network Explorer](/docs/tutorials/bornstein_view.md)
+* [3D Vagus Nerve Stimulation Viewer](/docs/tutorials/3D_view.md)
 
 ### Limitations
 

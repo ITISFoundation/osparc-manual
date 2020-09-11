@@ -16,7 +16,7 @@ These options are:
 5. **Publish as Template** if selected, you will be allowed to create a copy of the study in its current state which will appear as a template study in the [Discover](docs/platform_introduction/core_elements/Discover.md) tab for users you share the template with.* 
 6. **Delete** as you may guess, this will delete the particular study, with a confirmation popup
 
-*To learn about study sharing and publishing, see [Sharing and Publishing Studies](/docs/setting_up___running_a_study/sharestudy.md)*
+*To learn about study sharing and publishing, see [Sharing and Publishing Studies](/docs/study_setup/sharestudy.md)*
 
 ## Study Workbench
 
