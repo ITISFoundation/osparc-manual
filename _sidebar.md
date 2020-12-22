@@ -40,6 +40,7 @@
   * [What is Sim4Life](/docs/sim4life/what_is_sim4life.md)
 * Developers
   * [Documentation](/docs/development.md)
+  * [Submitting Nodes](/docs/submission.md)
 <!-- * [Technical Requirements, Specs](/docs/technical_requirements__specs.md) -->
 * Support
   * [Help & Support](/docs/support.md)

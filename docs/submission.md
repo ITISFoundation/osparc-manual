@@ -1,6 +1,9 @@
-## Submitting Code as an oSPARC Service
-
+# Submitting Code as an oSPARC Node
 If you have a piece of code that you would like to make available to other oSPARC users, we would be happy to work with you to make this happen! To begin this process, you must first determine whether your code requires a custom GUI or real-time interaction to run (e.g. the [3D anatomical model viewer](/docs/tutorials/anatomical_viewer.md) )  or  if it can run unsupervised after setting some initial conditions/parameters (e.g. [OpenCOR cardiac model](docs/tutorials/opencor.md) ). 
+
+<p align="center">
+<iframe width="784" height="441" src="https://www.youtube.com/embed/lVdcyi47eCQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 ### Currently Supported Submissions
 * Python3
@@ -18,7 +21,7 @@ If you have a piece of code that you would like to make available to other oSPAR
 
 However if your code  doesn’t fall into one of these categories we can would still like to work with you! Message us at support@osparc.io with your specific requirements and we will find a solution together
 
-## To Submit 
+## To Submit - Submission Form
 1. Log into https://osparc.io/
 2. Navigate to the *Discover* tab
 3. In the *Services* section (under *Templates*) click ``Submit New Service``
@@ -26,9 +29,9 @@ However if your code  doesn’t fall into one of these categories we can would s
 5. Click ``Submit``
 6. Wait for your favorite team to get back to you
 
-[submission](/_media/submit.gif)
-## Submission Form Fields
-This section explains in detail the different fields that must be filled in the submission form introduced above.
+![submission](../_media/submit.gif)
+## What You Should Include in Your Submission
+This section explains in detail what to include with the submission form introduced above.
 ### Code
 If you have an interpreted language (MATLAB/Python) you can directly give us the code files. Otherwise, give us the binaries or the executable. If you are already using Docker, you may provide us your Docker images
 **Code Transfer Options**
@@ -38,7 +41,7 @@ If you have an interpreted language (MATLAB/Python) you can directly give us the
 
 ### Code Metadata
 Preferably in README submitted with your code repository/zip file and submission form.
-.
+
 **Code Requirements**
 
 For interpreted languages: 
@@ -72,7 +75,9 @@ To be submitted with your code repository/zip file and submission form.
 * description: what the variable is or what it means
 
 
-### Code Organization for Interpreted Languages (Python & MATLAB)
+## Code Organization for Interpreted Languages (Python & MATLAB)
+We also require a very loose code structure for interpreted language code submissions. These requirements are outlined below and if you need any help in implementation, do not hesitate to contact us at support@osparc.io 
+
 We require a “main” function that:
 * Calls other required functions (if any)
 * Takes all required inputs you would like to expose to the user
