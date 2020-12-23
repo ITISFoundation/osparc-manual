@@ -78,7 +78,7 @@ To be submitted with your code repository/zip file and submission form.
 ## Code Organization for Interpreted Languages (Python & MATLAB)
 We also require a very loose code structure for interpreted language code submissions. These requirements are outlined below and if you need any help in implementation, do not hesitate to contact us at support@osparc.io 
 
-We require a “main” function that:
+We require a ''main'' function that:
 * Calls other required functions (if any)
 * Takes all required inputs you would like to expose to the user
 * Creates output files (if any)
