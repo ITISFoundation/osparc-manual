@@ -1,5 +1,5 @@
 # Submitting Code as an oSPARC Node
-If you have a piece of code that you would like to make available to other oSPARC users, we would be happy to work with you to make this happen! To begin this process, you must first determine whether your code requires a custom GUI or real-time interaction to run (e.g. the [3D anatomical model viewer](/docs/tutorials/anatomical_viewer.md) )  or  if it can run unsupervised after setting some initial conditions/parameters (e.g. [OpenCOR cardiac model](docs/tutorials/opencor.md) ). 
+If you have a piece of code that you would like to make available to other oSPARC users, we would be happy to work with you to make this happen! To begin this process, you must first determine whether your code requires a custom GUI or real-time interaction to run (*e.g. the [3D anatomical model viewer](/docs/tutorials/anatomical_viewer.md)*)  or  if it can run unsupervised after setting some initial conditions/parameters (*e.g. [OpenCOR cardiac model](docs/tutorials/opencor.md)*). 
 
 <p align="center">
 <iframe width="784" height="441" src="https://www.youtube.com/embed/lVdcyi47eCQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -14,7 +14,7 @@ If you have a piece of code that you would like to make available to other oSPAR
     * Computer Vision
     * Bioinformatics
 * Executables: 
-    * Must be compiled in a Linux-based system (e.g. Ubuntu, Alpine, etc.)
+    * Must be compiled in a Linux-based system (*e.g. Ubuntu, Alpine, etc.*)
     * Any code dependencies must be able to be installed on a Linux OS with a free license
 * Docker Images: base image of Linux
 * Not too big (<50 Gb)
@@ -36,7 +36,7 @@ This section explains in detail what to include with the submission form introdu
 If you have an interpreted language (MATLAB/Python) you can directly give us the code files. Otherwise, give us the binaries or the executable. If you are already using Docker, you may provide us your Docker images
 **Code Transfer Options**
 * Git-based public repo is the preferred option so that we can keep track of the exact version. 
-* Alternatives to Github (e.g. Bitbucket, Sourceforge, Dockerhub etc.) are also possible
+* Alternatives to Github (*e.g. Bitbucket, Sourceforge, Dockerhub etc.*) are also possible
 * Attachment via .zip file to our submission form (10Mb limit)
 
 ### Code Metadata
@@ -45,7 +45,7 @@ Preferably in README submitted with your code repository/zip file and submission
 **Code Requirements**
 
 For interpreted languages: 
-* Version of the interpreter (e.g. Python 3, MATLAB R2017a) 
+* Version of the interpreter (*e.g. Python 3, MATLAB R2017a*) 
 * Dependencies on modules/libraries (Python) or special toolboxes (MATLAB)
 
 For binaries/executables: 
@@ -58,7 +58,7 @@ For all:
 ### Validation Data
 To be submitted with your code repository/zip file and submission form.
 * Input parameters taken by your CLI and the outputs that the code produces
-* Example: for input time=200, the CLI python3 run_timer.py ${time} should produce a text file list.txt with integer values from 0 to 200
+* An example validation test for us would be: for input ``time=200``, the CLI ``python3 run_timer.py ${time}`` should produce a text file ``list.txt`` that contains integer values from 0 to 200. Here the validation input data would be ``time=200`` and the validation output data would be the text file.
 
 
 ### User Metadata via Submission Form
@@ -67,18 +67,18 @@ To be submitted with your code repository/zip file and submission form.
 **Description:** let users know what your code does, (*e.g. This submission models transmembrane voltage of the XX nucleus in response to single-pulse stimulation of YY based on stimulation parameters ZZ*)
 
 **Inputs/outputs:**
-* name: variable name consistent with your CLI
-* type: type of variable (e.g. csv file, integer, string etc.)
-* label: name that the user sees
-* default value: to give the user a clue 
-* units: units of measure (*e.g. millivolts/mV, seconds/s, etc.*)
-* description: what the variable is or what it means
+* **name**: variable name consistent with your CLI
+* **type**: type of variable (*e.g. csv file, integer, string etc.*)
+* **label**: name that the user sees
+* **default value**: to give the user a clue 
+* **units**: units of measure (*e.g. millivolts/mV, seconds/s, etc.*)
+* **description**: what the variable is or what it means
 
 
 ## Code Organization for Interpreted Languages (Python & MATLAB)
 We also require a very loose code structure for interpreted language code submissions. These requirements are outlined below and if you need any help in implementation, do not hesitate to contact us at support@osparc.io 
 
-We require a ''main'' function that:
+We require a ``main`` function that:
 * Calls other required functions (if any)
 * Takes all required inputs you would like to expose to the user
 * Creates output files (if any)
