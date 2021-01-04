@@ -1,12 +1,12 @@
 # Services
 
-Every study in *osparc* is composed of at least one so-called service, though most studies will contain multiple services.
+Every study in *osparc* is composed of at least one so-called service (also called node), though most studies will contain multiple services.
 
 Services can provide data/files, visualize results (2D, 3D), implement code in [Jupyter notebooks](https://jupyter.org/) or perform computations to execute simulations within a study.
 
 The computational backend involves all services needed to handle the actual computational workload. A computational workflow is described as a pipeline that processes a stream of data in a sequential way. Every pipeline consists of multiple algorithms, each one expecting specific input data and providing specific output data.
 
-The pipeline can be built up as a directed acyclic graph (dag) where the lines between the services describe input/output flows and the nodes represent the algorithms (i.e., the computational kernels). Such kernels include standalone solvers, algorithms to perform specific calculations, or viewers that render data into graphs, plots or tables, etc.
+The pipeline can be built up as a directed acyclic graph (DAG) where the lines between the services describe input/output flows and the nodes represent the algorithms (i.e., the computational kernels). Such kernels include standalone solvers, algorithms to perform specific calculations, or viewers that render data into graphs, plots or tables, etc.
 
 All these services can be already provided within a study template or can be set up from scratch by the user by selecting options in the service catalog.
 
