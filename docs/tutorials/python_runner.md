@@ -9,7 +9,8 @@ To use the *oSparc Python Runner* service, first make sure that your code is org
 3. If your code has dependencies, please provide them in a ``requirements.txt`` file. If you have not done this before, [here](https://blog.usejournal.com/why-and-how-to-make-a-requirements-txt-f329c685181e) is a beginner's guide.  
 4. To write outputs to files that you can access on osparc (e.g. by linking from the output of the *oSparc Python Runner* to another service's input) make sure that any output files are written to the predfined osparc output folder. This can be done in your code by including the following lines:
     ```python
-    # In osparc, INPUT_FOLDER and OUTPUT_FOLDER are environment variables that map to the service input/output ports, respectively
+    # In osparc, INPUT_FOLDER and OUTPUT_FOLDER are environment variables 
+    # that map to the service input/output ports, respectively
     ENVIRONS = ["INPUT_FOLDER", "OUTPUT_FOLDER"]
     input_dir, output_dir = [Path(os.environ.get(v, None)) for v in ENVIRONS]
 
@@ -17,13 +18,13 @@ To use the *oSparc Python Runner* service, first make sure that your code is org
     # ...
 
     # Create names of output files
-    outputfile_0 = "my_output_file.txt" # replace my_output_file.txt with the name of your file
+
+    # replace my_output_file.txt with name of choice
+    outputfile_0 = "my_output_file.txt" 
     outputfile_0_name = os.path.join(output_dir, outputfile_0) 
+    # repeat previous two lines for as many files as needed
 
-    outputfile_1 = "another_output_file.txt" # replace another_output_file.txt with name of any other files
-    outputfile_1_name = os.path.join(output_dir, outputfile_1) 
-
-    # write data to outputfile_0_name, outputfile_1_name, etc.
+    # write data to outputfile_0_name, etc.
     # ...
     ```
 5. Compress all of your Python files, and the ``requirements.txt`` file into a single ``*.zip`` file. 
