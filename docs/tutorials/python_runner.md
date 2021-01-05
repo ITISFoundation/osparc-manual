@@ -13,10 +13,14 @@ To use the *oSparc Python Runner* service, first make sure that your code is org
     ENVIRONS = ["INPUT_FOLDER", "OUTPUT_FOLDER"]
     input_dir, output_dir = [Path(os.environ.get(v, None)) for v in ENVIRONS]
 
-    outputfile_0 = "myoutputs.txt" # replace myoutputs.txt with the name of your file
+    # Run computations/simulations/analyses
+    # ...
+
+    # Create names of output files
+    outputfile_0 = "my_output_file.txt" # replace my_output_file.txt with the name of your file
     outputfile_0_name = os.path.join(output_dir, outputfile_0) 
 
-    outputfile_1 = "myoutputs_continued.txt" # replace myoutputs_continued.txt with name of any other files
+    outputfile_1 = "another_output_file.txt" # replace another_output_file.txt with name of any other files
     outputfile_1_name = os.path.join(output_dir, outputfile_1) 
 
     # write data to outputfile_0_name, outputfile_1_name, etc.
