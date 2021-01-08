@@ -7,12 +7,12 @@ To use the *oSparc Python Runner* service, first make sure that your code is org
 1. If your code project consists of multiple ``*.py`` files, know that the *oSparc Python Runner* can only run one of them, but that one file can call other Python files. The one that the *oSparc Python Runner* runs should be named ``main.py``. If your code project consists of only one ``*.py`` file, the *oSparc Python Runner* will run that one regardless of the name.
 2. If your ``main.py`` file calls other Python files, make sure that these are called with relative paths and not absolute ones as the code will be copied into the *oSparc Python Runner*'s own environment as opposed to your local machine. 
 3. If your code has dependencies, please provide them in a ``requirements.txt`` file. If you have not done this before, [here](https://blog.usejournal.com/why-and-how-to-make-a-requirements-txt-f329c685181e) is a beginner's guide.  
-4. To write outputs to files that you can access on osparc (e.g. by linking from the output of the *oSparc Python Runner* to another service's input) make sure that any output files are written to the predfined osparc output folder. This can be done in your code by including the following lines:
+4. To write outputs to files that you can access on osparc (e.g. by linking from the output of the *oSparc Python Runner* to another service's input) make sure that any output files are written to the predefined osparc output folder that passed as environment variables. For instance, this can be done by including the following lines:
     ```python
     # In osparc, INPUT_FOLDER and OUTPUT_FOLDER are environment variables 
     # that map to the service input/output ports, respectively
-    ENVIRONS = ["INPUT_FOLDER", "OUTPUT_FOLDER"]
-    input_dir, output_dir = [Path(os.environ.get(v, None)) for v in ENVIRONS]
+    input_dir = os.environ["INPUT_FOLDER"] 
+    output_dir = os.environ["OUTPUT_FOLDER"]
 
     # Run computations/simulations/analyses
     # ...
