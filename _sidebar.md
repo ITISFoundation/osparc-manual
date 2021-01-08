@@ -31,6 +31,7 @@
   * [OpenCor – Cardiac Regulation](/docs/tutorials/opencor.md)
   * [Enteric Nervous Network Explorer](/docs/tutorials/bornstein_view.md)
   * [3D Vagus Nerve Stimulation Viewer](/docs/tutorials/3D_view.md)
+  * [oSparc Python Runner](/docs/tutorials/python_runner.md)
 * Anatomical Models
   * [Virtual Population](/docs/anatomical_models/virtual_family.md)
   * [NeuroCouple](/docs/anatomical_models/neurocouple.md)
