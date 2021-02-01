@@ -1,7 +1,7 @@
 
 ## API Reference
 
-[Read documentation](https://api.osparc.io/dev/docs)
+[Read documentation](https://api.osparc.io/dev/doc)
 
 ## Python Library (SDK)
 
