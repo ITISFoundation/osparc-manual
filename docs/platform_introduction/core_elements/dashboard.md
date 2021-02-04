@@ -11,7 +11,13 @@ Within the Dashboard a number of important sections and elements can be are high
    This button allows you to return to the Dashboard and Overview at any time from anywhere within the platform.
 
 2. **Study Filter and Search** <br/>
-   This tool allows you to filter studies (either your own or submitted by others) by tags that you have applied to your studies.
+   This tool allows you to filter studies, templates, and services (either your own or submitted by others) on the **Studies** and **Discover** tabs. You can filter by:
+      * string, name
+      * keywords
+      * [tags](/docs/platform_introduction/main_window_and_navigation/user_setup/profile.md)
+      * classifiers
+
+   The filtered items are then either highlighted in the flowchart, shown/hidden within services catalogues, etc. 
 
 3. **Dashboard Menu** <br/>
    The menu tabs give you quick access to a set of core elements of the platform, namely the Studies, the Services and the [Data](/docs/platform_introduction/core_elements/Data.md).

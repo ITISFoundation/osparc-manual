@@ -11,7 +11,8 @@
   * [Data](/docs/platform_introduction/core_elements/Data.md)
   * [Services](/docs/platform_introduction/core_elements/services.md)
   * [User Preferences](/docs/platform_introduction/main_window_and_navigation/user_setup/profile.md)
-  * [Security & DAT-Core](/docs/platform_introduction/main_window_and_navigation/user_setup/security_details.md)
+  * [Security & Tokens](/docs/platform_introduction/main_window_and_navigation/user_setup/security_details.md)
+  * [Annotations](/docs/platform_introduction/annotations.md)
 * Quick Start Guide
   * [Creating a Study](/docs/study_setup/create_study.md)
   * [Loading Data](/docs/study_setup/loading_data/loading_data.md)
@@ -22,7 +23,6 @@
   * [Visualization](/docs/study_setup/postpro_viewer_types.md)
   * [Retrieving Files](/docs/study_setup/loading_data/retrieving_files.md)
   * [Sharing Studies](/docs/study_setup/sharestudy.md)
-  * [Filtering](/docs/platform_introduction/main_window_and_navigation/filtering.md)
 * Tutorials
   * [Cardiac Tissue Models](/docs/tutorials/uc_davis.md)
   * [2D Visualization](/docs/tutorials/2d_plot.md)

@@ -1,4 +1,4 @@
-# Security & DAT-Core Access
+# Security & Tokens
 
 In this section and as an addition to the last section on user preferences, we'd like to particularly highlight how the user can specify access tokens for the DAT-Core/Blackfynn platform.
 
