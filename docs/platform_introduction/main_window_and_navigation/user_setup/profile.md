@@ -26,7 +26,7 @@ Entering the preferences dialog, a separate window pops up which allows the user
   ![prefs](../../../../_media/preference_exp.png) <br/>
 
 * __Tags__ <br/>
-  Here you may define custom tags, or labels, for your studies. Once you have created the tags, you may assign them by editing the metadata of a study. To do this, follow the steps below:
+  Here you may define custom tags, or labels, for your studies, that are only visible to you. Tagging a study and then sharing it does provide the same tag for those you have shared it with. Once you have created the tags, you may assign them by editing the metadata of a study. To do this, follow the steps below:
   1. Navigate to the **Studies** tab of the **Dashboard**
   2. Choose the study options (3-dot button) on the study you would like to assign a tag to
   3. choose **More Info** option
