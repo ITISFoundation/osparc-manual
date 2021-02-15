@@ -87,3 +87,17 @@ We need a **Command Line Interface (CLI)** to execute your code. This is the com
 * For MATLAB, this is defined by the MATLAB Compiler
 * For Python, several options are well-described here: https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df 
 
+## Showing Progress
+As a bonus feature, you may let the user know the progress of the code execution, if you are able to extract it during runtime. Examples of applicable cases include:
+* Knowledge of simulation time (e.g. the code simulates a process for 10 seconds, therefore knowledge of the second of simulation time gives #seconds*10%)
+* Knowledge of iterations required (e.g. for loop will iterate 100 times - each iteration is and additional 1% complete)
+
+To communicate this information, add a “print” or standard output statement to your code in the following formats:
+```
+"progress: 34%"
+"PROGRESS: .34"
+"progress: 0.44"
+"progress: 44 percent done"
+"progress: 44/150"
+```
+The *osparc* frontend will then automatically extract the percentage information to increment the progress bar on your computational node.
