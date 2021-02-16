@@ -89,7 +89,7 @@ We need a **Command Line Interface (CLI)** to execute your code. This is the com
 
 ## Showing Progress
 As a bonus feature, you may let the user know the progress of the code execution, if you are able to extract it during runtime. Examples of applicable cases include:
-* Knowledge of simulation time (e.g. the code simulates a process for 10 seconds, therefore knowledge of the second of simulation time gives #seconds*10%)
+* Knowledge of simulation time (e.g. the code simulates a process for 10 seconds, therefore knowledge of the second of simulation time gives $seconds * 10 %$)
 * Knowledge of iterations required (e.g. for loop will iterate 100 times - each iteration is and additional 1% complete)
 
 To communicate this information, add a “print” or standard output statement to your code in the following formats:
@@ -100,4 +100,7 @@ To communicate this information, add a “print” or standard output statement 
 "progress: 44 percent done"
 "progress: 44/150"
 ```
+<!-- SEE test in
+https://github.com/ITISFoundation/osparc-simcore/blob/6e2f71746a521fe0f48b582edb9af5b05ddb65b7/services/sidecar/tests/unit/test_log_parser.py#L39
+-->
 The *osparc* frontend will then automatically extract the percentage information to increment the progress bar on your computational node.
