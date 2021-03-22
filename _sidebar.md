@@ -45,3 +45,4 @@
 * Support
   * [Help & Support](/docs/support.md)
   * [License](/docs/license.md)
+  * [Known Bugs](/docs/knownbugs.md)
