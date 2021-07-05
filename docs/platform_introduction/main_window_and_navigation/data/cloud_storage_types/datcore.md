@@ -2,7 +2,7 @@
 
 In order to embed your data into services and studies, and to store, retrieve and maintain your data and files within the *osparc* platform, we are currently offering two convenient options:
 
-* Dat-Core / Blackfynn
+* Dat-Core / Pennsieve
 * Sim-Core S3
 
 Both are accessible using the File Picker or the Data tab in the Dashboard. Files can be selected from there to be used within services. Moreover, files can be added (e.g., from your local disk), deleted or downloaded from one of the cloud storages to your computer.
@@ -12,9 +12,9 @@ Both are accessible using the File Picker or the Data tab in the Dashboard. File
 
 ## Dat-Core
 
-One option of storing, accessing and handling data is provided via the Dat-Core / [Blackfynn](https://www.blackfynn.com), being part of the DRC.
-* You'll need access and thus an account/login for the Blackfynn platform.
-* In order to "link" your Blackfynn account directly into *osparc*, please follow the procedure outlined in its dedicated [section](/docs/platform_introduction/main_window_and_navigation/user_setup/security_details.md).
+One option of storing, accessing and handling data is provided via the Dat-Core / [Pennsieve](https://discover.pennsieve.io/), being part of the DRC.
+* You'll need access and thus an account/login for the Pennsieve platform.
+* In order to "link" your Pennsieve account directly into *osparc*, please follow the procedure outlined in its dedicated [section](/docs/platform_introduction/main_window_and_navigation/user_setup/security_details.md).
 * Depending on the login/credentials which are used, you'll have access to your own repository or a shared one, e.g., via SPARC.
 * Using the Dat-Core as cloud storage medium is required in case you would like to access SPARC related (shared) data and recommended for sharing datafiles with other groups and collaborators anyhow.
 
