@@ -8,7 +8,7 @@
 * DRC
 
   * [IT'IS](https://itis.swiss/)
-  * [Blackfynn](https://www.blackfynn.com)
+  * [Pennsieve](https://www.Pennsieve.com)
   * [Auckland](https://www.auckland.ac.nz/en.html)
   * [MBF](https://www.mbfbioscience.com/)
 

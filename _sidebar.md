@@ -1,7 +1,7 @@
 <!-- _sidebar.md -->
 
 * [Welcome](/docs/welcome/welcome.md)
-* Platform Overview
+* [Platform Overview](/docs/platform_introduction/overview.md)
   * [Overview](/docs/platform_introduction/overview.md)
   * [Dashboard](/docs/platform_introduction/core_elements/dashboard.md)
   * [Studies](/docs/platform_introduction/core_elements/studies.md)
@@ -11,7 +11,7 @@
   * [User Preferences](/docs/platform_introduction/main_window_and_navigation/user_setup/profile.md)
   * [Security & Tokens](/docs/platform_introduction/main_window_and_navigation/user_setup/security_details.md)
   * [Annotations](/docs/platform_introduction/annotations.md)
-* Quick Start Guide
+* [Quick Start Guide](/docs/study_setup/start.md)
   * [Creating a Study](/docs/study_setup/create_study.md)
   * [Loading Data](/docs/study_setup/loading_data/loading_data.md)
   * [Connecting Services](/docs/study_setup/connecting_services.md)
@@ -21,7 +21,7 @@
   * [Visualization](/docs/study_setup/postpro_viewer_types.md)
   * [Retrieving Files](/docs/study_setup/loading_data/retrieving_files.md)
   * [Sharing Studies](/docs/study_setup/sharestudy.md)
-* Tutorials
+* [Tutorials](/docs/tutorials/tutorials.md)
   * [Cardiac Tissue Models](/docs/tutorials/uc_davis.md)
   * [2D Visualization](/docs/tutorials/2d_plot.md)
   * [SPARC Nerve Activity Predictor (SNAP)](/docs/tutorials/matt_ward.md)
@@ -30,17 +30,14 @@
   * [Enteric Nervous Network Explorer](/docs/tutorials/bornstein_view.md)
   * [3D Vagus Nerve Stimulation Viewer](/docs/tutorials/3D_view.md)
   * [oSparc Python Runner](/docs/tutorials/python_runner.md)
-* Anatomical Models
-  * [Virtual Population](/docs/anatomical_models/virtual_family.md)
-  * [NeuroCouple](/docs/anatomical_models/neurocouple.md)
+* [Anatomical Models](/docs/anatomical_models/anatomical.md)
   <!-- * [Future: 3D EM-Neuro Stimulation Simulation](/docs/anatomical_models/future:_3d_em_neuro_stimulation_simulation.md) -->
-* Sim4Life
-  * [What is Sim4Life](/docs/sim4life/what_is_sim4life.md)
-* Developers
+* [Sim4Life](/docs/sim4life/what_is_sim4life.md)
+* [Developers](/docs/development.md)
   * [Documentation](/docs/development.md)
   * [Submitting Nodes](/docs/submission.md)
 <!-- * [Technical Requirements, Specs](/docs/technical_requirements__specs.md) -->
-* Support
+* [Support](/docs/support.md)
   * [Help & Support](/docs/support.md)
   * [License](/docs/license.md)
   * [Known Bugs](/docs/knownbugs.md)

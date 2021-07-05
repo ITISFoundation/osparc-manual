@@ -18,7 +18,7 @@ Entering the preferences dialog, a separate window pops up which allows the user
   Information like name and profile picture - the picture is based on your [gravatar](https://en.gravatar.com/).
 
 * __Security Settings__ <br/>
-  Here the user can change the password. Moreover (and quite important), in this dialog the user can specify access tokens for the DAT-Core/Blackfynn platform - for automated access of files (storage, retrieval) on Blackfynn.
+  Here the user can change the password. Moreover (and quite important), in this dialog the user can specify access tokens for the DAT-Core/Pennsieve platform - for automated access of files (storage, retrieval) on Pennsieve.
 
 * __Additional (and Experimental) Settings__ <br/>
   Here, e.g., the UI Theme can be set (light vs dark) and input/output ports can be set to map automatically. More details about this feature can be found [here](docs/study_setup/connecting_services?id=auto-connect-option).
