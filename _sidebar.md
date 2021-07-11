@@ -34,10 +34,11 @@
   <!-- * [Future: 3D EM-Neuro Stimulation Simulation](/docs/anatomical_models/future:_3d_em_neuro_stimulation_simulation.md) -->
 * [Sim4Life](/docs/sim4life/what_is_sim4life.md)
 * [Developers](/docs/development.md)
-  * [Documentation](/docs/development.md)
+  * [API Documentation](/docs/development.md)
   * [Submitting Nodes](/docs/submission.md)
 <!-- * [Technical Requirements, Specs](/docs/technical_requirements__specs.md) -->
 * [Support](/docs/support.md)
   * [Help & Support](/docs/support.md)
   * [License](/docs/license.md)
   * [Known Bugs](/docs/knownbugs.md)
+* [FAIR Codeathon 2021](/docs/codeathon.md)
