@@ -16,7 +16,7 @@ Here it is important in the settings to make sure the correct input is assigned 
 You may also activate or deactive an option to automatically assign inputs to respective ports. This automatic assignment only is possible, however, when there exist unique compatible input types between the inputs being connected to a service and the input types that the service expects. For example, if a service expects *one* file input and *one* numerical input, automatic port connection is only possible when a single file output and a single numerical output is connected from a previous service to the current service. 
 
 To activate the auto-connect option:
-1. Click on your username in the top right corner of any osparc page, and choose *Preferences*
+1. Click on your username in the top right corner of any o²S²PARC page, and choose *Preferences*
 2. In the popup, click on the beaker icon on the left side (indicating experimental features). 
 3. Check the box next to "Connect ports automatically"
 

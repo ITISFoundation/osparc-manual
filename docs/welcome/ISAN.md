@@ -1,25 +1,25 @@
 # ISAN - Good To Know
 
-The IT'IS Foundation - as part of the DRC - is greatly pleased to welcome you to *osparc*, our online simulation platform for peripheral nerve system stimulation.
+The IT'IS Foundation - as part of the DRC - is greatly pleased to welcome you to *o²S²PARC*, our online simulation platform for peripheral nerve system stimulation.
 
 ## Introduction
 
 Being a central part of the NIH SPARC initiative, the SPARC Portal is a free, open-source platform that aims to catalyze the development of next-generation bioelectronic medicines. The SPARC Portal provides a growing collection of autonomic neuroscience datasets, maps, and computational models ⁠— as well as the ability to interact with those resources all easy accessible within a web browser. Launched in July 2019 at ISAN, the Portal will ultimately enable users to run advanced analytics and multiscale simulations for predicting the effects of neuromodulation on organ function.
 
-The computational part of the SPARC portal is powered by *osparc*. The *osparc* platform is a unique, open, online-accessible system that hosts all computational models developed by SPARC teams and allows to share, execute, and couple these models to facilitate *in silico* studies.
+The computational part of the SPARC portal is powered by *o²S²PARC*. The *o²S²PARC* platform is a unique, open, online-accessible system that hosts all computational models developed by SPARC teams and allows to share, execute, and couple these models to facilitate *in silico* studies.
 
-A first glimpse on the IT'IS *osparc* platform is provided at ISAN through the Portal. Provided examples range from data and anatomy visualization to the use of machine learning to predict compound action potentials, electrophysiological simulation of a small enteric network and of cardiac myocytes and tissue, and a multiscale model of cardiac control.
+A first glimpse on the IT'IS *o²S²PARC* platform is provided at ISAN through the Portal. Provided examples range from data and anatomy visualization to the use of machine learning to predict compound action potentials, electrophysiological simulation of a small enteric network and of cardiac myocytes and tissue, and a multiscale model of cardiac control.
 
 ## Important Information
 
-Please note that this is the first time ever for *osparc* to appear live to a broader audience.
+Please note that this is the first time ever for *o²S²PARC* to appear live to a broader audience.
 The platform is still in an early preview state, thus providing limited functionality. We appreciate your patience and understanding for potential random glitches and issues.
 
 Our support team is here to help with anything you need. Please feel free to [contact us](mailto:support@osparc.io) in case of questions or any required assistance.
 
 We look forward to receiving your [feedback](mailto:support@osparc.io).
 
-Enjoy *osparc*!
+Enjoy *o²S²PARC*!
 
 ## Capabilities & Restrictions
 For ISAN, the platform provides the following capabilities and restrictions.
@@ -50,4 +50,4 @@ The [SPARC Portal](http://dev-sparc-portal.sparc.science/) allows you to directl
 
 ## Beta User Program
 
-If you are interested in *osparc*'s full capabilities and would like to apply for our *beta user program*, please send us an [email](mailto:support@osparc.io) or directly talk to one of our experts at the ISAN conference.
+If you are interested in *o²S²PARC*'s full capabilities and would like to apply for our *beta user program*, please send us an [email](mailto:support@osparc.io) or directly talk to one of our experts at the ISAN conference.

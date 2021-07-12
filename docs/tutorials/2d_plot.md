@@ -1,6 +1,6 @@
 # 2D Visualization
 
-Here we will describe the use of the *osparc* platform to create a simple 2-dimensional plot. You will see that the interface is interactive and may show you data in new ways! To demonstrate this feature, we will be using gene expression data from the group of Leah Reznikov at the University of Florida.
+Here we will describe the use of the *o²S²PARC* platform to create a simple 2-dimensional plot. You will see that the interface is interactive and may show you data in new ways! To demonstrate this feature, we will be using gene expression data from the group of Leah Reznikov at the University of Florida.
 
 As a quick overview of the data set, the experiment was set up such that male and female neonatal piglets were exposed to either Acid (test) or saline (control) after which gene expression was measured in the epithelial tissue (EP), vagal ganglia (VG) or the nucleus tractus solitarii (NT) which are cardiopulmonary vagal afferents.
 
@@ -8,7 +8,7 @@ Please note that the main purpose of this example is to illustrate how to genera
 
 ## Loading the Template
 
-To begin, open the *osparc* platform in your browser and choose the 2D plot template in the bottom ribbon menu. Choose a descriptive name for your study – we will call it “PlotAdventure” - and then click __Create__.
+To begin, open the *o²S²PARC* platform in your browser and choose the 2D plot template in the bottom ribbon menu. Choose a descriptive name for your study – we will call it “PlotAdventure” - and then click __Create__.
 
 You should now see your flowchart with a File Picker service and a 2D Plot service.
 
@@ -30,7 +30,7 @@ Now double-click on the 2D Plotter which will bring you to the plot settings. To
 
 ![linking_input](https://user-images.githubusercontent.com/32800795/61495333-0afe6980-a9b9-11e9-87f3-f8e620dacdd3.gif)
 
-Scrolling to the bottom, you will see options for plotting with Rawgraph and various data inputs for plots. Select oSPARC inputs and then selecting __input_1:RNAdat.csv__ should load the data into the GUI. You are now ready to make your own 2D plot!
+Scrolling to the bottom, you will see options for plotting with Rawgraph and various data inputs for plots. Select o²S²PARC inputs and then selecting __input_1:RNAdat.csv__ should load the data into the GUI. You are now ready to make your own 2D plot!
 
 ![loading_data](https://user-images.githubusercontent.com/32800795/61495334-0afe6980-a9b9-11e9-9f24-ebd7020ed956.gif)
 

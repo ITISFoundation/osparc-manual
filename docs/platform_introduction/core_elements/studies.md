@@ -12,7 +12,9 @@ These options are:
 1. **Select:** allows you to select this study and/or others, primarily useful for deletion
 2. **More Info:** allows you to view and edit metadata for a study including its title, description and icon
 3. **Classifiers** allows you to assign classifiers (curated descriptors) for a study which can then be used for search and filtering using the filter tool on the [Dashboard](docs/platform_introduction/core_elements/dashboard.md). See [Annotations](/docs/platform_introduction/annotations.md) for more details. 
-4. **Permissions** allows you view who the study is shared with and to add collaborators to the study. See [Sharing Studies](/docs/study_setup/sharestudy.md) for more details.
+4. **Sharing** allows you view who the study is shared with and to add collaborators to the study. See [Sharing Studies](/docs/study_setup/sharestudy.md) for more details.
+5. **Duplicate** allows you to create a copy of that study which will be renamed with a timestamp
+6. **Export** allows you to download the study as a *.osparc* file which can then be imported back onto the platform by yourself or anyone who has that file
 5. **Publish as Template** if selected, you will be allowed to create a copy of the study in its current state which will appear as a template study in the [Discover](docs/platform_introduction/core_elements/Discover.md) tab for users you share the template with.* 
 6. **Delete** as you may guess, this will delete the particular study, with a confirmation popup
 

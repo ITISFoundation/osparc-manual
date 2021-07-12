@@ -1,6 +1,6 @@
 # Services
 
-Every study in *osparc* is composed of at least one so-called service (also called node), though most studies will contain multiple services.
+Every study in *o²S²PARC* is composed of at least one so-called service (also called node), though most studies will contain multiple services.
 
 Services can provide data/files, visualize results (2D, 3D), implement code in [Jupyter notebooks](https://jupyter.org/) or perform computations to execute simulations within a study.
 

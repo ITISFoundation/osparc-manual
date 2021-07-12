@@ -1,8 +1,8 @@
 # Annotations
-One important aspect of *osparc* is its adherence to [**FAIR**](https://www.nature.com/articles/sdata201618) (**F**indable **A**ccessible **I**nteroperable **R**eusable) data and code-based artifacts (e.g. models, simulations, data processing modules). To that end, we enable several different features to promote FAIR principles. 
+One important aspect of *o²S²PARC* is its adherence to [**FAIR**](https://www.nature.com/articles/sdata201618) (**F**indable **A**ccessible **I**nteroperable **R**eusable) data and code-based artifacts (e.g. models, simulations, data processing modules). To that end, we enable several different features to promote FAIR principles. 
 
 ## Classifiers
-Classifiers are annotations that can be attached to either **Studies** or **Services** in *osparc*. These classifiers are based on curated resource identifiers, defined in greater detail at https://scicrunch.org/resources. Adding classifiers to your published studies allows other users to find your work and identify other possibly compatible submissions. Each **Classifier** is a resource with unique identifying number. 
+Classifiers are annotations that can be attached to either **Studies** or **Services** in *o²S²PARC*. These classifiers are based on curated resource identifiers, defined in greater detail at https://scicrunch.org/resources. Adding classifiers to your published studies allows other users to find your work and identify other possibly compatible submissions. Each **Classifier** is a resource with unique identifying number. 
 
 To add a **Classifier** to your study, follow the steps below,
 1. Navigate to the **Studies** tab of the **Dashboard**

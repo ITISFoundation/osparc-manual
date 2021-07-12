@@ -3,7 +3,7 @@
 To run a study with computational services, you will generally need to load your data. For now, this will only be done with the File Picker service. 
 
 ## Adding a Local File
-To upload a file from your local computer to *osparc*, you have two options, outlined below. **WARNING:** only *one* file can be loaded into the File Picker at a time.
+To upload a file from your local computer to *o²S²PARC*, you have two options, outlined below. **WARNING:** only *one* file can be loaded into the File Picker at a time.
 
 ### Option 1: Drag and Drop File
 1. Navigate to the **Pipeline Workspace** where you would like to upload the file into a File Picker service.
@@ -30,4 +30,4 @@ To make a file you have already uploaded available on a File Picker serfice, ent
 
 ![filepicker_simcore](https://user-images.githubusercontent.com/32800795/61489216-70972980-a9aa-11e9-9cd4-ba1131aba93c.JPG ':size=300%')
 
-If you have synchronized *osparc* with another [data directory](/docs/platform_introduction\main_window_and_navigation\data\cloud_storage_types.md), you will also see it here. To choose a file, simply click on the name of the file in the *osparc* simcore directory or your synced directory.
+If you have synchronized *o²S²PARC* with another [data directory](/docs/platform_introduction\main_window_and_navigation\data\cloud_storage_types.md), you will also see it here. To choose a file, simply click on the name of the file in the *o²S²PARC* simcore directory or your synced directory.
