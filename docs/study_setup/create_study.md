@@ -1,6 +1,6 @@
 # Create a Study
 
-You may choose to create a study (*osparc* project) from scratch or based on an existing template. To create an empty study with no services inside, navigate to the the **Studies** tab of the **Dashboard** and click on the ```Empty Study``` button, which will take you directly to the **Study Workspace** of your new study.
+You may choose to create a study (*o²S²PARC* project) from scratch or based on an existing template. To create an empty study with no services inside, navigate to the the **Studies** tab of the **Dashboard** and click on the ```Empty Study``` button, which will take you directly to the **Study Workspace** of your new study.
 
 ![emptystudy](../../_media/emptystudy.png)
 

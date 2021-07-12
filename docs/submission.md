@@ -1,5 +1,5 @@
-# Submitting Code as an oSPARC Node
-If you have a piece of code that you would like to make available to other oSPARC users, we would be happy to work with you to make this happen! To begin this process, you must first determine whether your code requires a custom GUI or real-time interaction to run (*e.g. the [3D anatomical model viewer](/docs/tutorials/anatomical_viewer.md)*)  or  if it can run unsupervised after setting some initial conditions/parameters (*e.g. [OpenCOR cardiac model](docs/tutorials/opencor.md)*). 
+# Submitting Code as an o²S²PARC Node
+If you have a piece of code that you would like to make available to other o²S²PARC users, we would be happy to work with you to make this happen! To begin this process, you must first determine whether your code requires a custom GUI or real-time interaction to run (*e.g. the [3D anatomical model viewer](/docs/tutorials/anatomical_viewer.md)*)  or  if it can run unsupervised after setting some initial conditions/parameters (*e.g. [OpenCOR cardiac model](docs/tutorials/opencor.md)*). 
 
 <p align="center">
 <iframe width="784" height="441" src="https://www.youtube.com/embed/lVdcyi47eCQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -103,4 +103,4 @@ To communicate this information, add a “print” or standard output statement 
 <!-- SEE test in
 https://github.com/ITISFoundation/osparc-simcore/blob/6e2f71746a521fe0f48b582edb9af5b05ddb65b7/services/sidecar/tests/unit/test_log_parser.py#L39
 -->
-The *osparc* frontend will then automatically extract the percentage information to increment the progress bar on your computational node.
+The *o²S²PARC* frontend will then automatically extract the percentage information to increment the progress bar on your computational node.

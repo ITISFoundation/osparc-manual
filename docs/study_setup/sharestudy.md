@@ -1,9 +1,9 @@
 # Sharing and Publishing Studies
 
-There are two ways in which your work on the online platform can be accessed by others. You may either share and instance of your study with other member(s) of an organization, or  publish the study as a template for other members to copy. 
+There are two ways in which your work on the online platform can be accessed by others. You may either share an instance of your study with other member(s) of an organization, or  publish the study as a template for other members to copy. 
 
 ## Organization
-An organization is any group of oSPARC users that are able to share studies with each other. To see which organizations you are a part of, go to your user preferences through your [Profile](docs/platform_introduction/main_window_and_navigation/user_setup/profile) button on the top right right corner of the user interface. Then choose the organization icon (the last icon) which will display all organizations you belong to and you may see the members of each organization by clicking on it. The member details will be then displayed in the lower half of the window under ```Members```. There are three different types of members in an organization:
+An organization is any group of o²S²PARC users that are able to share studies with each other. To see which organizations you are a part of, go to your user preferences through your [Profile](docs/platform_introduction/main_window_and_navigation/user_setup/profile) button on the top right corner of the user interface. Then choose the organization icon (the last icon) which will display all organizations you belong to and you may see the members of each organization by clicking on it. The member details will be then displayed in the lower half of the window under ```Members```. There are three different types of members in an organization:
 1. **Regular Member**
     * Has access to shared content of the organization
     * Can share content with the organization
@@ -16,7 +16,7 @@ An organization is any group of oSPARC users that are able to share studies with
     * Can edit the organization’s description
     * Can delete the organization
 
-To create a new organization, click the ```Create New Organization``` button and add members by entering each new member's oSPARC email address and then clicking ```Invite```. Note that you may only add members that are already registered o²S²PARC users. If a user is successfully added, you will see a confirmation message and if there was an error, e.g. the email address is not registered, you will see an error message pop up. You may then change each member's privileges by clicking on that member's name. 
+To create a new organization, click the ```Create New Organization``` button and add members by entering each new member's o²S²PARC email address and then clicking ```Invite```. Note that you may only add members that are already registered o²S²PARC users. If a user is successfully added, you will see a confirmation message and if there was an error, e.g. the email address is not registered, you will see an error message pop up. You may then change each member's privileges by clicking on that member's name. 
 
 ![organization](../../_media/organization.png)
 

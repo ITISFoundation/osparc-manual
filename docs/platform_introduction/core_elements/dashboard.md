@@ -3,7 +3,7 @@
 The Dashboard is your hub which contains studies you have created as well as studies that have been shared with you. From the Dashboard you are able to open your projects and studies in the **Workbench** or create a new studies from scratch.
 
 ![dash](../../../_media/dashboard.png)
-*Main sections and elements of the *osparc* Dashboard.*
+*Main sections and elements of the *o²S²PARC* Dashboard.*
 
 Within the Dashboard a number of important sections and elements can be are highlighted:
 
