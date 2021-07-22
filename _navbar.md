@@ -17,3 +17,15 @@
   * [ETHZ](https://ethz.ch/)
   * [ZMT](https://www.zmt.swiss)
   * [FDA](https://www.fda.gov)
+
+* Powered By
+
+  * [Adminer](https://www.adminer.org/)
+  * [Celery](https://docs.celeryproject.org/en/stable/)  
+  * [Dask](https://dask.org/)
+  * [Docker](https://www.docker.com/)
+  * [Flower](https://github.com/mher/flower)
+  * [Github](https://github.com/)
+  * [MinIO](https://min.io/)
+  * [Portainer](https://www.portainer.io/)
+  * [Redis](https://redis.io/)
