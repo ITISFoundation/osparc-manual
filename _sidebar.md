@@ -1,6 +1,6 @@
 <!-- _sidebar.md -->
 
-* [Welcome](README.md)
+* [Welcome](/docs/welcome/Intro.md)
   * [Background](/docs/welcome/welcome.md)
   * [What is o²S²PARC](/docs/welcome/what_is_osparc.md)
 * [Platform Overview](/docs/platform_introduction/overview.md)
