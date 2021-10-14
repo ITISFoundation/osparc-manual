@@ -26,7 +26,7 @@ For ISAN, the platform provides the following capabilities and restrictions.
 
 ### Provided Studies and Tutorials
 
-The [SPARC Portal](http://dev-sparc-portal.sparc.science/) allows you to directly jump into one of the following studies and tutorial examples via the appropriate links:
+The [SPARC Portal](http://dev-sparc-portal.sparc.science/) allows you to directly jump into one of the following Studies and tutorial examples via the appropriate links:
 
 * [Cardiac Tissue Models](/docs/tutorials/uc_davies.md)
 * [2D Visualization](/docs/tutorials/2d_plot.md)
@@ -40,13 +40,13 @@ The [SPARC Portal](http://dev-sparc-portal.sparc.science/) allows you to directl
 
 * **Anonymous User** <br/>
 
-  The study links from the [SPARC Portal](http://dev-sparc-portal.sparc.science/) bring you directly into the study in the workbench - without going via the Dashboard.
+  The Study links from the [SPARC Portal](http://dev-sparc-portal.sparc.science/) bring you directly into the Study in the workbench - without going via the Dashboard.
 
-  Doing so, you will be logged into the platform with an "Anonymous User" status, which allows you to operate within the study (change parameters, run simulations, view data, 3D models, results, etc.). However, this user status does not allow you to go far beyond the individual studies and explore the whole platform.
+  Doing so, you will be logged into the platform with an "Anonymous User" status, which allows you to operate within the Study (change parameters, run simulations, view data, 3D models, results, etc.). However, this user status does not allow you to go far beyond the individual Studies and explore the whole platform.
 
 * **Limited Functionality**
 
-  The "Anonymous User" is granted only limited access and capabilities of the platform  directly tailored to the needs at ISAN. Features like setting up new or modifying existing studies, operating in the Dashboard, using your own Jupyter notebooks, etc. are not provided at this time.
+  The "Anonymous User" is granted only limited access and capabilities of the platform  directly tailored to the needs at ISAN. Features like setting up new or modifying existing Studies, operating in the Dashboard, using your own Jupyter notebooks, etc. are not provided at this time.
 
 ## Beta User Program
 

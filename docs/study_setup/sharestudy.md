@@ -1,6 +1,6 @@
 # Sharing and Publishing Studies
 
-There are two ways in which your work on the online platform can be accessed by others. You may either share an instance of your study with other member(s) of an organization, or  publish the study as a template for other members to copy. 
+There are two ways in which your work on the online platform can be accessed by others. You may either share an instance of your Study with other member(s) of an organization, or  publish the Study as a Template for other members to copy. 
 
 For a full demonstration of these functionalities, take a look at our webinar on collaboration!
 
@@ -9,7 +9,7 @@ For a full demonstration of these functionalities, take a look at our webinar on
 </p>
 
 ## Organization
-An organization is any group of o²S²PARC users that are able to share studies with each other. To see which organizations you are a part of, go to your user preferences through your [Profile](docs/platform_introduction/main_window_and_navigation/user_setup/profile) button on the top right corner of the user interface. Then choose the organization icon (the last icon) which will display all organizations you belong to and you may see the members of each organization by clicking on it. The member details will be then displayed in the lower half of the window under ```Members```. There are three different types of members in an organization:
+An organization is any group of o²S²PARC users that are able to share Studies with each other. To see which organizations you are a part of, go to your user preferences through your [Profile](docs/platform_introduction//user_setup/profile) button on the top right corner of the user interface. Then choose the organization icon (the last icon) which will display all organizations you belong to and you may see the members of each organization by clicking on it. The member details will be then displayed in the lower half of the window under ```Members```. There are three different types of members in an organization:
 1. **Regular Member**
     * Has access to shared content of the organization
     * Can share content with the organization
@@ -27,22 +27,24 @@ To create a new organization, click the ```Create New Organization``` button and
 ![organization](../../_media/organization.png)
 
 ## Sharing a Study
-Sharing a study instance with other users allows collaboration on the same pipeline and code. When one member of the shared users is editing a study, the study is locked for the others. When that user finishes and returns to their dashboard, the changes will be updated when another member accesses the study. 
+Sharing a Study instance with other users allows collaboration on the same pipeline and code. When one member of the shared users is editing a Study, the Study is locked for the others. When that user finishes and returns to their Dashboard, the changes will be updated when another member accesses the Study. 
 
-![studyoptions](https://github.com/ITISFoundation/osparc-manual-z43/blob/master/docs/_media/studyoptions.png?raw=true)
+![studyoptions](https://user-images.githubusercontent.com/28002886/137308800-0b7b4c5d-c04d-493b-a073-dc60c228b445.png ':size=200')
 
-To share a study:
-1. Access the study's options from the Dashboard by clicking on the three dot button on the upper right hand corner of the study's card. 
+To share a Study:
+1. Access the Study's options from the Dashboard by clicking on the three dot button on the upper right hand corner of the Study's card. 
 2. Choose the ```Permissions``` option
 3. In the popup, click on the ```Members``` dropdown to see the list of users you may share with and then click the ```Add``` button.
-4. The study will then appear in the **Studies** tab of the user(s) you have shared with. 
+4. The Study will then appear in the **Studies** tab of the user(s) you have shared with. 
 
 ## Publishing a Study as a Template
-Publishing a study as a template will save the state of the study at the current moment and it will appear as a *Template Study* in the **Discover** tab. Any changes made to the original study after publishing as a template will not change the template. Clicking on the template in the **Discover** tab will create a copy of the contents of the template accessible in your **Studies** tab. Any changes you make to this study will not affect the template. 
+Publishing a Study as a Template will save the state of the Study at the current moment and it will appear as a *Template Study* in the **Discover** tab. Any changes made to the original Study after publishing as a Template will not change the Template. Clicking on the Template in the **Discover** tab will create a copy of the contents of the Template accessible in your **Studies** tab. Any changes you make to this Study will not affect the Template. 
 
-To publish your study as a template:
-1. Access the study's options from the Dashboard by clicking on the three dot button on the upper right hand corner of the study's card. 
+To publish your Study as a Template:
+1. Access the Study's options from the Dashboard by clicking on the three dot button on the upper right hand corner of the Study's card. 
 2. Choose the ```Publish as Template``` option.
-3. The template will now appear as a **Template Study** in your **Discover** tab.
+3. Set the access rights of the Template in the popup menu. You may make the Template accessible to only yourself or members of organizations. If you choose **Organizations**, you will be able to select from the list of organizations that you are a part of. 
+4. Click the ```Publish``` button on the bottom right hand corner
+5. The Template will now appear as a **Template Study** in your **Discover** tab. IF you have chosen to share the Template with members of an organization, others in that same organization will also see the Study in their respective **Discover** tabs.
 
 
