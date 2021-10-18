@@ -1,12 +1,12 @@
 # UC Davis - Cardiac Tissue Models
 
 
-The multi-scale cardiac electrophysiology services from the laboratory of [Prof. Colleen Clancy](https://health.ucdavis.edu/publish/providerbio/pharmacology/faculty/21746#.XTcp2ugzabg) provide a computational workflow for the integration and implementation of a reusable and reproducible cardiac multi-scale electrophysiology model. The workflow integrates multistep single-cell, 1D and 2D model simulations in a single automated process. The model formulation for ventricular cells from rabbit Soltis-Saucerman (1), and human Grandi-Bers (2) are implemented in the workflow.  Both models contain beta-adrenergic signaling pathways, and the firing rate model (unpublished Lewis model).
+The multi-scale cardiac electrophysiology Services from the laboratory of [Prof. Colleen Clancy](https://health.ucdavis.edu/publish/providerbio/pharmacology/faculty/21746#.XTcp2ugzabg) provide a computational workflow for the integration and implementation of a reusable and reproducible cardiac multi-scale electrophysiology model. The workflow integrates multistep single-cell, 1D and 2D model simulations in a single automated process. The model formulation for ventricular cells from rabbit Soltis-Saucerman (1), and human Grandi-Bers (2) are implemented in the workflow.  Both models contain beta-adrenergic signaling pathways, and the firing rate model (unpublished Lewis model).
 
 ### Usage
-To explore the service and the model, please proceed as follows:
+To explore the Service and the model, please proceed as follows:
 
-1. To use either the human or rabbit model templates, double click on the template which will prompt you to instantiate and name your own study. After this, the study flowchart should be displayed for you.
+1. To use either the human or rabbit model Templates, double click on the Template which will prompt you to instantiate and name your own Study. After this, the Study flowchart should be displayed for you.
 
     ![rabbitCC](https://user-images.githubusercontent.com/32800795/61494767-5adc3100-a9b7-11e9-80ba-a1bc54dd9a05.JPG)
 
@@ -14,9 +14,9 @@ To explore the service and the model, please proceed as follows:
 
     ![CC_inputfiles](https://user-images.githubusercontent.com/32800795/61584726-1d111100-ab4d-11e9-9a91-93c1da82b05c.JPG ':size=500%')
 
-3. Next, click “Run” at the bottom of the workbench. You will then be able to view results of the simulation in any of the viewer services.
+3. Next, click “Run” at the bottom of the workbench. You will then be able to view results of the simulation in any of the viewer Services.
 
-    Please note that running the entire study including 2D will take some time: about 10 minutes for the 2D part and about 1 minute for the remaining parts.
+    Please note that running the entire Study including 2D will take some time: about 10 minutes for the 2D part and about 1 minute for the remaining parts.
     
 4. The simulation gives either 0D (ex. Time series of membrane potential), 
 

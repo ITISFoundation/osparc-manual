@@ -1,14 +1,14 @@
 # Services
 
-Every study in *o²S²PARC* is composed of at least one so-called service (also called node), though most studies will contain multiple services.
+A service is a building block for a study project - Services can provide data/files, visualize results (2D, 3D), implement code in JupyterLabs or perform computations to execute simulations within a study. 
 
-Services can provide data/files, visualize results (2D, 3D), implement code in [Jupyter notebooks](https://jupyter.org/) or perform computations to execute simulations within a study.
+Every Service has its own options that can be accessed by double-clicking on it. Services such as the [JupyterLab-based Services](Studies/Services/JupyterLab/JupyterLabs.md) have extensive GUI interfaces while others such as the [Python Runner](/docs/tutorials/python_runner.md) only have input fields that can be accessed. 
 
-The computational backend involves all services needed to handle the actual computational workload. A computational workflow is described as a pipeline that processes a stream of data in a sequential way. Every pipeline consists of multiple algorithms, each one expecting specific input data and providing specific output data.
+To add a Service to your workbench, simply double click in an empty space in a study's **Workbench**. The Service Catalog will pop up, allowing you to select from a pre-existing menu of Service types. When choosing a Service, you may search for entries in the Service Catalog using the search bar. 
 
-The pipeline can be built up as a directed acyclic graph (DAG) where the lines between the services describe input/output flows and the nodes represent the algorithms (i.e., the computational kernels). Such kernels include standalone solvers, algorithms to perform specific calculations, or viewers that render data into graphs, plots or tables, etc.
+When you click on a Service's card in the Catalog, you will also have the option of selecting a specific version of that Service in the ```Version``` field, which is a dropdown menu. This was implemented for back-compatibility. The default Service version will always be the most recent, or "latest". Clicking the ```Add```button on the bottom of the catalog popup will add the selected Service to your study's **Workbench**.
 
-All these services can be already provided within a study template or can be set up from scratch by the user by selecting options in the service catalog.
+To delete a study, select it by either clicking on the Service module in the pipeline, or selecting it in the **Service Tree**, located at the top of the sidebar of your study's **Workbench**. Then, click the ```Delete``` button in the **Service Tree**.
 
 <img width="1018" alt="Screenshot 2019-07-21 at 16 46 02" src="https://user-images.githubusercontent.com/32800795/61592697-14651d00-abd7-11e9-9319-a1ee9548803e.png"> <br/>
-*Connected services as well as selection of services via the service catalog in the workbench.*
+*Connected Services as well as selection of Services via the Service Catalog in the workbench.*

@@ -1,13 +1,11 @@
 # Create a Study
 
-You may choose to create a study (*o²S²PARC* project) from scratch or based on an existing template. To create an empty study with no services inside, navigate to the the **Studies** tab of the **Dashboard** and click on the ```Empty Study``` button, which will take you directly to the **Study Workspace** of your new study.
+## Study From Scratch
+You may choose to create a Study (*o²S²PARC* project) from scratch or based on an existing Template. To create an empty Study with no Services inside, navigate to the the **Studies** tab of the **Dashboard** and click on the ```Empty Study``` button, which will take you directly to the **Study Workspace** of your new Study.
 
 ![emptystudy](../../_media/emptystudy.png)
 
-To create the study from an existing template, navigate to the **Discover** tab of the **Dashboard** and click on an existing card under the **Templates** section. This will create a copy of the template study which will from this point on, be accessible from the **Studies** tab of the **Dashboard**. This study will be private unless you decide to share it an any changes you make to the resulting study will not affect the template you have copied from. 
+## Study From Template
 
-# Add a Service
+You may also create the Study from an existing Template, navigate to the **Discover** tab of the **Dashboard** and click on an existing card under the **Templates** section. This will create a copy of the Template Study which will from this point on, be accessible from the **Studies** tab of the **Dashboard**. This Study will be private unless you decide to share it an any changes you make to the resulting Study will not affect the Template you have copied from. 
 
-Studies are composed of one or more services. To create another service inside of an existing study, you can double-click in the empty space of the workspace which will bring up the Service Catalog. Here you can filter, search and select a service to add to your study
-
-<img width="1018" alt="Screenshot 2019-07-21 at 16 46 02" src="https://user-images.githubusercontent.com/32800795/61592697-14651d00-abd7-11e9-9319-a1ee9548803e.png"> <br/>

@@ -8,9 +8,9 @@ Please note that the main purpose of this example is to illustrate how to genera
 
 ## Loading the Template
 
-To begin, open the *o²S²PARC* platform in your browser and choose the 2D plot template in the bottom ribbon menu. Choose a descriptive name for your study – we will call it “PlotAdventure” - and then click __Create__.
+To begin, open the *o²S²PARC* platform in your browser and choose the 2D plot Template in the bottom ribbon menu. Choose a descriptive name for your Study – we will call it “PlotAdventure” - and then click __Create__.
 
-You should now see your flowchart with a File Picker service and a 2D Plot service.
+You should now see your flowchart with a File Picker Service and a 2D Plot Service.
 
 ## Loading the Data
 
@@ -22,7 +22,7 @@ My Data -> simcor.s3 -> PlotAdventure -> File Picker
 
 ![plot2d_tree](https://user-images.githubusercontent.com/32800795/61495276-cbd01880-a9b8-11e9-8b3b-5bc44584df8d.JPG ':size=550%')
 
-Here you should see your uploaded file ```RNAdat.csv```. Double click to select it and it should now be visible on the file name field of the File Picker service.
+Here you should see your uploaded file ```RNAdat.csv```. Double click to select it and it should now be visible on the file name field of the File Picker Service.
 
 ![Picture2](https://user-images.githubusercontent.com/32800795/61495315-f6ba6c80-a9b8-11e9-8801-af928997d566.png ':size=550%')
 
