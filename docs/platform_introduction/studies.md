@@ -36,7 +36,7 @@ The workbench consists of four main windows, shown in the image below:
     * In the Storage tab, you can browse all the data from any study you have created.
 2. **Secondary Column:** 
     * When no Service is selected, this tab will show the Study metadata
-    * When a Service is selected as in the case of the image above, the inputs and output parameters of that service will be show in separate tabs.
+    * When a Service is selected as in the case of the image above, the inputs and output parameters of that service will be shown in separate tabs.
 3. **Workbench Views:** 
     * **Pipeline**: this is the default view of the pipeline, showing services and their connections
     * **Interactive**: when an Interactive Service is selected in the pipeline view or in the primary column, this tab will show the GUI for the Interactive Service
