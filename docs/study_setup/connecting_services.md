@@ -8,8 +8,8 @@ Here it is important in the settings to make sure the correct input is assigned 
 
 When you drag and drop linkages between Services, the Auto-Connect option will try to map the input ports appropriately by matching the expected input types, e.g. matching expected file extensions (.txt, .xlsx) or data types (integer, string, etc.). However, if multiple matches are detected, the Auto-connect function will map the incoming data from the output of an upstream Service to the first compatible input port of the downstream Service. You may manually re-map the input ports but unlinking ports and then choosing the desired input via the ```link``` button next to an input port in the downstream Service's input options.
 1. Connect two Services together by dragging and dropping an arrow from the output of a Service producing data to the input of the downstream Service consuming that data.
-2. Click the downstream Service of interest in the **Workbench Pipeline** view.
-3. Inspect the input ports in the Workbench Secondary Column
+2. Click the downstream Service of interest in the **Workbench** Pipeline view.
+3. Inspect the input ports in the **Workbench** Secondary Column
 4. If necessary, unlink an existing input by clicking the *link* button next to the input port of interest
 5. Link a new input by clicking the *link* button of the port of interest and selecting the desired input.
 
@@ -36,4 +36,4 @@ To unlink an input, click the unlink button next to the input line in the settin
 To delete a connection, simply select the arrow connecting two nodes, a small unlink button will appear on the lower right hand corner of the **Pipeline Workspace**. Clicking this button will disconnect the two nodes.
 
 ![unlinking](https://user-images.githubusercontent.com/28002886/153649041-6ef3b118-885b-477c-a95a-591eb101a4d7.gif ':size=600')<br/>
-*Deleting connections between Services in the Workbench.*
+*Deleting connections between Services in the **Workbench**.*

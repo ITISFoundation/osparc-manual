@@ -19,7 +19,7 @@ In order to embed your data into Services and Studies, and to store, retrieve an
 * Dat-Core / Pennsieve
 * Sim-Core S3
 
-Both are accessible using the File Picker or the Data tab in the Dashboard. Files can be selected from there to be used within Services. Moreover, files can be added (e.g., from your local disk), deleted or downloaded from one of the cloud storages to your computer.
+Both are accessible using the File Picker or the Data tab in the **Dashboard**. Files can be selected from there to be used within Services. Moreover, files can be added (e.g., from your local disk), deleted or downloaded from one of the cloud storages to your computer.
 
 ![image](https://user-images.githubusercontent.com/28002886/137333179-46ec8f86-369b-4e1d-b7cb-19fbe16ffe8c.png)
 *File access through the Data tab in the o²S²PARC platform.*

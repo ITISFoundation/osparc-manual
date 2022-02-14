@@ -35,7 +35,7 @@ Besides local files, you may also add files directly from download links from th
 1. Create a File Picker Service by double clicking in the empty space of your **Pipeline Workspace** and choosing the *File Picker* Service in the resulting popup. It will now appear on your **Pipeline Workspace**. 
 2. Click on the newly created *File Picker* and you should now see its upload options in the secondary column of **Workbench**. You should also see the *Storage* tab open in the primary column of the **Workbench**
 3. Click the expansion on *simcore.s3 to access all the Studies you have created on *o²S²PARC*. 
-4. Navigate to the **Study** and then **Service** in that Study where the file you desire is located. Drag and drop that file from the primary column into the *Drop File Here* area in the secondary column. 
+4. Navigate to the Study and then **Service** in that Study where the file you desire is located. Drag and drop that file from the primary column into the *Drop File Here* area in the secondary column. 
 
 
 ![filepicker_simcore](https://user-images.githubusercontent.com/28002886/153640781-c987a839-d0c1-4561-aa75-c8b1680c776c.png ':size=600%')

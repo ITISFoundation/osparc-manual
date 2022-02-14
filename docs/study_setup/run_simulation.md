@@ -11,4 +11,4 @@ To see run progress logs, you may change the *Workspace View* to the **Logger** 
 
 ![logs](https://user-images.githubusercontent.com/28002886/153728854-c28e7d75-6612-4c58-a410-d8d2b5a066bc.png)
 <!-- ![running_CC](https://user-images.githubusercontent.com/32800795/61584661-f1d9f200-ab4b-11e9-8eeb-d4baa96a7e06.gif ':size=500%') -->
-**Note** Interactive Services (such as JupyterLabs and viewer services) will be unaffected by the ```Run``` and ```Stop``` buttons. This is because there is no default execution of these services. Computational services, on the other hand, simply run their execution tasks with the user-defined input parameters. 
+**Note** Interactive Services (such as JupyterLabs and viewer Services) will be unaffected by the ```Run``` and ```Stop``` buttons. This is because there is no default execution of these Services. Computational Services, on the other hand, simply run their execution tasks with the user-defined input parameters. 

@@ -2,7 +2,7 @@
 
 The SPARC Nerve Activity Predictor (SNAP) Template by [Prof. Matthew Ward](https://engineering.purdue.edu/Engr/People/NewFaculty/New_Faculty_2016/ward.html) implements an interactive, AI-informed computational model of stimulus parameter-dependent vagal nerve responses resulting from bipolar, constant-current stimuli.  Coefficients that dictate the model’s behavior in this release were learned from rat vagal CAP datasets collected at Purdue University using ANC algorithms (DOI: 10.1109/TNSRE.2014.2351271).
 
-This Service is standalone and hence does not need any inputs - all simulation is done through the Service interface. First, create your own instance of the Study by choosing the Template from the Dashboard menu, naming your Study and clicking create. There should only be a single Service in the Flowchart window. You can access the Service interface by double-clicking the Service.
+This Service is standalone and hence does not need any inputs - all simulation is done through the Service interface. First, create your own instance of the Study by choosing the [ISAN] SPARC Nerve Activity Predictor (SNAP) Template from the **Templates** tab of the **Dashboard**. After your Study is created, you should automatically be shown the maximized view of the SNAP viewer.
 
 
 This interface allows you to sweep stimulus pulse current and/or pulse duration to visualize the subject and nerve-dependent stimulus-response surface that relates stimulus pulse shape (i.e., the shape of a pulse having a particular duration and current) to the measured compound nerve action potential response plotted against conduction velocity or response latency.  

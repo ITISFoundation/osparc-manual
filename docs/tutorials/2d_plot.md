@@ -8,7 +8,7 @@ Please note that the main purpose of this example is to illustrate how to genera
 
 ## Loading the Template
 
-To begin, open the *o²S²PARC* platform in your browser by going to https://osparc.io/ and log in. This will then take you to your **Dashboard**. From the **Dashboard** click on the **Templates** tab on the top menu to see Template Studies available to you and then click on the [ISAN] 2D plot Template card. This will automatically create a new Study with a File Picker and a 2D Plot service for you and bring you to the Study's **Workbench**.
+To begin, open the *o²S²PARC* platform in your browser by going to https://osparc.io/ and log in. This will then take you to your **Dashboard**. From the **Dashboard** click on the **Templates** tab on the top menu to see Template Studies available to you and then click on the [ISAN] 2D plot Template card. This will automatically create a new Study with a File Picker and a 2D Plot Service for you and bring you to the Study's **Workbench**.
 
 The default view of the **Workbench** will be in the expanded 2D Plot GUI. To access the other **Workbench** options such as inspecting Service inputs and outputs or changing the Pipeline, first minimize the 2D Plot Window by clicking on the minimize button on the upper right hand corner of the **Workbench**.
 

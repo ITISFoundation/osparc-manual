@@ -22,7 +22,7 @@ You may even change the kernel of a notebook from Python to Octave or vice versa
 ## Items of note
 1. Variables from one kernel will not be accessible by the other one. I.e. If a variable *foo* is defined in the Python kernel and you switch to Octave, *foo* will not be automatically defined in the Octave kernel.
 2. The default base directory of the JupyterLabs is ```/home/jovyan/work```. This entire directory (including the inputs and outputs) will be preserved between sessions. However, files outside of this directory (e.g. ```/home/jovyan```) will not be saved so please do not write files in other locations. Other locations, in any case, are not accessible via the **File Tree** UI element but can be accessed through use of the terminal.
-3. Custom installed Python modules (e.g. through ```pip install``` or ```conda install```) do not persist across sessions. Leaving a Study to the Dashboard and then re-entering the Study will result in the removal of those installed modules. A better user experience for this aspect is ongoing. 
+3. Custom installed Python modules (e.g. through ```pip install``` or ```conda install```) do not persist across sessions. Leaving a Study to the **Dashboard** and then re-entering the Study will result in the removal of those installed modules. A better user experience for this aspect is ongoing. 
 
 
 ![jop](https://github.com/ITISFoundation/osparc-manual-z43/blob/master/docs/_media/jop.png?raw=true)
