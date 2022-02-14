@@ -13,7 +13,7 @@ The workflow is as follows:
 
     ![opencor_flow](https://user-images.githubusercontent.com/28002886/153856064-5b871a9f-cc76-48d4-bff7-de8933578c29.png ':size=600%')
 
-3. The input parameters you can choose will be the type of stimulation and normalized amplitude. You can access these by double clicking on the o²S²PARC-opencor Service.
+3. The input parameters you can choose will be the type of stimulation and normalized amplitude. You can access these by clicking on the osparc-opencor Service.
 
 4. You can get a little more information about the inputs by hovering over the value adjustment arrows on the right of each field.
 
