@@ -8,15 +8,15 @@ To explore the Service and the model, please proceed as follows:
 
 1. To use either the human or rabbit model Templates, double click on the Template which will prompt you to instantiate and name your own Study. After this, the Study flowchart should be displayed for you.
 
-    ![rabbitCC](https://user-images.githubusercontent.com/32800795/61494767-5adc3100-a9b7-11e9-80ba-a1bc54dd9a05.JPG)
+    ![rabbitCC](https://user-images.githubusercontent.com/28002886/137307481-0f854408-7d2a-4dec-8986-2743a3a68784.png)
 
-2. For a sample data set, select the initial conditions files for either rabbit or human models  into the File Picker by double clicking the File Picker and navigating through the directory tree as shown:
+2. (*optional*) A sample data set is already uploaded in the template to set the initial conditions for the models. However, you may change the file to one of your own in the File Picker by clicking the File Picker and in the Secondary Column, clicking the ```Reset``` button. Then you may click on the ```Upload``` button to upload your own file. 
 
-    ![CC_inputfiles](https://user-images.githubusercontent.com/32800795/61584726-1d111100-ab4d-11e9-9a91-93c1da82b05c.JPG ':size=500%')
+    ![CC_inputfiles](https://user-images.githubusercontent.com/28002886/153843091-db91ab9c-695c-4e95-8825-8ddc58fda5d0.png ':size=500%')
 
-3. Next, click “Run” at the bottom of the workbench. You will then be able to view results of the simulation in any of the viewer Services.
+3. Next, click ```Run``` at the top left corner of the **Workbench**. After the pipleine run is completed, you will be able to view results of the simulation in any of the viewer Services.
 
-    Please note that running the entire Study including 2D will take some time: about 10 minutes for the 2D part and about 1 minute for the remaining parts.
+    Please note that running the entire Study including 2D will take some time: about 10 minutes for the 2D part and about 1 minute for the remaining parts. You may monitor progress in the **Logger** tab of the **Workbench** ![log](https://user-images.githubusercontent.com/28002886/153265544-f7782673-aa3d-4beb-9217-67f087a2a3e2.png ':size=25'). 
     
 4. The simulation gives either 0D (ex. Time series of membrane potential), 
 

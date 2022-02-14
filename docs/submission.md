@@ -23,8 +23,8 @@ However if your code  doesn’t fall into one of these categories we can would s
 
 ## To Submit - Submission Form
 1. Log into https://osparc.io/
-2. Navigate to the *Discover* tab
-3. In the *Services* section (under *Templates*) click ``Submit New Service``
+2. Navigate to the **Services** tab
+3. Under the Search and Filter bar, click ``Submit New Service``
 4. Fill in required information according to the descriptions outlined below
 5. Click ``Submit``
 6. Wait for your favorite team to get back to you

@@ -8,13 +8,19 @@ Please note that the main purpose of this example is to illustrate how to genera
 
 ## Loading the Template
 
-To begin, open the *o²S²PARC* platform in your browser and choose the 2D plot Template in the bottom ribbon menu. Choose a descriptive name for your Study – we will call it “PlotAdventure” - and then click __Create__.
+To begin, open the *o²S²PARC* platform in your browser by going to https://osparc.io/ and log in. This will then take you to your **Dashboard**. From the **Dashboard** click on the **Templates** tab on the top menu to see Template Studies available to you and then click on the [ISAN] 2D plot Template card. This will automatically create a new Study with a File Picker and a 2D Plot service for you and bring you to the Study's **Workbench**.
 
-You should now see your flowchart with a File Picker Service and a 2D Plot Service.
+The default view of the **Workbench** will be in the expanded 2D Plot GUI. To access the other **Workbench** options such as inspecting Service inputs and outputs or changing the Pipeline, first minimize the 2D Plot Window by clicking on the minimize button on the upper right hand corner of the **Workbench**.
+
+![minimize](https://user-images.githubusercontent.com/28002886/153834101-ed179672-6c23-440f-ac0b-971426f16e39.png ':size=225') 
+
+For now, we will focus on the the 2D Plot GUI and so you may again maximize the screen for a larger working area. 
+
+![maximize](https://user-images.githubusercontent.com/28002886/153836316-63384637-45f1-4417-aeed-e2f305e53668.png ':size=500')
 
 ## Loading the Data
 
-Double-click on File Picker which will bring you to the file selection menu. Expanding __My Data__ you should be able to see the folder __simcore.s3__. Selecting this, click on “Add file(s)” to add the provided ```RNAdat.csv``` file.
+<!-- Double-click on File Picker which will bring you to the file selection menu. Expanding __My Data__ you should be able to see the folder __simcore.s3__. Selecting this, click on “Add file(s)” to add the provided ```RNAdat.csv``` file.
 
 After the window refreshes, select through the directory tree:
 
@@ -28,9 +34,10 @@ Here you should see your uploaded file ```RNAdat.csv```. Double click to select 
 
 Now double-click on the 2D Plotter which will bring you to the plot settings. To link the file into the input of the 2D Plotter, drag the ```RNAdat.csv``` file from the File Picker window to the first input in the 2D plot settings.
 
-![linking_input](https://user-images.githubusercontent.com/32800795/61495333-0afe6980-a9b9-11e9-87f3-f8e620dacdd3.gif)
-
-Scrolling to the bottom, you will see options for plotting with Rawgraph and various data inputs for plots. Select o²S²PARC inputs and then selecting __input_1:RNAdat.csv__ should load the data into the GUI. You are now ready to make your own 2D plot!
+![linking_input](https://user-images.githubusercontent.com/32800795/61495333-0afe6980-a9b9-11e9-87f3-f8e620dacdd3.gif) -->
+1. To load data from the File Picker into the 2D Plot Service, choose the ```oSPARC Inputs``` option in the 2D Plot GUI under "Load your data". 
+2. Scrolling to the bottom of the 2D Plot *Interactive View*, you will see options for plotting with Rawgraph and various data inputs for plots. Select ```o²S²PARC inputs```.
+3. Selecting __input_1:RNAdat.csv__ should load the data into the GUI. You are now ready to make your own 2D plot!
 
 ![loading_data](https://user-images.githubusercontent.com/32800795/61495334-0afe6980-a9b9-11e9-9f24-ebd7020ed956.gif)
 

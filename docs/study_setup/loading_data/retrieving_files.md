@@ -1,12 +1,12 @@
 # Retrieving Files
 
-Some Services will provide you with output files. To access these files, double click on the Service which supplies output. This will now show Service settings. In the upper menu bar, towards the right side, you will see a ```Output Files``` button. You may also access output files by clicking on the file links in the "Outputs" section of the Service GUI. Clicking on that a file link will either download it to your local computer or, in specific cases (such as for PDF files), will open a new browser tab where you can preview the file.
+Some Services will provide you with output files. To access these files, click on the Service which supplies output. This action will show the Service parameters in the *Secondary Column* of the **Workbench** with the Service's inputs shown by default. To access the Service outputs, click on the the outputs icon. The Service's computed outputs will be shown and if files have been generated, they will appear as clickable links. Clicking on a file link will either download it to your local computer or, in specific cases (such as for PDF files), will open a new browser tab where you can preview the file. You may also access output files by clicking on the ```Artifacts``` button on the lower part of the Service outputs window. 
 
-![Outputs](https://user-images.githubusercontent.com/28002886/137348523-df1ee8c3-adf7-495d-86dc-abded791449e.png)
+![Outputs](https://user-images.githubusercontent.com/28002886/153729409-31dfdb29-70be-4ee0-8b98-2ad91999decd.png)
 
-When the ```Output Files``` button is clicked, a popup will show the files folder for this Service. You may then download these files locally by clicking the ```Download``` button with the cloud icon in the lower left hand corner.
+When the ```Artifacts``` button is clicked, a popup will show the output folder for this Service. You may then download these files locally by clicking the ```Download``` button with the cloud icon in the lower left hand corner. For Computational Services that have run, you will also find a log file under ```Artifacts``` to help you debug runtime errors or to keep as a record. This file is not show in the Service Outputs because it is not a true output parameter of the Computational Service.
 
-![Screenshot 2019-07-18 at 22 35 57](https://user-images.githubusercontent.com/28002886/137348111-b9b1f032-b24d-4ad0-9c53-b4c60a242944.png)
+![Screenshot 2019-07-18 at 22 35 57](https://user-images.githubusercontent.com/28002886/153730102-2f4020c6-98ce-4296-8bcf-f49a0b01bb23.png)
 
 ## Other Files
 

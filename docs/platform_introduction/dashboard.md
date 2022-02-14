@@ -2,7 +2,7 @@
 
 The Dashboard is your hub which contains Studies you have created as well as Studies that have been shared with you. From the Dashboard you are able to open your projects and Studies in the **Workbench** or create a new Studies from scratch.
 
-![dashboard](https://user-images.githubusercontent.com/28002886/137287501-24078fdb-fc07-4aad-8d09-18102466e556.png)
+![dashboard](https://user-images.githubusercontent.com/28002886/153441248-38014b56-92c2-4605-a6c1-87f7b5308a85.png)
 *Main sections and elements of the *o²S²PARC* Dashboard.*
 
 Within the Dashboard a number of important sections and elements can be are highlighted:
@@ -11,7 +11,7 @@ Within the Dashboard a number of important sections and elements can be are high
    This button allows you to return to the Dashboard and Overview at any time from anywhere within the platform.
 
 2. **Study Filter and Search** <br/>
-   This tool allows you to filter Studies, Templates, and Services (either your own or submitted by others) on the **Studies** and **Discover** tabs. You can filter by:
+   This tool allows you to filter Studies, Templates, and Services (either your own or submitted by others) on the **Studies**, **Services** and **Templates** tabs. You can filter by:
       * string, name
       * keywords
       * [tags](/docs/platform_introduction/profile.md)
