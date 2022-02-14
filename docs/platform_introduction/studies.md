@@ -41,7 +41,7 @@ The workbench consists of four main windows, shown in the image below:
     * **Pipeline**: this is the default view of the pipeline, showing services and their connections
     * **Interactive**: when an Interactive Service is selected in the pipeline view or in the primary column, this tab will show the GUI for the Interactive Service
     * **Logger**: this tab will display all messages pertinent to the running of your Study. These messages can be filtered by keywords/keyphrases entered into the “Filter” field.
-4. **Run/Stop** for pipelines containing Computational Services, the **Run** button is used to run execute the pipeline while the **Stop** button can abort a running pipeline.
+4. **Run/Stop** for pipelines containing Computational Services, the **Run** button is used to execute the pipeline while the **Stop** button can abort a running pipeline.
 5. **Pipeline Workspace:** when viewing the Pipeline  tab, this is where you are able to create and edit the Study by adding new services, deleting services, and linking them together.
 6. **Service:** each Service is visible in the Pipeline workspace as a box with a name, input port, and/or an output port.
 
