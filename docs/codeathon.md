@@ -4,7 +4,7 @@
 
 For participants of the [**FAIR Codeathon**](https://sparc.science/help/2021-sparc-fair-codeathon) July 12-27 2021, we have compiled the parts of the documentation that are likely to be most useful to you. As a very brief introduction, 
 
-**o²S²PARC** is a cloud-based computational platform for running code that is contained in various modules, called [**services**](docs/platform_introduction/services.md). These Services can be chained together which allows for information transfer (see [**Connecting Services**](docs/study_setup/connecting_services.md)) from one Service to another\*. A project on **o²S²PARC**, which contains these chained pipelines is called a [**study**](docs/platform_introduction/studies.md).
+**o²S²PARC** is a cloud-based computational platform for running code that is contained in various modules, called [**Services**](docs/platform_introduction/services.md). These Services can be chained together which allows for information transfer (see [**Connecting Services**](docs/study_setup/connecting_services.md)) from one Service to another\*. A project on **o²S²PARC**, which contains these chained pipelines is called a [Study](docs/platform_introduction/studies.md).
 
 *Support for numerical, boolean, string and file (any extension) data types is currently available.
 ### Using Services
@@ -13,7 +13,7 @@ Services come in generally two flavors: computational or interactive. Computatio
 ### API 
 Extensive information about the **o²S²PARC** API is documented [here](https://itisfoundation.github.io/osparc-simcore-python-client/#/) and it was created to allow for running of pipelines through a Python client. In particular, the [**Basic Tutorial**](https://itisfoundation.github.io/osparc-simcore-python-client/#/md/tutorials/BasicTutorial?id=basic-tutorial) is a great place to start! Certain issues to keep in mind, however, are that:
 1. The API can be used to set parameters for and run only Computational Services, not interactive ones.
-2. Only a single Computational Service can be launched via the API as opposed to multi-service Study.
+2. Only a single Computational Service can be launched via the API as opposed to a Study pipeline with multiple Services.
 
 *Hint*: For the purposes of the Codeathon, if you would like to use the API, you will likely want to call the Python Runner Service as it is a Computational Service which allows for custom code. Other custom code would need to be [**submitted**](docs/submission.md) to us and containerized to create a new Computational Service, which could take a while. 
 

@@ -7,7 +7,7 @@ Finally you want to perform postprocessing on your generated data or make beauti
 ### Viewer Types
 We currently have generic data viewers including 2D plots, 3D plots, and mesh modeling as well as viewers specific to the output of certain Templates such as the Human and Rabbit cardiac models.
 
-For generic viewing, you will mostly be using 2D and 3D plotting. Our 2D plotters use the open-source RAW Graphs framework which is a user-friendly and aesthetically appealing tool with various plot types you can explore. Of course, you can also choose to create your own custom visualizations using a [JupyterLab](/docs/study_setup/JupyterLabs.md) service containing Python, Octave or C++ kernels. 
+For generic viewing, you will mostly be using 2D and 3D plotting. Our 2D plotters use the open-source RAW Graphs framework which is a user-friendly and aesthetically appealing tool with various plot types you can explore. Of course, you can also choose to create your own custom visualizations using a [JupyterLab](/docs/study_setup/JupyterLabs.md) Service containing Python, Octave or C++ kernels. 
 
 ![plot_options](https://user-images.githubusercontent.com/32800795/61494243-f076c100-a9b5-11e9-859c-ff57d2eeb97f.JPG)
 
