@@ -16,7 +16,7 @@
   * [App Mode](/docs/platform_introduction/appmode.md)
 * [Quick Start Guide](/docs/study_setup/start.md)
   * [Creating a Study](/docs/study_setup/create_study.md)
-  * [Add a Service](/docs/study_setup/add_service.md)
+  * [Add and Update Services](/docs/study_setup/add_service.md)
   * [Loading Data](/docs/study_setup/loading_data/loading_data.md)
   * [Connecting Services](/docs/study_setup/connecting_services.md)
   * [Running a Pipeline](/docs/study_setup/run_simulation.md)

@@ -27,4 +27,4 @@ To regain access the other **Workbench** options such as inspecting Service inpu
 
 
 ## Services Tab
-This section functions very similarly to the [Template Studies tab](/docs/platform_introduction/Templates.md). Clicking on a published Service will create a Study in your **Studies** tab with the single Service inside the Study. To add Services to an existing Study, you may access the Service Catalog directly within a Study workspace without needing to go through the **Services** Tab. See more in [Creating a Study](http://docs.osparc.io/#/docs/study_setup/create_study?id=add-a-service).
+This section functions very similarly to the [Template Studies tab](/docs/platform_introduction/Templates.md). Clicking on a published Service will create a Study in your **Studies** tab with the single Service inside the Study. To add Services to an existing Study, you may access the Service Catalog directly within a Study workspace without needing to go through the **Services** Tab. See more in [Creating a Study](http://docs.osparc.io/#/docs/study_setup/create_study?id=add-a-service) and [Add and Update Services](http://docs.osparc.io/#/docs/study_setup/add_service.md).
