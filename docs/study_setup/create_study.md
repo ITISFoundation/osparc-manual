@@ -18,4 +18,4 @@ If the study is small (it contains few MB of data) the copy will take few second
 
 ![copy_studies](https://user-images.githubusercontent.com/18575092/207315848-7c049250-96d1-42f0-bc30-409186f9b6ec.gif)
 
-**Note**: copying is limited to Studies that are smaller than 100 GiB will, please [**contact us**](../support/support) if you cannot reduce the size and you need to copy a large Study. 
+**Note**: copying is limited to Studies that are smaller than 100 GiB will, please [**contact us**](../support/support.md) if you cannot reduce the size and you need to copy a large Study. 
