@@ -14,7 +14,7 @@ You may also create the Study from an existing Template, navigate to the **Templ
 ## Copying a Study
 You may choose to create a Study from an existing one by creating a copy of it. To create a copy of a Study go to the **Studies** tab of the **Dashboard**, click on the ```More options``` (3-dots) button on the Study card and select ```Duplicate```.
 
-If the study is small (it contains few MB of data) the copy will take few seconds, while it might take longer for larger Studies. In those cases, you will be informed about the progress (see animation below). The copying process works similar to [Publishing a Study as a Template](sharestudy?id=publishing-a-study-as-a-template)
+If the study is small (it contains few MB of data) the copy will take few seconds, while it might take longer for larger Studies. In those cases, you will be informed about the progress (see animation below). The copying process works similar to [Publishing a Study as a Template](../study_setup/sharestudy.md#publishing-a-study-as-a-template)
 
 ![copy_studies](https://user-images.githubusercontent.com/18575092/207315848-7c049250-96d1-42f0-bc30-409186f9b6ec.gif)
 
