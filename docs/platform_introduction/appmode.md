@@ -12,7 +12,8 @@
 2. A window will pop up to show all Services in the Study and several options to configure the App Mode. Use the eye-buttons to choose whether or not to show each Service in the App Mode and use the Up and Down arrows to rearrange the order in which Services Appear in App Mode. The Service marked with ```1``` will be the first Service shown in App Mode, the Service marked with ```2``` will be the second, and so on. 
 You can also add Services to the App Mode by clicking on them in your **Pipeline Workspace** or in the **Workbench** Primary Column.
 
-    ![edit_mode](https://user-images.githubusercontent.com/18575092/207265839-e45ff746-2bc4-430a-867f-cd56095d8778.png)
+    ![edit_mode](https://user-images.githubusercontent.com/18575092/207399521-33a47208-c2af-427a-9955-544442524dc0.png)
+
 
 
 3. Optionally, you can add rich-text instructions to each step of your App Mode, by clicking on the Edit button (next to the eye-buttons). In this way you can turn your pipeline into a fully-guided application!
@@ -24,7 +25,7 @@ You can also add Services to the App Mode by clicking on them in your **Pipeline
 
 2. To navigate through your Study in App Mode, you may click the left and right facing arrows in the "Slide Views". 
 
-3. If some Computational Services need to run in the background or if input files need to be provided (e.g. via a [**File Picker Service**](docs/study_setup/loading_data/loading_data.md)) you can't proceed to the next step until the dependency is met. If Computational Services have to run, a ```Preparing Inputs``` dialog will be displayed with the progress of the computation. Computational Services can also be re-run or stopped from this dialog.
+3. If some Computational Services need to run in the background or if input files need to be provided (e.g. via a [**File Picker Service**](../../docs/study_setup/loading_data/loading_data.md)) you can't proceed to the next step until the dependency is met. If Computational Services have to run, a ```Preparing Inputs``` dialog will be displayed with the progress of the computation. Computational Services can also be re-run or stopped from this dialog.
 
 4. To go back to the default **Workbench** view, you may click to the Stop (:black_square_button:) ``` App Mode``` button on the top right hand corner.
     ![slides](https://user-images.githubusercontent.com/18575092/207269198-e8f69cfe-3b77-494d-93bc-044d68ec4dfe.png)
