@@ -1,6 +1,6 @@
 # Sharing and Publishing Studies
 
-There are two ways in which your work on the online platform can be accessed by others. You may either share an instance of your Study with other member(s) of an organization, or  publish the Study as a Template for other members to copy. 
+There are two ways in which your work on the online platform can be accessed by others. You may either share an instance of your Study with other member(s), with other organization(s), or publish the Study as a Template for other members to copy. 
 
 For a full demonstration of these functionalities, take a look at our webinar on collaboration!
 
@@ -22,22 +22,21 @@ An organization is any group of o²S²PARC users that are able to share Studies 
     * Can edit the organization’s description
     * Can delete the organization
 
-To create a new organization, click the ```Create New Organization``` button and add members by entering each new member's o²S²PARC email address and then clicking ```Invite```. Note that you may only add members that are already registered o²S²PARC users. If a user is successfully added, you will see a confirmation message and if there was an error, e.g. the email address is not registered, you will see an error message pop up. You may then change each member's privileges by clicking on that member's name. 
+To create a new organization, click the ```New Organization``` button and add members by entering each new member's o²S²PARC email address and then clicking ```Add```. Note that you may only add members that are already registered o²S²PARC users. If a user is successfully added, you will see a confirmation message and if there was an error, e.g. the email address is not registered, you will see an error message pop up. You may then change each member's privileges by clicking on that member's name. 
 
-![organization](../../_media/organization.png)
+![organization](https://user-images.githubusercontent.com/18575092/223177495-8cd9ab3c-3504-46c3-8daf-3e3526c5671c.png)
 
 ## Sharing a Study
 Sharing a Study instance with other users allows collaboration on the same pipeline and code. When one member of the shared users is editing a Study, the Study is locked for the others. When that user finishes and returns to their Dashboard, the changes will be updated when another member accesses the Study. 
 
-![studyoptions](https://user-images.githubusercontent.com/28002886/153730811-27b84ae4-cc34-4df1-aac4-917dc8ef54d8.png ':size=600')
+![studyoptions](https://user-images.githubusercontent.com/18575092/223179838-589d1999-96f1-432b-adaf-d588387cca62.png ':size=600')
 
 To share a Study:
-1. Access the Study's options from the **Dashboard** by clicking on the three dot button on the upper right hand corner of the Study's card. 
-2. Choose the ```More options``` option. A modal should appear.
-3. In the popup modal, there is a panel menu to the left. Click on the ```Sharing``` button (second button from the top)  to switch to the Sharing tab.
-4. In the Sharing tab, click on the ```Organizations and Members``` dropdown to see the list of users you may share with. Choose one or more people/organizations to share your Study with, and then click the ```Add``` button.
-5. The Study will then appear in the **Studies** tab of the user(s) you have shared with. 
+1. Access the Study's options from the **Dashboard** by clicking on the three dot button on the upper right hand corner of the Study's card or from the Study card, by using the Share button on left side of the last changed date.
+2. In the Sharing tab, click on the ```Organizations and Members``` dropdown to see the list of users you may share with. Choose one or more people/organizations to share your Study with, and then click the ```Add``` button. If you want, you can also create a new Organization by using the Organizations button.
+3. The Study will then appear in the **Studies** tab of the user(s) you have shared with. 
 
+**Note**: the members you have shared the study with will not receive a notification. We are working on improving this behavior. 
 ## Publishing a Study as a Template
 Publishing a Study as a Template will save the state of the Study at the current moment and it will appear as a *Template Study* in the **Templates** tab of the **Dashboard**. Any changes made to the original Study after publishing as a Template will not change the Template. Clicking on the Template Study in the **Templates** tab will create a copy of the contents of the Template accessible in your **Studies** tab. Any changes you make to this new Study will not affect the original Template. 
 
@@ -53,4 +52,21 @@ To publish your Study as a Template:
 6. Click the ```Publish``` button on the bottom right hand corner.
 7. The Template will now appear as a **Template Study** in your **Templates** tab. If you have chosen to share the Template with members of an organization, others in that same organization will also see the Study in their respective **Templates** tabs.
 
+**Note**: the members you have shared the template with will not receive a notification. We are working on improving this behavior. 
+## User Roles
+When you add a Member to a Study or Template, you can assign different access rights:
+1. **Viewer**
+    * Can only open the Study
+    * Can run computational studies and open the *Interactive View* for [interactive services](docs/platform_introduction/services.md). 
+    * Cannot add new Services to a Study
+    * Any change will not be saved
+    * Cannot modify the Study information (e.g. name, thumbnail, etc...)
+2. **Collaborator**
+    * Has write access on the Study
+    * Can run computational studies and open the *Interactive View* for [interactive services](docs/platform_introduction/services.md)
+    * Can add new Services to the Study and edit the pipeline (e.g. connect/disconnect services)
+    * Can modify the Study information (e.g. name, thumbnail, etc...)
+3. **Owner**
+    * Has the same privileges as a Collaborator
+    * Can delete the Study
 
