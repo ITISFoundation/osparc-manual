@@ -8,19 +8,20 @@ A code project on the online platform is called "Study". Any Study is accessible
 
 There are a number of operations that are specific to Studies, accessible by the three dot button at the upper right hand corner of each Study.
 
-![studyoptions](https://user-images.githubusercontent.com/28002886/153577667-fa700a2f-cb28-4d33-bd0d-485d66b3897d.png ':size=200')
+![studyoptions](https://user-images.githubusercontent.com/18575092/223427939-8c303b12-6da8-47af-a254-b5d3820995ae.png ':size=200')
 
 <!-- ![studyoptions](https://user-images.githubusercontent.com/28002886/153412169-d8749232-84f6-4db4-a80f-d9aceab47ba7.png ':size=200') -->
 
 These options are:
-1. **Select:** allows you to select this Study and/or others, primarily useful for deletion.
-2. **Rename:** allows you to rename the Study
-<!-- 3. **Duplicate** allows you to create a copy of that Study which will be renamed with a timestamp. -->
+1. **Rename:** allows you to rename the Study
+2. **Study data:** allows you to download [data](/docs/platform_introduction/Data.md) produced by your study
+3. **Share:** allows you to [share](/docs/study_setup/sharestudy.md) your study with other users of the platform
+4. **Duplicate** allows you to create a copy of that Study (which will have the same name of the original study + "Copy")
 <!-- 4. **Export** allows you to download the Study as a *.osparc* file which can then be imported back onto the platform by yourself or anyone who has that file -->
-3. **More Options:** brings up a modal window where you are able to view additional options for a Study including its description, sharing settings, quality metrics, Services contained, etc. - editing may also be possible if you have appropriate permissions.
+5. **More Options:** brings up a modal window where you are able to view additional options for a Study including its description, sharing settings, quality metrics, Services contained, etc. - editing may also be possible if you have appropriate permissions.
 
     ![moreoptions](https://user-images.githubusercontent.com/28002886/153412343-7a7cd0f1-3790-4bc6-afba-46f061efb8bf.png ':size=400')
-4. **Delete:** as you may guess, this will delete the particular Study, with a confirmation popup. 
+4. **Delete:** as you may guess, this will delete the particular Study, with a confirmation popup. This will be allowed only if you are the [Owner](/docs/study_setup/sharestudy.md#user-roles) of a Study.
 
 *To learn about Study sharing and publishing, see [Sharing and Publishing Studies](/docs/study_setup/sharestudy.md)*
 
@@ -28,7 +29,7 @@ These options are:
 
 Double-clicking on a Study from the **Dashboard** will bring you to the Study's workbench. This is where you will create and edit your flow chart, see your Services, debug and run your Study.
 
-![workbench](https://user-images.githubusercontent.com/28002886/153265002-c4489cd8-a546-4729-a26a-99415dcaaabf.png)
+![workbench](https://user-images.githubusercontent.com/18575092/223429911-2b42f107-b5cf-4494-8123-343ac4e2acd1.png)
 
 The **Workbench** consists of four main windows, shown in the image below:
 1. **Primary Column:** 
@@ -39,12 +40,12 @@ The **Workbench** consists of four main windows, shown in the image below:
     * When a Service is selected as in the case of the image above, the inputs and output parameters of that service will be shown in separate tabs.
 3. **Workbench Views:** 
     * **Pipeline**: this is the default view of the pipeline, showing Services and their connections
-    * **Interactive**: when an Interactive Service is selected in the pipeline view or in the primary column, this tab will show the GUI for the Interactive Service
+    * **Interactive**: when an [Interactive Service](/docs/platform_introduction/services.md#service-types) is selected in the pipeline view or in the primary column, this tab will show the GUI for the Interactive Service
     * **Logger**: this tab will display all messages pertinent to the running of your Study. These messages can be filtered by keywords/keyphrases entered into the “Filter” field.
-4. **Run/Stop** for pipelines containing Computational Services, the **Run** button is used to execute the pipeline while the **Stop** button can abort a running pipeline.
-5. **Pipeline Workspace:** when viewing the Pipeline  tab, this is where you are able to create and edit the Study by adding new services, deleting services, and linking them together.
+4. **Run/Stop** for pipelines containing [Computational Services](/docs/platform_introduction/services.md#service-types), the **Run** button is used to execute the pipeline while the **Stop** button can abort a running pipeline.
+5. **Pipeline Workspace:** when viewing the Pipeline tab, this is where you are able to create and edit the Study by adding new services, deleting services, and linking them together.
 6. **Service:** each Service is visible in the Pipeline workspace as a box with a name, input port, and/or an output port.
-
+7. **Dashboard:** when you have finished working with your Study, click on the **Dashboard** button to go back to your Homepages. While doing so, any changes you made to your study will be saved.
 
 <!-- 3. **Sharing** allows you view who the Study is shared with and to add collaborators to the Study. See [Sharing Studies](/docs/study_setup/sharestudy.md) for more details.
 4. **Quality:** allows you to view (and edit depending on your permissions) the quality of a Study according to the [Ten Simple Rules](https://www.imagwiki.nibib.nih.gov/content/10-simple-rules-conformance-rubric) for computational modeling.

@@ -2,31 +2,32 @@
 
 The **Dashboard** is your hub which contains Studies you have created as well as Studies that have been shared with you. From the **Dashboard** you are able to open your projects and Studies in the **Workbench** or create a new Studies from scratch.
 
-![dashboard](https://user-images.githubusercontent.com/28002886/153441248-38014b56-92c2-4605-a6c1-87f7b5308a85.png)
+![dashboard](https://user-images.githubusercontent.com/18575092/223431124-56e986c2-3421-455f-b7dc-08e2e1e34c4f.png)
 *Main sections and elements of the *o²S²PARC* Dashboard.*
 
 Within the **Dashboard**, a number of important sections and elements can be are highlighted:
 
-1. **Dashboard Button** <br/>
-   This button allows you to return to the **Dashboard** and Overview at any time from anywhere within the platform.
+1. **Dashboard Menu** <br/>
+   The menu tabs give you quick access to a set of core elements of the platform, namely the [Studies](/docs/platform_introduction/studies.md, the [Templates](/docs/platform_introduction/Templates.md), [Services](/docs/platform_introduction/services.md) and the [Data](/docs/platform_introduction/Data.md).
+
 
 2. **Study Filter and Search** <br/>
    This tool allows you to filter Studies, Templates, and Services (either your own or submitted by others) on the **Studies**, **Services** and **Templates** tabs. You can filter by:
       * string, name
       * keywords
-      * [tags](/docs/platform_introduction/profile.md)
-      * classifiers
+      * [tags](/docs/platform_introduction/user_setup/annotations.md#tags)
+      * [classifiers](/docs/platform_introduction/user_setup/annotations.md#classifiers)
 
    The filtered items are then either highlighted in the flowchart, shown/hidden within Services catalogues, etc. 
 
-3. **Dashboard Menu** <br/>
-   The menu tabs give you quick access to a set of core elements of the platform, namely the Studies, the Services and the [Data](/docs/platform_introduction/Data.md).
-
-4. **Recent Studies** <br/>
-   In this section you'll find your personal Studies or Studies that have been shared with you. Clicking (single click) on one of these Studies will show more details, double clicking will get you into the Study itself.<br/>
+2. **Recent Studies** <br/>
+   In this section you'll find your personal Studies or Studies that have been shared with you. Clicking (single click) on one of these Studies will get you into the Study itself.<br/>
 
    Clicking on the (+) ```Empty Study``` button allows you to set up a new Study (pipeline) from scratch.
 
+4. **More options button** <br/>
+   On the study card, you can use the three dots button to access [more information and operations](/docs/platform_introduction/studies.md#operations-from-the-dashboard) on the study.
+
 5. **Account Details** <br/>
-    In the account details you'll find the preferences for your account as well as information about the software version. In addition you may log out on this menu.
+    In the account details you'll find the [preferences for your account](/docs/platform_introduction/profile.md) as well as information about the platform. In addition you may log out on this menu.
 
