@@ -21,12 +21,14 @@ JupyterLab Services will allow you to write and execute code within the JupyterL
 ![interactive view](https://user-images.githubusercontent.com/18575092/207278541-9d9daa45-65c4-4ef0-8494-642b071e86fd.png)
 
 ### Studies With Many Interactive Services
-When you open a Study that contains more than five interactive services, they will be *Idle*. This means that you will have to start them before gaining access to their *Interactive View* by using the ```Start``` button in the Workbench View (see animation below).
+When you open a Study that contains more than five interactive Services, they will be *Idle*. This means that you will have to start them before gaining access to their *Interactive View* by using the ```Start``` button in the Workbench View (see animation below).
 
-Only five interactive Services can be active at the same time. When the limit is reached and you want to start a new one, you will have to stop at least one of them, but using the ```Stop``` button in the Workbench View. When you stop an interactive service, its content and outputs will be saved, similarly to when you close your Study. 
+Only five interactive Services can be active at the same time. When the limit is reached and you want to start a new one, you will have to stop at least one of them, by using the ```Stop``` button in the Workbench View. When you stop an interactive service, its content and outputs will be saved, similarly to when you close your Study. 
 
 You can also start and stop interactive services from the ```More Options``` (3-dot) button on the Service or from the ```Pie Menu```.
 
 ![205908444-486247d2-455d-45bb-b5ea-3e7347886e25](https://user-images.githubusercontent.com/18575092/207284978-fc9f88d0-551f-470b-a138-56e05ed16f68.gif)
 
+If you wish to don't start any dynamic Services at all, you can disable the Services Auto Start from the Dashboard, by clicking on the ```More Information``` (3-dots) button on the Study card or from the Workbench, by accessing the Study options in the Primary Column.
 
+![service-autostart](https://github.com/ITISFoundation/osparc-manual/assets/18575092/870d0e4c-8d66-4c87-9da5-2c887ae79efc)
