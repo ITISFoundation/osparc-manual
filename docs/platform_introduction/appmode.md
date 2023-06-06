@@ -2,6 +2,13 @@
 
 *o²S²PARC* provides another viewing option for a guided experience in exploring a Study. The idea behind the "App Mode" is to provide a way to step through the Services in a Study in a linear fashion, much like passing back and forth between slides of a slide presentation. This mode shows only the settings of Computational Services or the *Interactive View* of Interactive Services. To set up you Study for App Mode, you will first need to select which Services to display and in which order. Not all Services need to be displayed in App Mode. However, if certain Services must be run in order to access others (e.g. A Computational Service must run in order to create the data for a 2D Plot Service to plot), it will be run automatically during App Mode execution.
 
+For a full demonstration of these functionalities, take a look at our webinar on App Mode usage!
+
+For a full demonstration of these functionalities, take a look at our webinar on JupyterLab usage!
+<p align="center">
+<iframe width="784" height="441" src="https://www.youtube.com/embed/iUURTgYteEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
 ## App Mode Setup
 1. Click on the empty space in your **Pipeline Workspace** to see the Study information in the **Workbench** Secondary Column. Near the bottom, you will see "App Mode" - under this section, click the ```Edit``` button. 
 
