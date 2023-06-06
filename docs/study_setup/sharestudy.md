@@ -23,20 +23,23 @@ An organization is any group of o²S²PARC users that are able to share Studies 
     * Can delete the organization
 
 To create a new organization, click the ```New Organization``` button and add members by entering each new member's o²S²PARC email address and then clicking ```Add```. Note that you may only add members that are already registered o²S²PARC users. If a user is successfully added, you will see a confirmation message and if there was an error, e.g. the email address is not registered, you will see an error message pop up. You may then change each member's privileges by clicking on that member's name. 
+The new member will receive a [notification](#notifications) under the bell icon.
+
+You can also access your Organizations from the Study card, by clicking on the icon on the left side of the last change date. This will open the Sharing dialog, where you will find the "Organizations" button (see [below](#sharing-a-study)).
 
 ![organization](https://user-images.githubusercontent.com/18575092/223177495-8cd9ab3c-3504-46c3-8daf-3e3526c5671c.png)
 
 ## Sharing a Study
 Sharing a Study instance with other users allows collaboration on the same pipeline and code. When one member of the shared users is editing a Study, the Study is locked for the others. When that user finishes and returns to their Dashboard, the changes will be updated when another member accesses the Study. 
 
-![studyoptions](https://user-images.githubusercontent.com/18575092/223179838-589d1999-96f1-432b-adaf-d588387cca62.png ':size=600')
+![share-study-options](https://github.com/ITISFoundation/osparc-manual/assets/18575092/a63c0e4d-1139-4717-a40e-b1cee2691844)
 
 To share a Study:
 1. Access the Study's options from the **Dashboard** by clicking on the three dot button on the upper right hand corner of the Study's card or from the Study card, by using the Share button on left side of the last changed date.
 2. In the Sharing tab, click on the ```Organizations and Members``` dropdown to see the list of users you may share with. Choose one or more people/organizations to share your Study with, and then click the ```Add``` button. If you want, you can also create a new Organization by using the Organizations button.
 3. The Study will then appear in the **Studies** tab of the user(s) you have shared with. 
 
-**Note**: the members you have shared the study with will not receive a notification. We are working on improving this behavior. 
+**Note**: the members you have shared the Study with will receive a [notification](#notifications) under the bell icon.
 ## Publishing a Study as a Template
 Publishing a Study as a Template will save the state of the Study at the current moment and it will appear as a *Template Study* in the **Templates** tab of the **Dashboard**. Any changes made to the original Study after publishing as a Template will not change the Template. Clicking on the Template Study in the **Templates** tab will create a copy of the contents of the Template accessible in your **Studies** tab. Any changes you make to this new Study will not affect the original Template. 
 
@@ -52,7 +55,7 @@ To publish your Study as a Template:
 6. Click the ```Publish``` button on the bottom right hand corner.
 7. The Template will now appear as a **Template Study** in your **Templates** tab. If you have chosen to share the Template with members of an organization, others in that same organization will also see the Study in their respective **Templates** tabs.
 
-**Note**: the members you have shared the template with will not receive a notification. We are working on improving this behavior. 
+**Note**: the members you have shared the Template with will receive a [notification](#notifications) under the bell icon.
 ## User Roles
 When you add a Member to a Study or Template, you can assign different access rights:
 1. **Viewer**
@@ -69,4 +72,14 @@ When you add a Member to a Study or Template, you can assign different access ri
 3. **Owner**
     * Has the same privileges as a Collaborator
     * Can delete the Study
+
+## Notifications
+When you share a Study or a Template with a collaborator, or you add a collaborator to an Organization, the collaborator will see a notification under the bell icon. 
+
+![bell-notify](https://github.com/ITISFoundation/osparc-manual/assets/18575092/5a081abd-89d0-4eab-9434-5af0f1b959cd)
+
+The number on the bell icon is the count of unread notifications (notifications you have not yet clicked on). When you click on a notification, a window will open, showing details about the Study or the Template that has been shared with you or about the Organization.
+A list of the most recent notifications is kept for you, in case you wish to come back to see its details.
+
+**Note**: you collaborator(s) will receive a notification only if you **directly** share a Study/Template and not if you share the Study/Template with an entire Organization.
 
