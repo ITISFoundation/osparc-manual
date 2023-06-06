@@ -7,11 +7,11 @@ For a full demonstration of these functionalities, take a look at our webinar on
 <iframe width="784" height="441" src="https://www.youtube.com/embed/H1fB0M7FKmk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-## Jupyter Octave+Python Math
-This Service gives you a choice of creating notebooks with either Octave or Python. The ```Python (maths)``` kernel has preinstalled modules for mathematical modeling and data analysis.
+## JupyterLab Math
+This Service gives you a choice of creating notebooks with either Octave or Python. The ```Python (maths)``` kernel has preinstalled modules for mathematical modeling and data analysis (see details in [this *requirements* file](https://github.com/ITISFoundation/jupyter-math/blob/main/kernels/python-maths/requirements.txt)).
 
 ## Jupyter NEURON
-This Service is very similar to the Jupyter Math Service, but also includes NEURON-based packages by default, including NEURON, NetPyNE and Brian2 for the Python kernel.
+This Service is very similar to the Jupyter Math Service, but also includes NEURON-based packages by default, including NEURON, NetPyNE and Brian2, PyNN for the Python kernel. See details in [this *requirements* file](https://github.com/ITISFoundation/jupyter-neuron/blob/main/requirements.in)).
 
 ## JupyterLab Chaste
 This Service is another JupyterLab environment with C++ kernels pre-installed as well as the [Chaste](https://www.cs.ox.ac.uk/chaste/) modeling framework. The C++ kernels, contributed by [xeus-cling](https://xeus-cling.readthedocs.io/en/latest/) allows for interactive scripting with C++.
@@ -23,11 +23,9 @@ You may even change the kernel of a notebook from Python to Octave or vice versa
 1. Variables from one kernel will not be accessible by the other one. I.e. If a variable *foo* is defined in the Python kernel and you switch to Octave, *foo* will not be automatically defined in the Octave kernel.
 2. The default base directory of the JupyterLabs is ```/home/jovyan/work/workspace```. This entire directory (including the inputs and outputs) will be preserved between sessions. However, files outside of this directory (e.g. ```/home/jovyan```) will not be saved so please do not write files in other locations. Other locations, in any case, are not accessible via the **File Tree** UI element but can be accessed through use of the terminal.
 3. Custom installed Python modules do not persist across sessions. Leaving a Study to the **Dashboard** and then re-entering the Study will result in the removal of those installed modules. A better user experience for this aspect is ongoing. 
-4. For recent versions of JupyterLab services (e.g. JupyterMath >= 2.0.5), when you open the interactive view of the service, it will show some instructions on how to best use all the functionality (including how to use the Voilà mode, you can learn more about it [here](https://github.com/voila-dashboards/voila).
+4. For recent versions of JupyterLab services (e.g. JupyterLab Math >= 2.0.5), when you open the interactive view of the service, it will show some instructions on how to best use all the functionality (including how to use the Voilà mode, you can learn more about it [here](https://github.com/voila-dashboards/voila).
 
 ![image](https://user-images.githubusercontent.com/18575092/185437452-b061fdb5-a1f2-4e47-8b47-08a6f276124e.png)
-
-
 
 ## Input and Output Ports in JupyterLab
 

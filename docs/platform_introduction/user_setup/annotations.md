@@ -20,14 +20,15 @@ To add a **Classifier** to your Study, follow the steps below,
 
 ## Tags
 Tags are user-specfic annotations to help users with grouping Studies and Services. Once you have created the tags from your [User Profile](docs/platform_introduction/profile.md), you may assign them by editing the metadata of a Study. To do this, follow the steps below:
-  1. Navigate to the **Studies** tab of the **Dashboard**
-  2. Choose the Study options (3-dot button) on the Study you would like to assign a tag to
-  3. Choose **More Options** option. A new modal window will appear with the Information tab open.
-  4. At the bottom of the Information tab, you will see a **Tags** section. Click the button with the pencil icon next to the **Tags** section to edit the tags.
-  5. In the second popup, choose one or more tags you have defined and close this popup. In this section you will also see "public" tags, i.e. tags that have been created for the whole *o²S²PARC* community.
-  6. Click ```Save``` to save the updated metadata of your Study.
+  1. Navigate to the **Studies** tab of the **Dashboard**.
+  2. Choose the Study options (3-dot button) on the Study you would like to assign a tag to.
+  3. Click on **Tags...**
+  4. In the second popup, choose one or more tags. In this section you will also see "public" tags, i.e. tag(s) that have been created for the whole *o²S²PARC* community. If the tag you wish to assign does not appear, you can create a new one with the "New Tag" button (and remember to click on :white_check_mark: to save the new tag).
 
-  ![tags](https://user-images.githubusercontent.com/28002886/153456321-3d5ca042-4cd7-4ad7-81a5-3ea53f6a679c.png) <br/>
+  5. Click ```Save``` to save the updated metadata of your Study.
+ 
+
+  ![tags](https://github.com/ITISFoundation/osparc-manual/assets/18575092/37e6fad5-8a2c-42e4-a11c-dfffbdddc105) <br/>
 
 ## Classifiers vs. Tags
 Classifiers and [Tags](/docs/platform_introduction/profile.md) are two different Ways to annotate Studies. However, classifiers come from a *curated* set of resources and are common to all SPARC researchers. When you annotate a Study with a classifier and publish or share it, that classifier assignment is persistent for other users. On the other hand, tags are *specific to your account* - publishing a Study with one of your tags will not make it visible for anyone else. Tags are meant to be used to organize Studies on your account. They are also colorful so you can think of them as sticky notes!

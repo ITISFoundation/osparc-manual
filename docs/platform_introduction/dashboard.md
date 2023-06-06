@@ -12,15 +12,17 @@ Within the **Dashboard**, a number of important sections and elements can be are
 
 
 2. **Study Filter and Search** <br/>
-   This tool allows you to filter Studies, Templates, and Services (either your own or submitted by others) on the **Studies**, **Services** and **Templates** tabs. You can filter by:
+   This tool allows you to filter Studies, Templates, and Services (either your own or submitted by others) on the **Studies**, **Services** and **Templates** tabs. You can search and filter by:
       * string, name
       * keywords
       * [tags](/docs/platform_introduction/user_setup/annotations.md#tags)
+      * [shared with](/docs/study_setup/sharestudy.md)
       * [classifiers](/docs/platform_introduction/user_setup/annotations.md#classifiers)
 
-   The filtered items are then either highlighted in the flowchart, shown/hidden within Services catalogues, etc. 
+   ![studies-search](https://github.com/ITISFoundation/osparc-manual/assets/18575092/784dd731-ca47-4b81-b355-34ebb5096106)
 
-2. **Recent Studies** <br/>
+
+2. **Studies** <br/>
    In this section you'll find your personal Studies or Studies that have been shared with you. Clicking (single click) on one of these Studies will get you into the Study itself.<br/>
 
    Clicking on the (+) ```Empty Study``` button allows you to set up a new Study (pipeline) from scratch.
