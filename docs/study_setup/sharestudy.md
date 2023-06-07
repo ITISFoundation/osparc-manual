@@ -79,7 +79,7 @@ When you share a Study or a Template with a collaborator, or you add a collabora
 ![bell-notify](https://github.com/ITISFoundation/osparc-manual/assets/18575092/5a081abd-89d0-4eab-9434-5af0f1b959cd)
 
 The number on the bell icon is the count of unread notifications (notifications you have not yet clicked on). When you click on a notification, a window will open, showing details about the Study or the Template that has been shared with you or about the Organization.
-A list of the most recent notifications is kept for you, in case you wish to come back to see its details.
+A list of the most recent notifications is kept for you, in case you wish to come back to check some details.
 
 **Note**: you collaborator(s) will receive a notification only if you **directly** share a Study/Template and not if you share the Study/Template with an entire Organization.
 
