@@ -22,16 +22,22 @@ You can delete a Service in multiple ways:
 
 ## Update a Service
 It is recommended to update a Service when a new version is available.
-From your dashboard,  an update icon <svg style="width: 20px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M256 0C397.4 0 512 114.6 512 256C512 397.4 397.4 512 256 512C201.7 512 151.2 495 109.7 466.1C95.2 455.1 91.64 436 101.8 421.5C111.9 407 131.8 403.5 146.3 413.6C177.4 435.3 215.2 448 256 448C362 448 448 362 448 256C448 149.1 362 64 256 64C202.1 64 155 85.46 120.2 120.2L151 151C166.1 166.1 155.4 192 134.1 192H24C10.75 192 0 181.3 0 168V57.94C0 36.56 25.85 25.85 40.97 40.97L74.98 74.98C121.3 28.69 185.3 0 255.1 0L256 0zM256 128C269.3 128 280 138.7 280 152V246.1L344.1 311C354.3 320.4 354.3 335.6 344.1 344.1C335.6 354.3 320.4 354.3 311 344.1L239 272.1C234.5 268.5 232 262.4 232 256V152C232 138.7 242.7 128 256 128V128z"/></svg> will appear on the Study card (lower right corner).
+From your dashboard, an update icon <svg style="width: 20px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M256 0C397.4 0 512 114.6 512 256C512 397.4 397.4 512 256 512C201.7 512 151.2 495 109.7 466.1C95.2 455.1 91.64 436 101.8 421.5C111.9 407 131.8 403.5 146.3 413.6C177.4 435.3 215.2 448 256 448C362 448 448 362 448 256C448 149.1 362 64 256 64C202.1 64 155 85.46 120.2 120.2L151 151C166.1 166.1 155.4 192 134.1 192H24C10.75 192 0 181.3 0 168V57.94C0 36.56 25.85 25.85 40.97 40.97L74.98 74.98C121.3 28.69 185.3 0 255.1 0L256 0zM256 128C269.3 128 280 138.7 280 152V246.1L344.1 311C354.3 320.4 354.3 335.6 344.1 344.1C335.6 354.3 320.4 354.3 311 344.1L239 272.1C234.5 268.5 232 262.4 232 256V152C232 138.7 242.7 128 256 128V128z"/></svg> will appear on the Study card (lower right corner).
 
-When you click on the update icon a new window will open. The Services that can be updated are highlighted and you can choose to update them one-by-one or update all at the same time.
+### Update a Service from the Dashboard
+When you click on the update icon on the Study card (lower right corner) a new window will open. The Services that can be updated are highlighted and you can choose to update them one-by-one or update all at the same time.
 
 You can also open the same window by clicking on the three dot button on the Study card and then selecting the update icon from the left bar.
 
 ![updateservice](https://user-images.githubusercontent.com/33152403/158360143-435f7db9-fcc4-4a7e-967d-1df7d6e9b0e5.gif)
 
-Some points to keep in mind:
+### Update a Service from inside the Study
+It is also possible to update a Service from inside the Study Workbench (Secondary Column). When you click on a node (Service) that can be updated, you will find the *Update Service* function after clicking on the gears icon (see image below). To update the Service, just follow the instructions (Stop the Service, this will also trigger the saving of the data inside the service, update it, and restart it).
+
+![boot-options-workbench](https://github.com/ITISFoundation/osparc-manual/assets/18575092/12de41da-a76d-4255-91e8-85848fb9f6f3)
+
+**Items of note:**
 - It is only possible to update to the latest version
 - All settings and data will be preserved when updating
-- You can only update the patch version (e.g. from version 1.0.1 to 1.0.4 and not from 1.0.1 to 1.1.1 or 2.0.1)
+- By following the steps above, you can only update the patch version and not to minor/major versions (e.g. from version 1.0.1 to 1.0.4 and not from 1.0.1 to 1.1.1 or 2.0.1)
 - To update to minor/major versions you have to open the Study, delete the outdated node and then create a new node with the latest Service version. Make sure to download the node data (if there is any) locally before deleting the original node. In some cases, a minor/major update can break the pipeline and you will need to adapt your Study to work with the updated Service.
