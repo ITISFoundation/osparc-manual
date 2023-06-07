@@ -4,7 +4,6 @@
 
 For a full demonstration of these functionalities, take a look at our webinar on App Mode usage!
 
-For a full demonstration of these functionalities, take a look at our webinar on JupyterLab usage!
 <p align="center">
 <iframe width="784" height="441" src="https://www.youtube.com/embed/iUURTgYteEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>

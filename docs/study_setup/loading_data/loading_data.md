@@ -25,11 +25,11 @@ Your file will be uploaded into a *File Picker* Service, which you can then conn
 3. In the dialog popup, you may choose the file you would like to add. For large files, upload will take a moment and status will be displayed in a loading bar.
 
 ## Adding a Remote File
-Besides local files, you may also add files directly from download links from the internet or from other *o²S²PARC* studies. This way, you will not need to download the files to your local computer and them upload them again to *o²S²PARC*. Files from the internet could be from, for example, Github or the SPARC Portal. 
-### Adding a File via Download Link
+Besides local files, you may also add files directly from download links from the internet or from other *o²S²PARC* studies. This way, you will not need to download the files to your local computer and then upload them again to *o²S²PARC*. Files from the internet could be from, for example, Github or the SPARC Portal. 
+### Adding a File via a Link
 1. Create a File Picker Service by double clicking in the empty space of your **Pipeline Workspace** and choosing the *File Picker* Service in the resulting popup. It will now appear on your **Pipeline Workspace**. 
 2. Click on the newly created *File Picker* and you should now see its upload options in the secondary column of **Workbench**. 
-3. Provide its URL link in the *Type a Download Link* field of the *File Picker* options and click the ```Select``` button. 
+3. Provide its URL link in the *Type a Link* field at the bottom of the *File Picker* options and click the ```Select``` button. 
 
 ### Using a File from Another Study
 1. Create a File Picker Service by double clicking in the empty space of your **Pipeline Workspace** and choosing the *File Picker* Service in the resulting popup. It will now appear on your **Pipeline Workspace**. 
