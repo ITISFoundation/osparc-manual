@@ -5,7 +5,7 @@
 
 ## Python Library (SDK)
 
-[Read documentation](https://itisfoundation.github.io/osparc-simcore-python-client/)
+[Read documentation](https://itisfoundation.github.io/osparc-simcore-clients/)
 
 ## Public Repositories
 

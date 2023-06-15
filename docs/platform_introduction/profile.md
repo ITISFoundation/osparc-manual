@@ -22,7 +22,7 @@ Entering the preferences dialog, a separate window pops up which allows the user
   Here the user can set/change the password to their account.
 
 * __API Settings__ <br/>
-  Here the user can generate API key and secret pairs for use with the API (see [here](https://itisfoundation.github.io/osparc-simcore-python-client/#/) for more API documentation). Users can also specify access tokens for the DAT-Core/Pennsieve platform - for automated access of files (storage, retrieval) on Pennsieve.
+  Here the user can generate API key and secret pairs for use with the API (see [here](https://itisfoundation.github.io/osparc-simcore-clients/#/) for more API documentation). Users can also specify access tokens for the DAT-Core/Pennsieve platform - for automated access of files (storage, retrieval) on Pennsieve.
 
 * __Additional (and Experimental) Settings__ <br/>
   Here, e.g., the UI Theme can be set (light vs dark) and input/output ports can be set to map automatically. More details about this feature can be found [here](docs/study_setup/connecting_services?id=auto-connect-option).
