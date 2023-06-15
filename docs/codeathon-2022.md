@@ -27,7 +27,7 @@ If you prefer to have your Python code as a Computational Service (e.g. if you w
 If you have other custom code, it needs to be [**submitted**](docs/submission.md) to us and containerized (using Docker) to create a new Computational Service, which could take a while. If you need to create a new Service, please let us know ASAP through email or Slack to determine if we are able to meet Codeathon deadlines. Most probably, you can start by sharing your prototype code on Github, that will be turned into a Service later on.
 
 #### API
-Extensive information about the **o²S²PARC** API is documented [here](https://itisfoundation.github.io/osparc-simcore-python-client/#/) and it was created to allow for running of pipelines through a Python client. In particular, the [**Basic Tutorial**](https://itisfoundation.github.io/osparc-simcore-python-client/#/md/tutorials/BasicTutorial?id=basic-tutorial) is a great place to start! Certain issues to keep in mind, however, are that:
+Extensive information about the **o²S²PARC** API is documented [here](https://itisfoundation.github.io/osparc-simcore-clients/#/) and it was created to allow for running of pipelines through a Python client. In particular, the [**Basic Tutorial**](https://itisfoundation.github.io/osparc-simcore-clients/#/md/tutorials/BasicTutorial?id=basic-tutorial) is a great place to start! Certain issues to keep in mind, however, are that:
 1. The API can be used to set parameters for and run only Computational Services, not interactive ones.
 2. Only a single Computational Service can be launched via the API as opposed to a Study pipeline with multiple Services.
 
