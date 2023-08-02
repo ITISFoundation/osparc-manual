@@ -17,6 +17,6 @@ The process to access your Pennsieve data is outlined in the animation below and
 7. That's it. Now you will be able to specify and copy files from and to Pennsieve directly in *o²S²PARC*.
 
 ## Generating o²S²PARC Tokens
-To use the o²S²PARC [Python API client](https://itisfoundation.github.io/osparc-simcore-python-client/#/) you will need to generate API key and secret pairs. These can be obtained in the User Preferences under API Settings.
+To use the o²S²PARC [Python API client](https://itisfoundation.github.io/osparc-simcore-clients/#/) you will need to generate API key and secret pairs. These can be obtained in the User Preferences under API Settings.
 
 ![api_gen](https://user-images.githubusercontent.com/28002886/137338840-52cf393d-819c-4f4d-9b1d-c6e333e12502.gif ':size=600')
