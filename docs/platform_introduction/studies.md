@@ -3,25 +3,30 @@
 A code project on the online platform is called "Study". Any Study is accessible via the [Dashboard](docs/platform_introduction/dashboard.md) either in the ```Studies``` (which belong to or are shared with you) or the [Templates](docs/platform_introduction/Templates.md) tab (for published Templated Studies).
 
 ![Studies](https://user-images.githubusercontent.com/28002886/153439343-536f50db-c0bc-4bf7-b7a8-4ce559280683.png)
+## Study Details
+When you click on a Study (or [Template](docs/platform_introduction/Templates.md) or [Service](/docs/platform_introduction/services.md)) an overview page will be shown. This page shows more details (e.g. the study description, creation date, etc...) and allows you to perform actions (e.g. opening it, sharing, etc...). Depending on the access rights, you will able to modify the Study details (e.g. description and thumbnail, add tags, etc.), by using the pencil icons.
+
+In addition, by clicking on the left-most icons, you will able to perform many more operations on the Study.
+
+![image](https://user-images.githubusercontent.com/18575092/267007106-73d76431-eb5e-48f9-b648-45c7838f1141.png)
 
 ## Operations from the Dashboard
 
 There are a number of operations that are specific to Studies, accessible by the three dot button at the upper right hand corner of each Study.
 
-![studyoptions](https://user-images.githubusercontent.com/18575092/223427939-8c303b12-6da8-47af-a254-b5d3820995ae.png ':size=200')
+![studyoptions](https://user-images.githubusercontent.com/18575092/267010897-fe6f4de4-415f-450c-8d7b-e7c8d2dd3a8f.png ':size=200')
 
-<!-- ![studyoptions](https://user-images.githubusercontent.com/28002886/153412169-d8749232-84f6-4db4-a80f-d9aceab47ba7.png ':size=200') -->
 
-These options are:
-1. **Rename:** allows you to rename the Study
-2. **Study data:** allows you to download [data](/docs/platform_introduction/Data.md) produced by your study
-3. **Share:** allows you to [share](/docs/study_setup/sharestudy.md) your study with other users of the platform
-4. **Duplicate** allows you to create a copy of that Study (which will have the same name of the original study + "Copy")
-<!-- 4. **Export** allows you to download the Study as a *.osparc* file which can then be imported back onto the platform by yourself or anyone who has that file -->
-5. **More Options:** brings up a modal window where you are able to view additional options for a Study including its description, sharing settings, quality metrics, Services contained, etc. - editing may also be possible if you have appropriate permissions.
 
-    ![moreoptions](https://user-images.githubusercontent.com/28002886/153412343-7a7cd0f1-3790-4bc6-afba-46f061efb8bf.png ':size=400')
-4. **Delete:** as you may guess, this will delete the particular Study, with a confirmation popup. This will be allowed only if you are the [Owner](/docs/study_setup/sharestudy.md#user-roles) of a Study.
+These operations are:
+1. **Open:** it will open the Study and bring you to the [Study Workbench](#study-workbench). Depending on the amount of data in the Study, this operation may take few seconds-minutes. 
+2. **Rename:** allows you to rename the Study. You can do the same from the Study details page.
+3. **Study data:** allows you to download [data](/docs/platform_introduction/Data.md) produced by your Study
+4. **Share:** allows you to [share](/docs/study_setup/sharestudy.md) your study with other users of the platform
+5. **Tags:** you can add custom [tags](/docs/platform_introduction/user_setup/annotations.md#tags) to your Study/Template to help you classifying and filtering them
+6. **Duplicate** allows you to create a copy of that Study (which will have the same name of the original study + "Copy")
+7. **Export cMIS**: this will download various Excel files that you need to adhere to the [SPARC Dataset Structure (SDS)](https://docs.sparc.science/docs/overview-of-sparc-dataset-format) and publish your computational Study on the [SPARC Portal](sparc.science). In addition, if you have provided a [Quality](/docs/platform_introduction/user_setup/annotations.md#quality) assessment by filling in the Ten Simple Rules (TSRs) rating rubric, the rating values will be also exported.
+8. **Delete:** as you may guess, this will delete the particular Study, with a confirmation popup. This will be allowed only if you are the [Owner](/docs/study_setup/sharestudy.md#user-roles) of a Study. Warning: deleting a Study cannot be undone!
 
 *To learn about Study sharing and publishing, see [Sharing and Publishing Studies](/docs/study_setup/sharestudy.md)*
 
