@@ -2,7 +2,7 @@
 
 The **Dashboard** is your hub which contains Studies you have created as well as Studies that have been shared with you. From the **Dashboard** you are able to open your projects and Studies in the **Workbench** or create a new Studies from scratch.
 
-![dashboard](https://user-images.githubusercontent.com/18575092/223431124-56e986c2-3421-455f-b7dc-08e2e1e34c4f.png)
+![dashboard](https://github.com/ITISFoundation/osparc-manual/assets/18575092/060d7adf-a373-4078-996b-72f0002e32fc)
 *Main sections and elements of the *o²S²PARC* Dashboard.*
 
 Within the **Dashboard**, a number of important sections and elements can be are highlighted:

@@ -5,20 +5,20 @@ Welcome to *o²S²PARC*. This page gives a basic overview of how *o²S²PARC* wo
 * **Dashboard** <br/>
   The **Dashboard** is your private hub which contains all of your simulation Studies as well as Studies that have been shared with you. From the **Dashboard** you are able to open your projects and Studies in the *o²S²PARC* **Workbench** or create a new Study from scratch. More details about the **Dashboard** are provided in a dedicated [section](/docs/platform_introduction/dashboard.md).
 
-    ![dashboard](https://user-images.githubusercontent.com/28002886/153439343-536f50db-c0bc-4bf7-b7a8-4ce559280683.png)
+    ![dashboard](https://github.com/ITISFoundation/osparc-manual/assets/18575092/bc2f95e9-5708-4692-ba8f-950a0906535c)
     _The *o²S²PARC* Dashboard. Here you'll find an overview of general elements, your account as well as all your simulation Studies (private and shared)._
 
 * **Workbench** <br/>
   The **Workbench** is the center of *o²S²PARC*. It is the central place for setting up, running, maintaining and analyzing your Studies. More details about the **Workbench** are provided [here](/docs/platform_introduction/studies?id=study-workbench).
 
-  ![2019-07-15_23-09-47](https://user-images.githubusercontent.com/28002886/153258493-b8c84a28-ae5c-4988-8333-ee9d4bd39997.png)
+  ![workbench](https://github.com/ITISFoundation/osparc-manual/assets/18575092/43a0b060-7eda-43c7-bc1d-34248df3ec6b)
     *The Study **Workbench**. Here you can setup your Service pipelines and Studies, prepare models for simulation, specify simulation setups, visualize (post-process) your simulation results and much more.*
 
 * **Studies** <br/>
 
     An actual modeling, simulation or data analysis project is called "Study". Any Study is accessible via the **Dashboard** either in the private (Studies) or the Templated (Templates) areas. More information is shown [here](/docs/platform_introduction/studies.md).
 
-    <img width="1028" alt="Screenshot 2019-07-21 at 16 50 28" src="https://user-images.githubusercontent.com/28002886/137307481-0f854408-7d2a-4dec-8986-2743a3a68784.png"> <br/>
+    <img width="1028" alt="Screenshot 2019-07-21 at 16 50 28" src="https://github.com/ITISFoundation/osparc-manual/assets/18575092/ee836446-1b65-46af-b6a0-898ae96decae"> <br/>
     *A Study composed of several connected Services within the **Workbench**.*
 
 
