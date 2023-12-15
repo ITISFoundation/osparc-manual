@@ -40,7 +40,7 @@ To share a Study:
 4. Click the ```Share``` button. 
 5. The Study will then appear in the **Studies** tab of the user(s) you have shared with
 
-*If you don't find the User(s) you are looking for, it means that you don't have any Organization in common. You can then close the "Share with" window and click on the Organizations button to create a new one and add the Users(s)
+*If you don't find the user(s) you are looking for, it means that you don't have any Organization in common. You can then close the "Share with" window and click on the Organizations button to create a new one and add the Users(s)
 
 **Note**: the members you have shared the Study with will receive a [notification](#notifications) under the bell icon.
 
@@ -53,10 +53,10 @@ To publish your Study as a Template:
 1. From the **Dashboard**, by clicking on the three dots button on the upper right hand corner of the Study's card. 
 2. Choose the ```Share``` option, the ```Details``` window will appear
 3. On the left menu, click on the ```Save as Template``` button 
-4. Set the access rights of the Template in the popup menu. You may make the Template accessible to only yourself or to one or more Organizations. If you choose **Organizations**, you will be able to select from the list of Organizations that you are a part of
+4. Set the access rights of the Template in the popup menu. You may make the Template accessible to only yourself or to one or more Organizations. If you choose **Organizations**, you will be able to select from the list of Organizations that you are part of
 5. (Optional) You may also choose to publish the Template with or without the data inside (for example, if you have any files saved in a JupyterLab inside the Study). To export the pipeline structure without any data, uncheck the corresponding box
 5. Click on the ```Publish``` button
-6. To check the Template was published, go to the "Templates" tab. If you have chosen to share the Template with members of an Organization, others in that same organization will also see the Study in their respective **Templates** tabs.
+6. To check the Template was published, go to the "Templates" tab. If you have chosen to share the Template with members of an Organization, members of that Organization will also see the Study in their respective **Templates** tabs.
 
 **Note**: the members you have shared the Template with will receive a [notification](#notifications) under the bell icon.
 
