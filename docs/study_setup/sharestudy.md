@@ -36,9 +36,9 @@ To share a Study:
     * From the **Dashboard**, click on the three dots button on the Study's card 
     * Directly on the Study card, by clicking on the share icon (next to the date, on the lest side)
 2. In the sharing window, click on the ```Add Editors``` button
-3. Choose one or more people or Organizations to share your Study with.*
+3. Choose one or more people or Organizations to share your Study with*
 4. Click the ```Share``` button. 
-5. The Study will then appear in the **Studies** tab of the user(s) you have shared with. 
+5. The Study will then appear in the **Studies** tab of the user(s) you have shared with
 
 *If you don't find the User(s) you are looking for, it means that you don't have any Organization in common. You can then close the "Share with" window and click on the Organizations button to create a new one and add the Users(s)
 
@@ -54,7 +54,7 @@ To publish your Study as a Template:
 2. Choose the ```Share``` option, the ```Details``` window will appear
 3. On the left menu, click on the ```Save as Template``` button 
 4. Set the access rights of the Template in the popup menu. You may make the Template accessible to only yourself or to one or more Organizations. If you choose **Organizations**, you will be able to select from the list of Organizations that you are a part of
-5. (Optional) You may also choose to publish the Template with or without the data inside (for example, if you have any files saved in a JupyterLab inside the Study). To export the pipeline structure without any data, uncheck the corresponding box.
+5. (Optional) You may also choose to publish the Template with or without the data inside (for example, if you have any files saved in a JupyterLab inside the Study). To export the pipeline structure without any data, uncheck the corresponding box
 5. Click on the ```Publish``` button
 6. To check the Template was published, go to the "Templates" tab. If you have chosen to share the Template with members of an Organization, others in that same organization will also see the Study in their respective **Templates** tabs.
 
