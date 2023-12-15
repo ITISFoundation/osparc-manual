@@ -2,7 +2,8 @@
 
 A code project on the online platform is called "Study". Any Study is accessible via the [Dashboard](docs/platform_introduction/dashboard.md) either in the ```Studies``` (which belong to or are shared with you) or the [Templates](docs/platform_introduction/Templates.md) tab (for published Templated Studies).
 
-![Studies](https://user-images.githubusercontent.com/28002886/153439343-536f50db-c0bc-4bf7-b7a8-4ce559280683.png)
+![image](https://github.com/ITISFoundation/osparc-manual/assets/18575092/9bdc1207-6cc5-4112-94fa-a0d468ffa151)
+
 ## Study Details
 When you click on a Study (or [Template](docs/platform_introduction/Templates.md) or [Service](/docs/platform_introduction/services.md)) an overview page will be shown. This page shows more details (e.g. the study description, creation date, etc...) and allows you to perform actions (e.g. opening it, sharing, etc...). Depending on the access rights, you will able to modify the Study details (e.g. description and thumbnail, add tags, etc.), by using the pencil icons.
 

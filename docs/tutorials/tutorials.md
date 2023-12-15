@@ -3,6 +3,7 @@
 In this section we provide several tutorials to get you familiar with how to use o²S²PARC.
 
 Tutorials
+  * 
   * [Cardiac Tissue Models](/docs/tutorials/uc_davis.md)
   * [2D Visualization](/docs/tutorials/2d_plot.md)
   * [SPARC Nerve Activity Predictor (SNAP)](/docs/tutorials/matt_ward.md)
