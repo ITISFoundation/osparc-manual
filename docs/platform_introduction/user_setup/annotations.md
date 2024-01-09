@@ -1,7 +1,7 @@
 # Annotations
 One important aspect of *o²S²PARC* is its adherence to [**FAIR**](https://www.nature.com/articles/sdata201618) (**F**indable **A**ccessible **I**nteroperable **R**eusable) data and code-based artifacts (e.g. models, simulations, data processing modules). To that end, we enable several different features to promote FAIR principles. 
 ## Ten Simple Rules Rating Rubric
-The TSR is a communication tool for modelers to organize their model development process and present it coherently to each stakeholder's interests (see [10 Simple Rules with Conformance Rubric](https://www.imagwiki.nibib.nih.gov/content/10-simple-rules-conformance-rubric)). The TSR was elaborated by the Committee on [Credible Practice of Modeling & Simulation in Healthcare](https://www.imagwiki.nibib.nih.gov/content/committee-credible-practice-modeling-simulation-healthcare-description). 
+The Ten Simple Rules (TSRs) is a communication tool for modelers to organize their model development process and present it coherently to each stakeholder's interests (see [10 Simple Rules with Conformance Rubric](https://www.imagwiki.nibib.nih.gov/content/10-simple-rules-conformance-rubric)). The TSR was elaborated by the [Committee on Credible Practice of Modeling & Simulation in Healthcare](https://www.imagwiki.nibib.nih.gov/content/committee-credible-practice-modeling-simulation-healthcare-description). 
 
 It foresees that model creators both self-rate their level of adherence to these ten rules, as well as formulate a goal of the level of adherence that they aim for and a justification for the rating in the form of a link (preferred) or free text.
 
@@ -14,11 +14,10 @@ To fill out the TSRs rating rubric and export it:
 4. Select the appropriate Conformance Level, Target and add References. As References, links are preferred, but also free text is accepted (see animation below). Please note that rules marked with "(*)" are mandatory.
 5. Click on the "Save" button at the top of the window
 
-
 To export the TSRs and the other metadata:
 1. From the Dashboard, go to the desired Study card and click on the 3-dots button
 2. Click on "Export cMIS"
-3. A zip file will be downloaded to you computer, containing a minimal set of metadata files part of the [SPARC Dataset Structure](https://docs.sparc.science/docs/overview-of-sparc-dataset-format).
+3. A zip file will be downloaded to your computer, containing a minimal set of metadata files part of the [SPARC Dataset Structure](https://docs.sparc.science/docs/overview-of-sparc-dataset-format).
 
 ![image](https://user-images.githubusercontent.com/18575092/267016724-3d4330ca-5e2a-498d-ba8e-7f7d3a59ff84.gif)
 ## Classifiers
