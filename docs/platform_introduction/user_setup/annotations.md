@@ -1,8 +1,24 @@
 # Annotations
 One important aspect of *o²S²PARC* is its adherence to [**FAIR**](https://www.nature.com/articles/sdata201618) (**F**indable **A**ccessible **I**nteroperable **R**eusable) data and code-based artifacts (e.g. models, simulations, data processing modules). To that end, we enable several different features to promote FAIR principles. 
-## Quality
-The Ten Simple Rules (TSRs) rating rubric, is a communication tool for modelers to organize their model development process and present it coherently to each stakeholder's interests (see details [here](https://www.imagwiki.nibib.nih.gov/content/10-simple-rules-conformance-rubric)). The TSRs foresee that model creators both self-rate their level of adherence to these ten rules, as well as formulate a goal of the level of adherence that they aim for and a justification for the rating in the form of a link (preferred) or free text.
-To access the TSRs rating rubric, click on a [Study](/docs/platform_introduction/studies.md#study-details) and then on the "Quality" ("half star") icon on the left-most column. You will be able to provide your Conformance Level and Target, after clicking on the "Edit" button. To add "References", click on the pencil icons next to each rule, as shown in the animation below. When you are happy with the changes, do not forget to click on "Save" at the top of the window. 
+## Ten Simple Rules Rating Rubric
+The TSR is a communication tool for modelers to organize their model development process and present it coherently to each stakeholder's interests (see [10 Simple Rules with Conformance Rubric](https://www.imagwiki.nibib.nih.gov/content/10-simple-rules-conformance-rubric)). The TSR was elaborated by the Committee on [Credible Practice of Modeling & Simulation in Healthcare](https://www.imagwiki.nibib.nih.gov/content/committee-credible-practice-modeling-simulation-healthcare-description). 
+
+It foresees that model creators both self-rate their level of adherence to these ten rules, as well as formulate a goal of the level of adherence that they aim for and a justification for the rating in the form of a link (preferred) or free text.
+
+Along with other metadata, it is part of the [SPARC Dataset Structure](https://docs.sparc.science/docs/overview-of-sparc-dataset-format).
+
+To fill out the TSRs rating rubric and export it:
+1. Click on a [Study](/docs/platform_introduction/studies.md#study-details)
+2. On the left-most column, click on the "Quality" ("half star") icon
+3. Click on the "Edit" button
+4. Select the appropriate Conformance Level, Target and add References. As References, links are preferred, but also free text is accepted (see animation below). Please note that rules marked with "(*)" are mandatory.
+5. Click on the "Save" button at the top of the window
+
+
+To export the TSRs and the other metadata:
+1. From the Dashboard, go to the desired Study card and click on the 3-dots button
+2. Click on "Export cMIS"
+3. A zip file will be downloaded to you computer, containing a minimal set of metadata files part of the [SPARC Dataset Structure](https://docs.sparc.science/docs/overview-of-sparc-dataset-format).
 
 ![image](https://user-images.githubusercontent.com/18575092/267016724-3d4330ca-5e2a-498d-ba8e-7f7d3a59ff84.gif)
 ## Classifiers
@@ -23,7 +39,7 @@ To add a **Classifier** to your Study, follow the steps below,
 10. Click ```Save``` on the lower right hand side of the window to  assign the classifier(s). 
 
 ## Tags
-Tags are user-specfic annotations to help users with grouping Studies and Services. Once you have created the tags from your [User Profile](docs/platform_introduction/profile.md), you may assign them by editing the metadata of a Study. To do this, follow the steps below:
+Tags are user-specific annotations to help users with grouping Studies and Services. Once you have created the tags from your [User Profile](docs/platform_introduction/profile.md), you may assign them by editing the metadata of a Study. To do this, follow the steps below:
   1. Navigate to the **Studies** tab of the **Dashboard**.
   2. Choose the Study options (3-dot button) on the Study you would like to assign a tag to.
   3. Click on **Tags...**
