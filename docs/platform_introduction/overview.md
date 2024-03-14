@@ -11,7 +11,7 @@ Welcome to *o²S²PARC*. This page gives a basic overview of how *o²S²PARC* wo
 * **Workbench** <br/>
   The **Workbench** is the center of *o²S²PARC*. It is the central place for setting up, running, maintaining and analyzing your Studies. More details about the **Workbench** are provided [here](/docs/platform_introduction/studies?id=study-workbench).
 
-  ![workbench](https://github.com/ITISFoundation/osparc-manual/assets/18575092/43a0b060-7eda-43c7-bc1d-34248df3ec6b)
+  ![image](https://github.com/ITISFoundation/osparc-manual/assets/18575092/efff9b21-e0b5-4454-ac04-8bcb1a2f565e)
     *The Study **Workbench**. Here you can setup your Service pipelines and Studies, prepare models for simulation, specify simulation setups, visualize (post-process) your simulation results and much more.*
 
 * **Studies** <br/>
