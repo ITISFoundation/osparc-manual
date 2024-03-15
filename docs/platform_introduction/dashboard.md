@@ -21,7 +21,7 @@ Within the **Dashboard**, a number of important sections and elements can be are
 
    ![studies-search](https://github.com/ITISFoundation/osparc-manual/assets/18575092/784dd731-ca47-4b81-b355-34ebb5096106)
 
-   In addition you can also sort Studies and Templates, by differen criteria, for instance by name of the owner or creation date. You'll find this functionality on the upper right hand side corner (see image below).
+   In addition you can also sort Studies and Templates, by different criteria, for instance by name of the owner or creation date. You'll find this functionality in the upper right hand corner (see image below).
 
    ![image](https://github.com/ITISFoundation/osparc-manual/assets/18575092/ffe7de9c-f0d4-43f9-8833-8dc85e8ae7ac)
 

@@ -19,8 +19,8 @@ There are a number of operations that are specific to Studies, accessible by the
 
 
 These operations are:
-1. **Open:** it will open the Study and bring you to the [Study Workbench](#study-workbench). Depending on the amount of data in the Study, this operation may take few seconds-minutes. 
-2. **Title:** allows you to rename the Study. You can do the same from the Study details page.
+1. **Open:** it will open the Study and bring you to the [Study Workbench](#study-workbench). Depending on the amount of data in the Study, this operation may take few seconds-minutes
+2. **Title:** allows you to rename the Study. You can do the same from the Study details page
 3. **Study Files:** allows you to download [data](/docs/platform_introduction/Data.md) produced by your Study
 4. **Sharing:** allows you to [share](/docs/study_setup/sharestudy.md) your study with other users of the platform
 5. **Tags:** you can add custom [tags](/docs/platform_introduction/user_setup/annotations.md#tags) to your Study/Template to help you classifying and filtering them
@@ -28,7 +28,7 @@ These operations are:
 7. **Export cMIS**: this will download various Excel files that you need to adhere to the [SPARC Dataset Structure (SDS)](https://docs.sparc.science/docs/overview-of-sparc-dataset-format) and publish your computational Study on the [SPARC Portal](sparc.science). In addition, if you have provided a [Quality](/docs/platform_introduction/user_setup/annotations.md#quality) assessment by filling in the Ten Simple Rules (TSRs) rating rubric, the rating values will be also exported.
 8. **Delete:** as you may guess, this will delete the particular Study, with a confirmation popup. This will be allowed only if you are the [Owner](/docs/study_setup/sharestudy.md#user-roles) of a Study. Warning: deleting a Study cannot be undone!
 
-This just a list of the most important operations, feel free to click on the other tabs and discover more.
+This is just a list of the most important operations, feel free to click on the other tabs and discover more.
 
 *To learn about Study sharing and publishing, see [Sharing and Publishing Studies](/docs/study_setup/sharestudy.md)*
 
