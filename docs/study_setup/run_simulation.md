@@ -29,6 +29,6 @@ You can also start and stop interactive services from the ```More Options``` (3-
 
 ![205908444-486247d2-455d-45bb-b5ea-3e7347886e25](https://user-images.githubusercontent.com/18575092/207284978-fc9f88d0-551f-470b-a138-56e05ed16f68.gif)
 
-If you wish to don't start any dynamic Services at all, you can disable the Services Auto Start from the Dashboard, by clicking on the ```More Information``` (3-dots) button on the Study card or from the Workbench, by accessing the Study options in the Primary Column.
+If you wish not to start any dynamic Services at all, you can disable the Services Auto Start from the Dashboard, by clicking on the Study card, and then by clicking on the `Boot Options` tab in the left column.
 
-![service-autostart](https://github.com/ITISFoundation/osparc-manual/assets/18575092/870d0e4c-8d66-4c87-9da5-2c887ae79efc)
+![image](https://github.com/ITISFoundation/osparc-manual/assets/18575092/e93ec6e0-b896-4fdb-bf30-31ed70903462)
