@@ -15,3 +15,4 @@ Tutorials
   * [oSparc Python Runner](/docs/tutorials/python_runner.md)
   * [Running a Cardiovascular System Model on o²S²PARC from the SPARC Portal](https://docs.sparc.science/docs/tutorial-running-a-cardiovascular-system-model-on-o2s2parc)
   * [Running ASCENT On o²S²PARC](https://docs.sparc.science/docs/tutorial-running-ascent-on-o2s2parc-from-the-sparc-portal)
+  * [Tutorial: Introduction To CAD Modeling On o²S²PARC](https://docs.sparc.science/docs/tutorial-introduction-to-cad-modeling-on-o2s2parc)
