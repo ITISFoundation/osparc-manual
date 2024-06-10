@@ -36,15 +36,15 @@ These operations are:
 
 Clicking on a Study from the **Dashboard** and then on the `Open` button will bring you to the Study's workbench. This is where you will create and edit your flow chart, see your Services, debug and run your Study.
 
-![image](https://github.com/ITISFoundation/osparc-manual/assets/18575092/0eed1a66-822c-4efb-be43-945db69e72cc)
+![image](https://github.com/ITISFoundation/osparc-manual/assets/18575092/baf3dd2c-0505-4aac-b6fa-506b0c22cb0d)
 
 The **Workbench** consists of four main windows, shown in the image below:
 1. **Primary Column:** 
     * In Nodes List tab, you can see the list of Services that are included in the Study and rename or delete them. To delete a Service, select the Service and then click the Delete button on the menu bar. You can also rename a Service by selecting a Service and clicking the rename button on the menu bar. 
     * In the Storage tab, you can browse all the data from any Study you have created.
 2. **Secondary Column:** 
-    * When no Service is selected, this tab will show the Study metadata
-    * When a Service is selected as in the case of the image above, the inputs and output parameters of that service will be shown in separate tabs.
+    * When no Service is selected, this tab will show the Study metadata, [App Mode](./appmode.md) settings and Annotations (or "sticky-notes")
+    * When a Service is selected as in the case of the image above, the inputs and output parameters of that service will be shown.
 3. **Workbench Views:** 
     * **Pipeline**: this is the default view of the pipeline, showing Services and their connections
     * **Interactive**: when an [Interactive Service](/docs/platform_introduction/services.md#service-types) is selected in the pipeline view or in the primary column, this tab will show the GUI for the Interactive Service
@@ -52,7 +52,7 @@ The **Workbench** consists of four main windows, shown in the image below:
 4. **Run/Stop** for pipelines containing [Computational Services](/docs/platform_introduction/services.md#service-types), the **Run** button is used to execute the pipeline while the **Stop** button can abort a running pipeline.
 5. **Pipeline Workspace:** when viewing the Pipeline tab, this is where you are able to create and edit the Study by adding new services, deleting services, and linking them together.
 6. **Service:** each Service is visible in the Pipeline workspace as a box with a name, input port, and/or an output port.
-7. **Dashboard:** when you have finished working with your Study, click on the **Dashboard** button to go back to your Homepages. While doing so, any changes you made to your study will be saved.
+7. **Dashboard:** when you have finished working with your Study, click on the **Dashboard** button to go back to your Homepage. While doing so, any changes you made to your study will be saved.
 
 <!-- 3. **Sharing** allows you view who the Study is shared with and to add collaborators to the Study. See [Sharing Studies](/docs/study_setup/sharestudy.md) for more details.
 4. **Quality:** allows you to view (and edit depending on your permissions) the quality of a Study according to the [Ten Simple Rules](https://www.imagwiki.nibib.nih.gov/content/10-simple-rules-conformance-rubric) for computational modeling.

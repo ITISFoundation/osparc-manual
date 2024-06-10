@@ -38,10 +38,9 @@ You can also open the same window by clicking on the Study card and then selecti
 
 
 ### Update a Service from inside the Study
-It is also possible to update a Service from inside the Study Workbench (Secondary Column). When you click on a node (Service) that can be updated, you will find the *Update Service* function after clicking on the gears icon (see image below). To update the Service, just follow the instructions (Stop the Service, this will also trigger the saving of the data inside the service, update it, and restart it).
+It is also possible to update a Service from inside the Study Workbench (Secondary Column). When you click on a node (Service) that can be updated, you will find the *Update Service* function under the "Options" section in the Secondary Column. To update the Service, just follow the instructions (Stop the Service, this will also trigger the saving of the data inside the service, update it, and restart it).
 
-![boot-options-workbench](https://github.com/ITISFoundation/osparc-manual/assets/18575092/12de41da-a76d-4255-91e8-85848fb9f6f3)
-
+![image](https://github.com/ITISFoundation/osparc-manual/assets/18575092/f4ad2fd4-3fbb-4eb2-8d1d-a8c76ffab36f)
 **Items of note:**
 - It is only possible to update to the latest version
 - All settings and data will be preserved when updating

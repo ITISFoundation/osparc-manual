@@ -3,7 +3,7 @@ The data tab allows you to browse the output files of all of your active pipelin
 
 In this tab, you will find a file tree with ```My Data/simcore.s3```. Expanding ```simcore.s3``` will display a folder for each of your Studies with the title of that Study. Expanding the folder of each Study will allow you to access the data (outputs or notebooks) belonging to each Service within that Study. 
 
-For JupyterLab Services, **work.zip** is a zip file containing everything in your directory including notebooks, inputs and outputs while the **output_1.zip** contains only the files you have placed inside the ```outputs/output_1``` folder.
+For JupyterLab Services, clicking on the folder corresponding to the Study will show the `workspace` folder. This folder contains everything including notebooks.
 
 ## Downloading Data
 To download files:
