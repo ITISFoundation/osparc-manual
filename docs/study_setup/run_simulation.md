@@ -12,8 +12,13 @@ To see run progress logs, you may change the *Workspace View* to the **Logger** 
 ![loggericon](https://user-images.githubusercontent.com/28002886/153728738-af33ed96-c89d-4d3e-b409-fdcbd0097ec1.png)
 
 ![logs](https://user-images.githubusercontent.com/28002886/153728854-c28e7d75-6612-4c58-a410-d8d2b5a066bc.png)
-<!-- ![running_CC](https://user-images.githubusercontent.com/32800795/61584661-f1d9f200-ab4b-11e9-8eeb-d4baa96a7e06.gif ':size=500%') -->
-**Note** Interactive Services (such as JupyterLabs and viewer Services) will be unaffected by the ```Run``` and ```Stop``` buttons. This is because there is no default execution of these Services. Computational Services, on the other hand, simply run their execution tasks with the user-defined input parameters. 
+
+
+In addition, while one or more Computational Services are running, you cannot modify the pipeline (e.g. adding new Services or deleting existing ones). This is to ensure consistency between results.
+
+![pipeline_cant_edit_while_running](https://github.com/ITISFoundation/osparc-manual/assets/18575092/b9adcaca-ba50-4a0e-b5ee-c6313dd59406)
+
+**Note**: Interactive Services (such as JupyterLabs and viewer Services) will be unaffected by the ```Run``` and ```Stop``` buttons. This is because there is no default execution of these Services. Computational Services, on the other hand, simply run their execution tasks with the user-defined input parameters. 
 
 ## Interactive Services
 JupyterLab Services will allow you to write and execute code within the JupyterLab GUI, but as with all interactive Services, will not run automatically when a Study pipeline is launched. To work with an interactive Service, you may double-click on it to access the *Interactive View*. 

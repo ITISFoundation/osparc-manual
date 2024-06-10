@@ -34,7 +34,7 @@ These operations are:
 
 ## Study Workbench
 
-Double-clicking on a Study from the **Dashboard** will bring you to the Study's workbench. This is where you will create and edit your flow chart, see your Services, debug and run your Study.
+Clicking on a Study from the **Dashboard** and then on the `Open` button will bring you to the Study's workbench. This is where you will create and edit your flow chart, see your Services, debug and run your Study.
 
 ![image](https://github.com/ITISFoundation/osparc-manual/assets/18575092/0eed1a66-822c-4efb-be43-945db69e72cc)
 
