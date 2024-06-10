@@ -8,7 +8,7 @@ https://github.com/ITISFoundation/osparc-issues/issues
 ## From Github
 <div id="script_1"></div>
 <script type="text/javascript">
-    var urlToGetAllOpenBugs = "https://api.github.com/repos/ITISFoundation/osparc-issues/issues?state=open&labels=bug&sort:reactions-+1-desc";
+    var urlToGetAllOpenBugs = "https://api.github.com/repos/ITISFoundation/osparc-issues/issues?state=open&labels=type:bug&sort:reactions-+1-desc";
     $(document).ready(function () {
         $.getJSON(urlToGetAllOpenBugs, function (allIssues) {
             $.each(allIssues, function (i, issue) {
