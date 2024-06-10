@@ -19,9 +19,9 @@ If you have a piece of code that you would like to make available to other oÂ²SÂ
 * Docker Images: base image of Linux
 * Not too big (<50 Gb)
 
-In addition we set up and maintain templates libraries ("cookiecutters") for facilitating the creation of new Services. Please have a look at them and try to create your first Service. The available cookiecutters allow you to create:
-- [Cookiecutter for Computational Services](https://github.com/ITISFoundation/cookiecutter-osparc-service): if you have some code that can run without a GUI, after setting up some input parameters and/or service, this is the good place to start
-- [Cookiecutter for JupyterLab "flavours"](https://github.com/ITISFoundation/cookiecutter-osparc-jupyterlab-service): if you'd like an interactive coding environment to run code and Jupyter Notebooks, this is a good place to start.
+In addition we set up and maintain templates libraries ("cookiecutters") for facilitating the creation of new Services. Please have a look at them and try to create your first Service. These arethe available cookiecutters:
+- [Cookiecutter for Computational Services](https://github.com/ITISFoundation/cookiecutter-osparc-service): if you have some code that can run without a GUI, after setting up some input parameters and/or service, this is the good place to start. See also the webinar link at the top of this page
+- [Cookiecutter for JupyterLab "flavours"](https://github.com/ITISFoundation/cookiecutter-osparc-jupyterlab-service): if you'd like an interactive coding environment to run code and Jupyter Notebooks, this is a good place to start
 - [Cookiecutter for Command Line Tools](https://github.com/ITISFoundation/cookiecutter-osparc-cli-service): if you have some software that runs via a command line, and only needs files as inputs and produces files as outputs, this is a good place to start
 
 If you're not sure, feel free to get in touch with [support](support@osparc.io).

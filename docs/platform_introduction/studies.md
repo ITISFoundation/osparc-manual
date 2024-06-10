@@ -19,22 +19,22 @@ There are a number of operations that are specific to Studies, accessible by the
 
 
 These operations are:
-1. **Open:** it will open the Study and bring you to the [Study Workbench](#study-workbench). Depending on the amount of data in the Study, this operation may take few seconds-minutes
-2. **Rename:** allows you to rename the Study. You can do the same from the Study details page
-3. **Thumbnail:** by clicking here, you can add a thumbnail to your Study. This requires being the owner of the Study or havint write access*
-4. **Duplicate** allows you to create a copy of that Study (which will have the same name of the original study + "Copy")
+1. **Open**: it will open the Study and bring you to the [Study Workbench](#study-workbench). Depending on the amount of data in the Study, this operation may take few seconds-minutes
+2. **Rename**: allows you to rename the Study. You can do the same from the Study details page
+3. **Thumbnail**: by clicking here, you can add a thumbnail to your Study. This requires being the owner of the Study or having write access*
+4. **Duplicate**: allows you to create a copy of that Study (which will have the same name of the original study + "Copy")
 5. **Export cMIS**: this will download various Excel files that you need to adhere to the [SPARC Dataset Structure (SDS)](https://docs.sparc.science/docs/overview-of-sparc-dataset-format) and publish your computational Study on the [SPARC Portal](sparc.science). In addition, if you have provided a [Quality](/docs/platform_introduction/user_setup/annotations.md#quality) assessment by filling in the Ten Simple Rules (TSRs) rating rubric, the rating values will be also exported.
-6. **Share:** allows you to [share](/docs/study_setup/sharestudy.md) your study with other users of the platform*
-7. **Tags:** you can add custom [tags](/docs/platform_introduction/user_setup/annotations.md#tags) to your Study/Template to help you classifying and filtering them
-8. **Study Files:** allows you to download [data](/docs/platform_introduction/Data.md) produced by your Study
-9. **Delete:** as you may guess, this will delete the particular Study, with a confirmation popup. This will be allowed only if you are the [Owner](/docs/study_setup/sharestudy.md#user-roles) of a Study. Warning: deleting a Study cannot be undone!
+6. **Share**: allows you to [share](/docs/study_setup/sharestudy.md) your study with other users of the platform*
+7. **Tags**: you can add custom [tags](/docs/platform_introduction/user_setup/annotations.md#tags) to your Study/Template to help you classifying and filtering them
+8. **Study Files**: allows you to download [data](/docs/platform_introduction/Data.md) produced by your Study
+9. **Delete**: as you may guess, this will delete the particular Study, with a confirmation popup. This will be allowed only if you are the [Owner](/docs/study_setup/sharestudy.md#user-roles) of a Study. Warning: deleting a Study cannot be undone!
 
 
 *To learn about Study sharing and publishing, see [Sharing and Publishing Studies](/docs/study_setup/sharestudy.md)*
 
 ## Study Workbench
 
-Clicking on a Study from the **Dashboard** and then on the `Open` button will bring you to the Study's workbench. This is where you will create and edit your flow chart, see your Services, debug and run your Study.
+Clicking on a Study from the **Dashboard** and then on the `Open` button will bring you to the Study's workbench. This is where you will create and edit your Study, see your Services, debug and run your Study.
 
 ![image](https://github.com/ITISFoundation/osparc-manual/assets/18575092/baf3dd2c-0505-4aac-b6fa-506b0c22cb0d)
 

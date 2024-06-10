@@ -2,7 +2,7 @@
 
 Some Services will provide you with output files. To access these files, click on the Service which supplies output. This action will select the Service parameters and show its Inputs and Outputs in the *Secondary Column* of the **Workbench**.
 
-To access the Service outputs, click on Outputs icon. The Service's computed outputs will be shown and if files have been generated, they will appear as clickable links. Clicking on a file link will either download it to your local computer or, in specific cases (such as for PDF files), will open a new browser tab where you can preview the file. You may also access output files by clicking on the ```Service data``` button on the lower part of the Service outputs window. 
+ The Service's computed outputs will be shown and if files have been generated, they will appear as clickable links. Clicking on a file link will either download it to your local computer or, in specific cases (such as for PDF files), will open a new browser tab where you can preview the file. You may also access output files by clicking on the ```Service data``` button on the lower part of the Service outputs section. 
 
 ![Outputs](https://github.com/ITISFoundation/osparc-manual/assets/18575092/e142ac23-05f4-46f7-b72d-bf4a8765dc79)
 
