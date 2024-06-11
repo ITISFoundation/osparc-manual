@@ -1,12 +1,13 @@
 # Retrieving Files
 
-Some Services will provide you with output files. To access these files, click on the Service which supplies output. This action will show the Service parameters in the *Secondary Column* of the **Workbench** with the Service's inputs shown by default. To access the Service outputs, click on the the outputs icon. The Service's computed outputs will be shown and if files have been generated, they will appear as clickable links. Clicking on a file link will either download it to your local computer or, in specific cases (such as for PDF files), will open a new browser tab where you can preview the file. You may also access output files by clicking on the ```Artifacts``` button on the lower part of the Service outputs window. 
+Some Services will provide you with output files. To access these files, click on the Service which supplies output. This action will select the Service parameters and show its Inputs and Outputs in the *Secondary Column* of the **Workbench**.
 
-![Outputs](https://user-images.githubusercontent.com/28002886/153729409-31dfdb29-70be-4ee0-8b98-2ad91999decd.png)
+ The Service's computed outputs will be shown and if files have been generated, they will appear as clickable links. Clicking on a file link will either download it to your local computer or, in specific cases (such as for PDF files), will open a new browser tab where you can preview the file. You may also access output files by clicking on the ```Service data``` button on the lower part of the Service outputs section. 
 
-When the ```Artifacts``` button is clicked, a popup will show the output folder for this Service. You may then download these files locally by clicking the ```Download``` button with the cloud icon in the lower left hand corner. For Computational Services that have run, you will also find a log file under ```Artifacts``` to help you debug runtime errors or to keep as a record. This file is not show in the Service Outputs because it is not a true output parameter of the Computational Service.
+![Outputs](https://github.com/ITISFoundation/osparc-manual/assets/18575092/e142ac23-05f4-46f7-b72d-bf4a8765dc79)
 
-![Screenshot 2019-07-18 at 22 35 57](https://user-images.githubusercontent.com/28002886/153730102-2f4020c6-98ce-4296-8bcf-f49a0b01bb23.png)
+When the ```Service data``` button is clicked, a popup will show the output folder for this Service. You may then download these files locally by clicking the ```Download``` button with the cloud icon in the lower left hand corner. For Computational Services that have run, you will also find a log file under ```logs.zip``` to help you debug runtime errors or to keep as a record. This file is not show in the Service Outputs because it is not a true output parameter of the Computational Service.
+
 
 ## Other Files
 

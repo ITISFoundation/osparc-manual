@@ -1,8 +1,8 @@
 *.py         @pcrespov
-*.md         @drniiken
+*.md         @elisabettai
 Makefile     @pcrespov
 
 /tools/      @pcrespov
-/docs/       @drniiken
-/docs/welcome/ @KZzizzle
+/docs/       @elisabettai
+/docs/welcome/ @elisabettai
 /docs/codeathon-2022.md @elisabettai

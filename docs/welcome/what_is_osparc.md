@@ -20,8 +20,6 @@ The powerful and flexible simulation platform, developed according to open-sourc
 o²S²PARC is built upon a number of open-source resources - we can't do it all alone! If you're interested in the inner workings of o²S²PARC , take a look at our open-source repository on [Github](https://github.com/ITISFoundation/osparc-simcore). Some of the technologies that we leverage include:
 
 
-* [![celery](https://www.fullstackpython.com/img/logos/celery.png ':size=250%')](https://docs.celeryproject.org/en/stable/)  
-
 * [![dask](https://dask.org/_images/dask_horizontal_white_no_pad.svg ':size=250%')](https://dask.org/)
 
 * [![docker](https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png ':size=250%')](https://www.docker.com/)
