@@ -25,7 +25,7 @@ When you are happy with your Study and you'd like to share with all the o²S²PA
 You can import any type of file in o²S²PARC using the [**File Picker Service**](../docs/study_setup/loading_data/loading_data.md) or Drag and Drop the file directly.
 
 #### JupyterLabs
-We have services where you can use [**JupyterLab**](../docs/study_setup/JupyterLabs.md) with different kernels (e.g. Python, Octave, C++, R) and git integration. You can also customise your environment by installing custom packages.
+We have services where you can use [**JupyterLab**](../docs/study_setup/JupyterLabs.md) with different kernels (e.g. Python, Octave, C++, R, Julia) and git integration. You can also customise your environment by installing custom packages.
 
 *Hint*: for the purpose of the Codeathon, if you are developing Python (or Octave) code, the most useful service is called "JupyterLab Math (Python+Octave)"
 
