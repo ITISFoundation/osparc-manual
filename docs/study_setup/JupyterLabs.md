@@ -11,10 +11,20 @@ For a full demonstration of these functionalities, take a look at our webinar on
 This Service gives you a choice of creating notebooks with either Octave or Python. The ```Python (maths)``` kernel has preinstalled modules for mathematical modeling and data analysis (see details in [this *requirements* file](https://github.com/ITISFoundation/jupyter-math/blob/main/kernels/python-maths/requirements.txt)).
 
 ## Jupyter NEURON
-This Service is very similar to the Jupyter Math Service, but also includes NEURON-based packages by default, including NEURON, NetPyNE and Brian2, PyNN for the Python kernel. See details in [this *requirements* file](https://github.com/ITISFoundation/jupyter-neuron/blob/main/requirements.in)).
+This Service is very similar to the Jupyter Math Service, but also includes NEURON-based packages by default, including NEURON, NetPyNE and Brian2, PyNN for the Python kernel. See details in [this *requirements* file](https://github.com/ITISFoundation/jupyter-neuron/blob/main/requirements.in).
 
 ## JupyterLab Chaste
 This Service is another JupyterLab environment with C++ kernels pre-installed as well as the [Chaste](https://www.cs.ox.ac.uk/chaste/) modeling framework. The C++ kernels, contributed by [xeus-cling](https://xeus-cling.readthedocs.io/en/latest/) allows for interactive scripting with C++.
+
+## JupyterLab R
+This Service is another JupyterLab coding environment for creating interactive Jupyter Notebooks and scripts with R (or Python). Some common packages are already installed, see details in [this *requirements* file](https://github.com/ITISFoundation/jupyterlab-r/blob/main/env-config/r/requirements.txt)
+
+## JupyterLab Julia
+This Service is another JupyterLab coding environment for creating interactive Jupyter Notebooks and scripts with Julia (or Python). Some common packages are already installed, see details in [this *Project.toml* file](https://github.com/ITISFoundation/jupyterlab-julia/blob/main/env-config/julia/Project.toml)
+
+## Other JupyterLabs
+We have many more JupyterLabs available, e.g. generic ones for machine learning applications, containing PyTorch and TensorFlow, or for more specific use-cases, e.g. medical image processing. Just search for "jupyterlab" on the platform to see what is available.
+![image](https://github.com/user-attachments/assets/0fc95bff-528a-4128-a693-84e8474505d0)
 
 ## Switching Kernels within a Notebook
 You may even change the kernel of a notebook from Python to Octave or vice versa in the middle of a notebook, but note that variables are not shared across kernels. To change the kernel associated to a given notebook, double click the notebook in the file tree on the left to ensure it is being actively viewed in the main window. Then, select "Kernel" from the menu at the top of the page and choose "Change Kernel...". This will open a window with a dropdown menu containing alternative kernel options.  Note that changing the kernel within a single notebook does NOT copy the predefined variables. 
