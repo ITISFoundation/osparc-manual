@@ -2,7 +2,7 @@
 
 ![codeathon](https://images.ctfassets.net/6bya4tyw8399/2qgsOmFnm7wYIfRrPrqbgx/ae3255858aa12bfcebb52e95c7cacffe/codeathon-graphic.png)
 
-For participants of the [**FAIR Codeathon**](https://sparc.science/news-and-events/events/2023sparc-codeathon) August 10-12 2024, we have compiled the parts of the [full documentation](https://docs.osparc.io/#/) that are likely to be most useful to you. As a very brief introduction.
+For participants of the [**FAIR Codeathon**](https://sparc.science/news-and-events/events/2025-sparc-fair-codeathon) August 2-4 2025, we have compiled the parts of the [full documentation](https://docs.osparc.io/#/) that are likely to be most useful to you. As a very brief introduction.
 
 o²S²PARC is a cloud-based computational platform for running code that is contained in various modules, called [**Services**](../docs/platform_introduction/services.md) (sometimes also called "Apps"). These Services can be chained together which allows for information transfer (see [**Connecting Services**](../docs/study_setup/connecting_services.md)) from one Service to another\*. A project on **o²S²PARC**, which contains these chained pipelines is called a [**Study**](../docs/platform_introduction/studies.md).
 
